@@ -8,13 +8,23 @@ import { EditorState } from './enum/Enums';
 
 function App() {
 
+  const VERSION = "beta-1.0";
+
   const editorState = useSelector(state => state.editorState);
 
-  const checkHappy = () => {
-    if (editorState === EditorState.VALID_JSON_IMPORTED) {
-      return <h1>Save editor is happy.</h1>;
+  const getEditorState = () => {
+    switch (editorState) {
+      case EditorState.VALID_JSON_IMPORTED:
+        return <p>Valid JSON imported.</p>;
+      case EditorState.INVALID_JSON_IMPORTED:
+        return <p>Invalid JSON imported.</p>;
+      case EditorState.SAVE_READ:
+        return <p>Showing save editor.</p>;  
+      case EditorState.DEFAULT:
+        return <p>No JSON imported yet.</p>
+      default:
+        return <h1>Save editor is neutral.</h1>;
     }
-    return <h1>Save editor is sad.</h1>;
   };
 
   const saveEditor = () => {
@@ -30,7 +40,8 @@ function App() {
       <div className="App">
         <header className="App-header">
           <h1>Dragalia Lost Save Editor</h1>
-          {checkHappy()}
+          <p>{VERSION}</p>
+          {getEditorState()}
         </header>
         <FileInput />
         {saveEditor()}

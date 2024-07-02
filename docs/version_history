@@ -1,0 +1,3 @@
+# beta-1.0 (7/2/24)
+
+* Implement functional editors for `user_data, quest_wall_list, summon_ticket_list, material_list, weapon_list, ability_crest_list`.

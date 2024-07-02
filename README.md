@@ -1,8 +1,8 @@
-# React + Vite
+# React Dragalia Save Editor (Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project maintains a webapp that allows users to input a Dragalia Lost save file JSON and edit its contents.
 
-Currently, two official plugins are available:
+The React.JS is built with Vite, and uses Redux for state management of the save file and Immer to facilitate reducing Redux actions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Maintained by:
+@sockperson

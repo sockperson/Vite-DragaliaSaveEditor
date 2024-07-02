@@ -67,7 +67,7 @@ function FileInput() {
   return (
     <div>
       <form onSubmit={handleSubmit}>
-        <h1>Upload save data (.txt/.json)</h1>
+        <p>Upload save data (.txt/.json)</p>
         <input type="file" onChange={handleChange} ref={fileInputRef} />
         <button type="submit" disabled={editorState!==EditorState.VALID_JSON_IMPORTED}>Load Save</button>
       </form>
