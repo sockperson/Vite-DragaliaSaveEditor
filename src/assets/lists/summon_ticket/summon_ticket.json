@@ -1,0 +1,34 @@
+[
+    {
+        "Name": "Spring 2021 Dream Summon Voucher",
+        "Id": 10001
+    },
+    {
+        "Name": "Fall 2021 Dream Summon Voucher",
+        "Id": 10002
+    },
+    {
+        "Name": "Summon Voucher",
+        "Id": 10101
+    },
+    {
+        "Name": "Tenfold Summon Voucher",
+        "Id": 10102
+    },
+    {
+        "Name": "5★ Summon Voucher (Adventurer)",
+        "Id": 10301
+    },
+    {
+        "Name": "5★ Summon Voucher (Dragon)",
+        "Id": 10302
+    },
+    {
+        "Name": "5★ Summon Voucher+ (Adventurer)",
+        "Id": 10501
+    },
+    {
+        "Name": "5★ Summon Voucher+ (Dragon)",
+        "Id": 10502
+    }
+]

@@ -1,0 +1,3809 @@
+[
+    {
+        "Name": "A Knight's Dream (Axe's Boon)",
+        "Id": 40090007,
+        "BaseId": 400178,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Elisanne"
+        ]
+    },
+    {
+        "Name": "A Bouquet",
+        "Id": 40040077,
+        "BaseId": 400284,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Philia",
+            "Cleo"
+        ]
+    },
+    {
+        "Name": "A Brief Repose",
+        "Id": 40040049,
+        "BaseId": 400293,
+        "Rarity": 4,
+        "Availability": "Collab",
+        "FeaturedCharacters": [
+            "Notte",
+            "Veronica"
+        ]
+    },
+    {
+        "Name": "A Butler's Smile",
+        "Id": 40040105,
+        "BaseId": 400498,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Humanoid Midgardsormr",
+            "Humanoid Jupiter",
+            "Humanoid Zodiark"
+        ]
+    },
+    {
+        "Name": "A Choice Blend",
+        "Id": 40040100,
+        "BaseId": 400482,
+        "Rarity": 4,
+        "Availability": "Compendium",
+        "FeaturedCharacters": [
+            "Sandalphon",
+            "Regina"
+        ]
+    },
+    {
+        "Name": "A Day in Her Life",
+        "Id": 40050114,
+        "BaseId": 400166,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Julietta"
+        ]
+    },
+    {
+        "Name": "A Dog's Day",
+        "Id": 40050086,
+        "BaseId": 400409,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Joachim",
+            "Noelle"
+        ]
+    },
+    {
+        "Name": "A Dragonyule for Ilia",
+        "Id": 40050147,
+        "BaseId": 400487,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Ilia",
+            "Dragonyule Ilia",
+            "Meene",
+            "Mordecai"
+        ]
+    },
+    {
+        "Name": "A Game of Cat and Boar",
+        "Id": 40040067,
+        "BaseId": 400406,
+        "Rarity": 4,
+        "Availability": "Event Welfare",
+        "FeaturedCharacters": [
+            "Ebisu",
+            "Marishiten"
+        ]
+    },
+    {
+        "Name": "A Gift from an Angel",
+        "Id": 40040101,
+        "BaseId": 400488,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Ramiel",
+            "Dragonyule Nevin",
+            "Sandalphon"
+        ]
+    },
+    {
+        "Name": "A Halloween Spectacular!",
+        "Id": 40050144,
+        "BaseId": 400485,
+        "Rarity": 5,
+        "Availability": "Compendium",
+        "FeaturedCharacters": [
+            "Sylas",
+            "Halloween Sylas",
+            "Cleo",
+            "Laxi",
+            "Halloween Laxi",
+            "Mascula"
+        ]
+    },
+    {
+        "Name": "A Heartfelt Gift",
+        "Id": 40050047,
+        "BaseId": 400143,
+        "Rarity": 5,
+        "Availability": "Event Welfare",
+        "FeaturedCharacters": [
+            "Cleo",
+            "Elisanne"
+        ]
+    },
+    {
+        "Name": "A King's Pride (Staff's Boon)",
+        "Id": 40090022,
+        "BaseId": 400203,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Xander"
+        ]
+    },
+    {
+        "Name": "A King's Pride (Sword's Boon)",
+        "Id": 40090024,
+        "BaseId": 400203,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Xander"
+        ]
+    },
+    {
+        "Name": "A Maddened Master",
+        "Id": 40040050,
+        "BaseId": 400171,
+        "Rarity": 4,
+        "Availability": "Event Welfare",
+        "FeaturedCharacters": [
+            "Xuan Zang",
+            "Wu Kong"
+        ]
+    },
+    {
+        "Name": "A Man Unchanging",
+        "Id": 40050121,
+        "BaseId": 400459,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Victor",
+            "Kirsty"
+        ]
+    },
+    {
+        "Name": "A Mercenary's Pride (Eagle's Boon)",
+        "Id": 40090013,
+        "BaseId": 400179,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Ranzal"
+        ]
+    },
+    {
+        "Name": "A Mother's Love",
+        "Id": 40050054,
+        "BaseId": 400176,
+        "Rarity": 5,
+        "Availability": "Compendium",
+        "FeaturedCharacters": [
+            "Simurgh"
+        ]
+    },
+    {
+        "Name": "A New Look",
+        "Id": 40050104,
+        "BaseId": 400441,
+        "Rarity": 5,
+        "Availability": "Collab",
+        "FeaturedCharacters": [
+            "Chrom",
+            "Ranzal",
+            "Elisanne",
+            "Sharena"
+        ]
+    },
+    {
+        "Name": "A New Year's Battle",
+        "Id": 40040066,
+        "BaseId": 400408,
+        "Rarity": 4,
+        "Availability": "Limited",
+        "FeaturedCharacters": [
+            "Sylas",
+            "Kimono Luca",
+            "Laranoa",
+            "Rolf"
+        ]
+    },
+    {
+        "Name": "A Passion for Produce",
+        "Id": 40040083,
+        "BaseId": 400446,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Bellina",
+            "Su Fang",
+            "Vida",
+            "Pipple"
+        ]
+    },
+    {
+        "Name": "A Perfect Faerie Tale",
+        "Id": 40040088,
+        "BaseId": 400455,
+        "Rarity": 4,
+        "Availability": "Limited",
+        "FeaturedCharacters": [
+            "Catherine",
+            "Sandy",
+            "Becky"
+        ]
+    },
+    {
+        "Name": "A Pledge of Protection",
+        "Id": 40040074,
+        "BaseId": 400422,
+        "Rarity": 4,
+        "Availability": "Event Welfare",
+        "FeaturedCharacters": [
+            "Aldred",
+            "Andromeda",
+            "Syndicate Soldier"
+        ]
+    },
+    {
+        "Name": "A Rainy Day",
+        "Id": 40050136,
+        "BaseId": 400475,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Lathna",
+            "Lowen",
+            "Maribelle"
+        ]
+    },
+    {
+        "Name": "A Royal Tea Party",
+        "Id": 40050149,
+        "BaseId": 400494,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Leonidas",
+            "Phares",
+            "Chelle",
+            "Valyx",
+            "Emile"
+        ]
+    },
+    {
+        "Name": "A Slice of Dragonyule",
+        "Id": 40050030,
+        "BaseId": 400118,
+        "Rarity": 5,
+        "Availability": "Compendium",
+        "FeaturedCharacters": [
+            "The Prince",
+            "Dragonyule Cleo",
+            "Elisanne",
+            "Notte"
+        ]
+    },
+    {
+        "Name": "A Small Courage",
+        "Id": 40040072,
+        "BaseId": 400421,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Templar Hope",
+            "Ricardt"
+        ]
+    },
+    {
+        "Name": "A Solitary Light",
+        "Id": 40050043,
+        "BaseId": 400150,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Felicia",
+            "Phantom"
+        ]
+    },
+    {
+        "Name": "A Suit of Midnight",
+        "Id": 40050092,
+        "BaseId": 400416,
+        "Rarity": 5,
+        "Availability": "Collab",
+        "FeaturedCharacters": [
+            "High Midgardsormr",
+            "Felyne"
+        ]
+    },
+    {
+        "Name": "A Widow's Lament",
+        "Id": 40040073,
+        "BaseId": 400386,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Grace"
+        ]
+    },
+    {
+        "Name": "A Wish Upon the Yuletree",
+        "Id": 40050028,
+        "BaseId": 400091,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "The Prince",
+            "Zethia",
+            "Notte"
+        ]
+    },
+    {
+        "Name": "A Wonderful Valentine's",
+        "Id": 40050150,
+        "BaseId": 400496,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Mym",
+            "Humanoid Mercury"
+        ]
+    },
+    {
+        "Name": "Advent of the War God",
+        "Id": 40050134,
+        "BaseId": 400473,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Grimnir"
+        ]
+    },
+    {
+        "Name": "Adventure in the Past",
+        "Id": 40050145,
+        "BaseId": 400486,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Humanoid Midgardsormr",
+            "Alberius"
+        ]
+    },
+    {
+        "Name": "After an Eternity",
+        "Id": 40050059,
+        "BaseId": 400083,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Nefaria"
+        ]
+    },
+    {
+        "Name": "Alberian Banner",
+        "Id": 40030005,
+        "BaseId": 400010,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Morsayati",
+            "Alberius"
+        ]
+    },
+    {
+        "Name": "Amane's Babysitting Chronicles",
+        "Id": 40040099,
+        "BaseId": 400291,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Amane",
+            "Fydon &amp; Felyx",
+            "The Prince",
+            "Xainfried"
+        ]
+    },
+    {
+        "Name": "Amaterasu Oblation",
+        "Id": 40040092,
+        "BaseId": 400464,
+        "Rarity": 4,
+        "Availability": "Event Welfare",
+        "FeaturedCharacters": [
+            "Seimei",
+            "Yoshitsune",
+            "Gozu Tenno",
+            "Kuzunoha"
+        ]
+    },
+    {
+        "Name": "An Ancient Oath",
+        "Id": 40050073,
+        "BaseId": 400084,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Midgardsormr",
+            "Alberius"
+        ]
+    },
+    {
+        "Name": "An Indelible Date",
+        "Id": 40050049,
+        "BaseId": 400145,
+        "Rarity": 5,
+        "Availability": "Event Welfare",
+        "FeaturedCharacters": [
+            "Valentine's Ezelith"
+        ]
+    },
+    {
+        "Name": "An Undying Memory",
+        "Id": 40050155,
+        "BaseId": 400122,
+        "Rarity": 5,
+        "Availability": "Compendium",
+        "FeaturedCharacters": [
+            "Alberius",
+            "Brunhilda",
+            "Midgardsormr",
+            "Mercury",
+            "Jupiter",
+            "Zodiark"
+        ]
+    },
+    {
+        "Name": "An Unfreezing Flower (Axe's Boon)",
+        "Id": 40090023,
+        "BaseId": 400247,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Lily"
+        ]
+    },
+    {
+        "Name": "An Unfreezing Flower (Deer's Boon)",
+        "Id": 40090021,
+        "BaseId": 400247,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Lily"
+        ]
+    },
+    {
+        "Name": "Apple-licious Dreams (Butterfly's Boon)",
+        "Id": 40090025,
+        "BaseId": 400181,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Luca",
+            "Cleo"
+        ]
+    },
+    {
+        "Name": "Armorer's Aspirations",
+        "Id": 40040015,
+        "BaseId": 400047,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Malka"
+        ]
+    },
+    {
+        "Name": "Aromatherapy",
+        "Id": 40030015,
+        "BaseId": 400020,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "None"
+        ]
+    },
+    {
+        "Name": "As the Snow Falls",
+        "Id": 40040035,
+        "BaseId": 400114,
+        "Rarity": 4,
+        "Availability": "Event Welfare",
+        "FeaturedCharacters": [
+            "Elias",
+            "Pia",
+            "Mouse"
+        ]
+    },
+    {
+        "Name": "Astounding Trick",
+        "Id": 40050036,
+        "BaseId": 400131,
+        "Rarity": 5,
+        "Availability": "Compendium",
+        "FeaturedCharacters": [
+            "Ranzal",
+            "Cleo"
+        ]
+    },
+    {
+        "Name": "Auspex's Prayer",
+        "Id": 40050005,
+        "BaseId": 400066,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Zethia"
+        ]
+    },
+    {
+        "Name": "Beach Battle",
+        "Id": 40040054,
+        "BaseId": 400336,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Summer Celliera",
+            "Summer Luca"
+        ]
+    },
+    {
+        "Name": "Beautiful Gunman",
+        "Id": 40040091,
+        "BaseId": 400460,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Sharpshooter Joe"
+        ]
+    },
+    {
+        "Name": "Beautiful Nothingness",
+        "Id": 40040058,
+        "BaseId": 400381,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Void Jeanne d'Arc"
+        ]
+    },
+    {
+        "Name": "Beauty's Secret",
+        "Id": 40040030,
+        "BaseId": 400085,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Zardin",
+            "Johanna"
+        ]
+    },
+    {
+        "Name": "Bellathorna",
+        "Id": 40030004,
+        "BaseId": 400009,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "None"
+        ]
+    },
+    {
+        "Name": "Beneath the Boughs (Staff's Boon)",
+        "Id": 40090011,
+        "BaseId": 400325,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Pipple"
+        ]
+    },
+    {
+        "Name": "Beneath the Boughs (Wolf's Boon)",
+        "Id": 40090009,
+        "BaseId": 400325,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Pipple"
+        ]
+    },
+    {
+        "Name": "Berry Lovable Friends",
+        "Id": 40050094,
+        "BaseId": 400288,
+        "Rarity": 5,
+        "Availability": "Compendium",
+        "FeaturedCharacters": [
+            "Pipple",
+            "Notte"
+        ]
+    },
+    {
+        "Name": "Best Buds",
+        "Id": 40050108,
+        "BaseId": 400436,
+        "Rarity": 5,
+        "Availability": "Compendium",
+        "FeaturedCharacters": [
+            "Eugene",
+            "Sam"
+        ]
+    },
+    {
+        "Name": "Better Together",
+        "Id": 40040032,
+        "BaseId": 400102,
+        "Rarity": 4,
+        "Availability": "Event Welfare",
+        "FeaturedCharacters": [
+            "Sarisse",
+            "Melsa"
+        ]
+    },
+    {
+        "Name": "BFFs!",
+        "Id": 40040107,
+        "BaseId": 400246,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Louise",
+            "Odetta"
+        ]
+    },
+    {
+        "Name": "Blessed Days",
+        "Id": 40040087,
+        "BaseId": 400451,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Mordecai",
+            "Ilia"
+        ]
+    },
+    {
+        "Name": "Bloody Little Queen",
+        "Id": 40050133,
+        "BaseId": 400472,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Vania"
+        ]
+    },
+    {
+        "Name": "Bloom of the Battlefield",
+        "Id": 40040098,
+        "BaseId": 400480,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Cecile",
+            "Chelle",
+            "Aurelius"
+        ]
+    },
+    {
+        "Name": "Blossoms Ablaze",
+        "Id": 40030034,
+        "BaseId": 400137,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Su Fang",
+            "Ranzal",
+            "Cleo",
+            "The Prince",
+            "Luca",
+            "Notte",
+            "Elisanne"
+        ]
+    },
+    {
+        "Name": "Blossoms in a New Year's Sky",
+        "Id": 40050087,
+        "BaseId": 400431,
+        "Rarity": 5,
+        "Availability": "Event Welfare",
+        "FeaturedCharacters": [
+            "Mym",
+            "Lin You",
+            "Mao Mao"
+        ]
+    },
+    {
+        "Name": "Blossoms on the Water's Edge",
+        "Id": 40050111,
+        "BaseId": 400439,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Summer Konohana Sakuya"
+        ]
+    },
+    {
+        "Name": "Bonded by a Dream",
+        "Id": 40050141,
+        "BaseId": 400484,
+        "Rarity": 5,
+        "Availability": "Compendium",
+        "FeaturedCharacters": [
+            "Midgardsormr",
+            "Elisanne",
+            "Zethia",
+            "Cleo",
+            "Ranzal",
+            "Notte",
+            "Luca",
+            "The Prince",
+            "Chelle",
+            "Zena",
+            "Mym",
+            "Gala Prince",
+            "Laxi",
+            "Alex"
+        ]
+    },
+    {
+        "Name": "Bonds Between Worlds",
+        "Id": 40050058,
+        "BaseId": 400280,
+        "Rarity": 5,
+        "Availability": "Collab",
+        "FeaturedCharacters": [
+            "The Prince",
+            "Alfonse"
+        ]
+    },
+    {
+        "Name": "Braving the Unknown",
+        "Id": 40040010,
+        "BaseId": 400042,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Nephren"
+        ]
+    },
+    {
+        "Name": "Breakfast at Valerio's",
+        "Id": 40050095,
+        "BaseId": 400285,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Valerio"
+        ]
+    },
+    {
+        "Name": "Brothers in Arms",
+        "Id": 40050098,
+        "BaseId": 400402,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Joachim",
+            "Vice"
+        ]
+    },
+    {
+        "Name": "Caged Desire",
+        "Id": 40050126,
+        "BaseId": 400476,
+        "Rarity": 5,
+        "Availability": "Collab",
+        "FeaturedCharacters": [
+            "Joker",
+            "The Prince",
+            "Mona",
+            "Panther",
+            "Sophie (Persona)",
+            "Gala Notte",
+            "Ars\u00e8ne",
+            "Midgardsormr"
+        ]
+    },
+    {
+        "Name": "Candy Couriers",
+        "Id": 40050019,
+        "BaseId": 400135,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Zethia",
+            "Notte"
+        ]
+    },
+    {
+        "Name": "Castaway's Journal",
+        "Id": 40040007,
+        "BaseId": 400039,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Erik"
+        ]
+    },
+    {
+        "Name": "Castle Cheer Corps",
+        "Id": 40050070,
+        "BaseId": 400380,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Lea",
+            "Emma"
+        ]
+    },
+    {
+        "Name": "Catch Me in the Sunflowers",
+        "Id": 40040079,
+        "BaseId": 400438,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Botan"
+        ]
+    },
+    {
+        "Name": "Chariot Drift",
+        "Id": 40040063,
+        "BaseId": 400392,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Yuya"
+        ]
+    },
+    {
+        "Name": "Cleo's Ruse",
+        "Id": 40050013,
+        "BaseId": 400074,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Cleo",
+            "Ezelith",
+            "Xander"
+        ]
+    },
+    {
+        "Name": "Crown of Light (Serpent's Boon)",
+        "Id": 40090001,
+        "BaseId": 400177,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Alberius",
+            "The Prince"
+        ]
+    },
+    {
+        "Name": "Crown of Yore",
+        "Id": 40030024,
+        "BaseId": 400029,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "King Archeole"
+        ]
+    },
+    {
+        "Name": "Cry of the Horn",
+        "Id": 40030006,
+        "BaseId": 400011,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "None"
+        ]
+    },
+    {
+        "Name": "Crystalian Envoy",
+        "Id": 40050015,
+        "BaseId": 400076,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Lily"
+        ]
+    },
+    {
+        "Name": "Crystalline Blades (Bat's Boon)",
+        "Id": 40090026,
+        "BaseId": 400254,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Naveed"
+        ]
+    },
+    {
+        "Name": "Dance of the Twin Blossoms",
+        "Id": 40040085,
+        "BaseId": 400449,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Felicia",
+            "Hanabusa",
+            "Phantom"
+        ]
+    },
+    {
+        "Name": "Dazzling Duet!",
+        "Id": 40050097,
+        "BaseId": 400342,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Vixel",
+            "Fritz"
+        ]
+    },
+    {
+        "Name": "Dear Diary",
+        "Id": 40050076,
+        "BaseId": 400391,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Chelsea",
+            "Luca"
+        ]
+    },
+    {
+        "Name": "Delightful Dancer",
+        "Id": 40040044,
+        "BaseId": 400152,
+        "Rarity": 4,
+        "Availability": "Event Welfare",
+        "FeaturedCharacters": [
+            "Felicia"
+        ]
+    },
+    {
+        "Name": "Destiny's Hand",
+        "Id": 40040002,
+        "BaseId": 400034,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Verica"
+        ]
+    },
+    {
+        "Name": "Dragon and Tamer",
+        "Id": 40050034,
+        "BaseId": 400128,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Annelie",
+            "Liger"
+        ]
+    },
+    {
+        "Name": "Dragon Arcanum",
+        "Id": 40020003,
+        "BaseId": 400003,
+        "Rarity": 2,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "None"
+        ]
+    },
+    {
+        "Name": "Dragon Brethren",
+        "Id": 40050006,
+        "BaseId": 400067,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Valyx",
+            "Phares",
+            "Leonidas"
+        ]
+    },
+    {
+        "Name": "Dragon Dance",
+        "Id": 40040041,
+        "BaseId": 400138,
+        "Rarity": 4,
+        "Availability": "Event Welfare",
+        "FeaturedCharacters": [
+            "Peng Lai"
+        ]
+    },
+    {
+        "Name": "Dragon's Nest",
+        "Id": 40030011,
+        "BaseId": 400016,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "None"
+        ]
+    },
+    {
+        "Name": "Dragonyule Dreaming",
+        "Id": 40050124,
+        "BaseId": 400461,
+        "Rarity": 5,
+        "Availability": "Limited",
+        "FeaturedCharacters": [
+            "Mascula",
+            "Laxi",
+            "Luca"
+        ]
+    },
+    {
+        "Name": "Dueling Dancers",
+        "Id": 40040018,
+        "BaseId": 400050,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Luther",
+            "Orsem"
+        ]
+    },
+    {
+        "Name": "Egg-Shaped Dreams",
+        "Id": 40040047,
+        "BaseId": 400174,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Fleur",
+            "Sarisse"
+        ]
+    },
+    {
+        "Name": "Eight-Leaf Clover",
+        "Id": 40030016,
+        "BaseId": 400021,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "None"
+        ]
+    },
+    {
+        "Name": "Elegant Escort",
+        "Id": 40050050,
+        "BaseId": 400146,
+        "Rarity": 5,
+        "Availability": "Event Welfare",
+        "FeaturedCharacters": [
+            "Valentine's Orion"
+        ]
+    },
+    {
+        "Name": "Emissaries of the Heavens",
+        "Id": 40050142,
+        "BaseId": 400483,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Ramiel",
+            "Gabriel",
+            "Sandalphon",
+            "Uriel",
+            "Raphael",
+            "Michael"
+        ]
+    },
+    {
+        "Name": "Enchiridion",
+        "Id": 40030012,
+        "BaseId": 400017,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "None"
+        ]
+    },
+    {
+        "Name": "Endless Waltz",
+        "Id": 40050072,
+        "BaseId": 400384,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Zethia",
+            "The Prince",
+            "Luca",
+            "Ranzal",
+            "Emile",
+            "Harle",
+            "Valyx"
+        ]
+    },
+    {
+        "Name": "Enter the Blue Rose!",
+        "Id": 40040090,
+        "BaseId": 400458,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Lapis"
+        ]
+    },
+    {
+        "Name": "Entwined Flames",
+        "Id": 40040042,
+        "BaseId": 400140,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Prometheus",
+            "Mym"
+        ]
+    },
+    {
+        "Name": "Evening of Luxury",
+        "Id": 40050003,
+        "BaseId": 400064,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Chelle"
+        ]
+    },
+    {
+        "Name": "Extreme Teamwork",
+        "Id": 40050130,
+        "BaseId": 400467,
+        "Rarity": 5,
+        "Availability": "Compendium",
+        "FeaturedCharacters": [
+            "Faris",
+            "Ryszarda"
+        ]
+    },
+    {
+        "Name": "Fallen Wings",
+        "Id": 40040075,
+        "BaseId": 400430,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Azazel"
+        ]
+    },
+    {
+        "Name": "Felyne Hospitality",
+        "Id": 40050088,
+        "BaseId": 400417,
+        "Rarity": 5,
+        "Availability": "Collab",
+        "FeaturedCharacters": [
+            "Pia",
+            "Mym",
+            "Felyne"
+        ]
+    },
+    {
+        "Name": "Fireside Gathering",
+        "Id": 40040005,
+        "BaseId": 400037,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Brunhilda (Mym)",
+            "Cerberus"
+        ]
+    },
+    {
+        "Name": "First-Rate Hospitality",
+        "Id": 40040046,
+        "BaseId": 400119,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Waike",
+            "Xander",
+            "Orion"
+        ]
+    },
+    {
+        "Name": "Flash of Genius",
+        "Id": 40050002,
+        "BaseId": 400063,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Ezelith",
+            "Ranzal"
+        ]
+    },
+    {
+        "Name": "Flower in the Fray",
+        "Id": 40040001,
+        "BaseId": 400033,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Lea",
+            "Emma"
+        ]
+    },
+    {
+        "Name": "Flowers Under the Moon",
+        "Id": 40040078,
+        "BaseId": 400434,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Yachiyo",
+            "Sazanka"
+        ]
+    },
+    {
+        "Name": "Fluff Aplenty",
+        "Id": 40040064,
+        "BaseId": 400396,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Jiang Ziya",
+            "Kamuy"
+        ]
+    },
+    {
+        "Name": "Forbidden Relic",
+        "Id": 40030017,
+        "BaseId": 400022,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "None"
+        ]
+    },
+    {
+        "Name": "Forest Bonds",
+        "Id": 40050053,
+        "BaseId": 400172,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Laranoa",
+            "Rolf"
+        ]
+    },
+    {
+        "Name": "Free-Spirited Opera",
+        "Id": 40050119,
+        "BaseId": 400456,
+        "Rarity": 5,
+        "Availability": "Compendium",
+        "FeaturedCharacters": [
+            "Karina",
+            "Opera Karina"
+        ]
+    },
+    {
+        "Name": "Fresh Perspective",
+        "Id": 40040033,
+        "BaseId": 400105,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Ranzal",
+            "Lowen"
+        ]
+    },
+    {
+        "Name": "From Whence He Comes",
+        "Id": 40040062,
+        "BaseId": 400390,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Heinwald",
+            "Hastur"
+        ]
+    },
+    {
+        "Name": "Fun in the Sun",
+        "Id": 40040081,
+        "BaseId": 400443,
+        "Rarity": 4,
+        "Availability": "Event Welfare",
+        "FeaturedCharacters": [
+            "Summer Amane"
+        ]
+    },
+    {
+        "Name": "Gale of Beauty",
+        "Id": 40050022,
+        "BaseId": 400104,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Garuda"
+        ]
+    },
+    {
+        "Name": "Garuda's Feathers",
+        "Id": 40030030,
+        "BaseId": 400106,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Garuda",
+            "Lowen"
+        ]
+    },
+    {
+        "Name": "Gentle Winds",
+        "Id": 40050021,
+        "BaseId": 400103,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Louise",
+            "Lowen"
+        ]
+    },
+    {
+        "Name": "Getting Acquainted",
+        "Id": 40050154,
+        "BaseId": 400502,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Origa",
+            "Zethia",
+            "Regina",
+            "Gala Prince"
+        ]
+    },
+    {
+        "Name": "Give Me Your Wounded",
+        "Id": 40050008,
+        "BaseId": 400052,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Cleo",
+            "Serena"
+        ]
+    },
+    {
+        "Name": "Glittering Dragonyule",
+        "Id": 40040065,
+        "BaseId": 400394,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Corsaint Phoenix",
+            "Dragonyule Jeanne"
+        ]
+    },
+    {
+        "Name": "Glorious Tempest",
+        "Id": 40050011,
+        "BaseId": 400072,
+        "Rarity": 5,
+        "Availability": "Treasure Trade",
+        "FeaturedCharacters": [
+            "High Midgardsormr"
+        ]
+    },
+    {
+        "Name": "Going Undercover",
+        "Id": 40050146,
+        "BaseId": 400490,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Basileus",
+            "Michael"
+        ]
+    },
+    {
+        "Name": "Greatwyrm Brunhilda",
+        "Id": 40040025,
+        "BaseId": 400057,
+        "Rarity": 4,
+        "Availability": "Treasure Trade",
+        "FeaturedCharacters": [
+            "Brunhilda"
+        ]
+    },
+    {
+        "Name": "Greatwyrm Jupiter",
+        "Id": 40040026,
+        "BaseId": 400058,
+        "Rarity": 4,
+        "Availability": "Treasure Trade",
+        "FeaturedCharacters": [
+            "Jupiter"
+        ]
+    },
+    {
+        "Name": "Greatwyrm Mercury",
+        "Id": 40040024,
+        "BaseId": 400056,
+        "Rarity": 4,
+        "Availability": "Treasure Trade",
+        "FeaturedCharacters": [
+            "Mercury"
+        ]
+    },
+    {
+        "Name": "Greatwyrm Midgardsormr",
+        "Id": 40040023,
+        "BaseId": 400055,
+        "Rarity": 4,
+        "Availability": "Treasure Trade",
+        "FeaturedCharacters": [
+            "Midgardsormr"
+        ]
+    },
+    {
+        "Name": "Greatwyrm Zodiark",
+        "Id": 40040027,
+        "BaseId": 400059,
+        "Rarity": 4,
+        "Availability": "Treasure Trade",
+        "FeaturedCharacters": [
+            "Zodiark"
+        ]
+    },
+    {
+        "Name": "Guardian of the Bond",
+        "Id": 40050117,
+        "BaseId": 400452,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Midgardsormr Zero"
+        ]
+    },
+    {
+        "Name": "Halidom Grooms",
+        "Id": 40040051,
+        "BaseId": 400282,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "The Prince",
+            "Luca",
+            "Ranzal"
+        ]
+    },
+    {
+        "Name": "Hallowed Mountains",
+        "Id": 40030009,
+        "BaseId": 400014,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Lin You",
+            "Long Long",
+            "Mao Mao"
+        ]
+    },
+    {
+        "Name": "Halo",
+        "Id": 40030002,
+        "BaseId": 400007,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "None"
+        ]
+    },
+    {
+        "Name": "Hand in Hand",
+        "Id": 40040106,
+        "BaseId": 400499,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Edward",
+            "Melody"
+        ]
+    },
+    {
+        "Name": "Hanetsuki Rally",
+        "Id": 40040037,
+        "BaseId": 400126,
+        "Rarity": 4,
+        "Availability": "Limited",
+        "FeaturedCharacters": [
+            "The Prince",
+            "Kimono Luca"
+        ]
+    },
+    {
+        "Name": "Happier Times",
+        "Id": 40040020,
+        "BaseId": 400069,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "The Prince",
+            "Zethia",
+            "Notte"
+        ]
+    },
+    {
+        "Name": "Happy New Year!",
+        "Id": 40050032,
+        "BaseId": 400124,
+        "Rarity": 5,
+        "Availability": "Limited",
+        "FeaturedCharacters": [
+            "The Prince",
+            "Zethia",
+            "Midgardsormr",
+            "Ranzal",
+            "Kimono Notte",
+            "Kimono Luca",
+            "Kimono Elisanne",
+            "Cleo"
+        ]
+    },
+    {
+        "Name": "Happy Times",
+        "Id": 40040076,
+        "BaseId": 400432,
+        "Rarity": 4,
+        "Availability": "Event Welfare",
+        "FeaturedCharacters": [
+            "Wu Kong",
+            "Mei Hou Wang"
+        ]
+    },
+    {
+        "Name": "Hastened Squall",
+        "Id": 40040057,
+        "BaseId": 400379,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Vayu"
+        ]
+    },
+    {
+        "Name": "Having a Summer Ball",
+        "Id": 40040097,
+        "BaseId": 400477,
+        "Rarity": 4,
+        "Availability": "Compendium",
+        "FeaturedCharacters": [
+            "Summer Alex",
+            "Summer Mym",
+            "Elisanne"
+        ]
+    },
+    {
+        "Name": "Heavenly Holiday",
+        "Id": 40050027,
+        "BaseId": 400111,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Hildegarde",
+            "Cibella"
+        ]
+    },
+    {
+        "Name": "Her Beloved (Crown's Boon)",
+        "Id": 40090005,
+        "BaseId": 400236,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Nefaria"
+        ]
+    },
+    {
+        "Name": "Her Beloved (Sword's Boon)",
+        "Id": 40090003,
+        "BaseId": 400236,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Nefaria"
+        ]
+    },
+    {
+        "Name": "Heralds of Hinomoto",
+        "Id": 40050033,
+        "BaseId": 400125,
+        "Rarity": 5,
+        "Availability": "Limited",
+        "FeaturedCharacters": [
+            "Ieyasu",
+            "Sazanka",
+            "Addis",
+            "Marishiten"
+        ]
+    },
+    {
+        "Name": "Here Come the Sealers!",
+        "Id": 40050106,
+        "BaseId": 400433,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Radiant Xuan Zang",
+            "Wu Kong",
+            "Zhu Bajie",
+            "Sha Wujing"
+        ]
+    },
+    {
+        "Name": "His Clever Brother",
+        "Id": 40040048,
+        "BaseId": 400169,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Emile",
+            "The Prince"
+        ]
+    },
+    {
+        "Name": "Hitting the Books",
+        "Id": 40050046,
+        "BaseId": 400157,
+        "Rarity": 5,
+        "Availability": "Compendium",
+        "FeaturedCharacters": [
+            "Mym",
+            "The Prince",
+            "Notte"
+        ]
+    },
+    {
+        "Name": "Holywyrm's Advent",
+        "Id": 40050131,
+        "BaseId": 400079,
+        "Rarity": 5,
+        "Availability": "Event Welfare",
+        "FeaturedCharacters": [
+            "Elysium"
+        ]
+    },
+    {
+        "Name": "Honest Repose",
+        "Id": 40050052,
+        "BaseId": 400148,
+        "Rarity": 5,
+        "Availability": "Event Welfare",
+        "FeaturedCharacters": [
+            "Prometheus"
+        ]
+    },
+    {
+        "Name": "Hospitality &amp; Harmony",
+        "Id": 40050151,
+        "BaseId": 400497,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Lucretia",
+            "Vixel",
+            "Housekeeper Pia",
+            "Elias",
+            "Maritimus"
+        ]
+    },
+    {
+        "Name": "How to Flee Properly",
+        "Id": 40040012,
+        "BaseId": 400044,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Alain"
+        ]
+    },
+    {
+        "Name": "Howling Predator",
+        "Id": 40030007,
+        "BaseId": 400012,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "None"
+        ]
+    },
+    {
+        "Name": "Howling to the Heavens",
+        "Id": 40050083,
+        "BaseId": 400395,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Durant"
+        ]
+    },
+    {
+        "Name": "Humanity's Companions",
+        "Id": 40040093,
+        "BaseId": 400470,
+        "Rarity": 4,
+        "Availability": "Collab",
+        "FeaturedCharacters": [
+            "Sophie (Persona)",
+            "Laxi",
+            "Squirrel"
+        ]
+    },
+    {
+        "Name": "In an Unending World",
+        "Id": 40050074,
+        "BaseId": 400411,
+        "Rarity": 5,
+        "Availability": "Promo",
+        "FeaturedCharacters": [
+            "DAOKO"
+        ]
+    },
+    {
+        "Name": "In the Limelight",
+        "Id": 40050139,
+        "BaseId": 400405,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Yaten",
+            "Ieyasu"
+        ]
+    },
+    {
+        "Name": "Indelible Summer",
+        "Id": 40050062,
+        "BaseId": 400334,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Yukata Cleo"
+        ]
+    },
+    {
+        "Name": "Initio's Sentinel",
+        "Id": 40050135,
+        "BaseId": 400474,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Isaac"
+        ]
+    },
+    {
+        "Name": "Ironside Shield",
+        "Id": 40030013,
+        "BaseId": 400018,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "None"
+        ]
+    },
+    {
+        "Name": "Jewels of the Sun",
+        "Id": 40050020,
+        "BaseId": 400099,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Verica",
+            "Naveed"
+        ]
+    },
+    {
+        "Name": "Kicking Back",
+        "Id": 40040034,
+        "BaseId": 400112,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Luca",
+            "Sarisse"
+        ]
+    },
+    {
+        "Name": "King of the Skies",
+        "Id": 40050065,
+        "BaseId": 400158,
+        "Rarity": 5,
+        "Availability": "Treasure Trade",
+        "FeaturedCharacters": [
+            "High Jupiter"
+        ]
+    },
+    {
+        "Name": "King's Countenance",
+        "Id": 40040009,
+        "BaseId": 400041,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Aurelius"
+        ]
+    },
+    {
+        "Name": "Kung Fu Masters",
+        "Id": 40050038,
+        "BaseId": 400163,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Lin You",
+            "Long Long",
+            "Mao Mao"
+        ]
+    },
+    {
+        "Name": "Kunoichi Charisma",
+        "Id": 40040096,
+        "BaseId": 400164,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Aoi"
+        ]
+    },
+    {
+        "Name": "Lakeside Euphony",
+        "Id": 40030010,
+        "BaseId": 400015,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "None"
+        ]
+    },
+    {
+        "Name": "Levin's Champion",
+        "Id": 40050009,
+        "BaseId": 400070,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Albert"
+        ]
+    },
+    {
+        "Name": "Liber Grimortis",
+        "Id": 40030019,
+        "BaseId": 400024,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Kleimann",
+            "Lathna",
+            "Akasha"
+        ]
+    },
+    {
+        "Name": "Lord of the Skies",
+        "Id": 40040008,
+        "BaseId": 400040,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Forte",
+            "Spellwyrm"
+        ]
+    },
+    {
+        "Name": "Louise's Hobbies",
+        "Id": 40050023,
+        "BaseId": 400107,
+        "Rarity": 5,
+        "Availability": "Compendium",
+        "FeaturedCharacters": [
+            "Louise",
+            "Lowen",
+            "Cleo",
+            "Elisanne"
+        ]
+    },
+    {
+        "Name": "Luca's Prank",
+        "Id": 40050007,
+        "BaseId": 400068,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Luca",
+            "Eleonora"
+        ]
+    },
+    {
+        "Name": "Luck of the Draw",
+        "Id": 40040038,
+        "BaseId": 400127,
+        "Rarity": 4,
+        "Availability": "Event Welfare",
+        "FeaturedCharacters": [
+            "Kimono Elisanne",
+            "Mym",
+            "Botan"
+        ]
+    },
+    {
+        "Name": "Lunar Festivities",
+        "Id": 40040040,
+        "BaseId": 400136,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Elisanne",
+            "The Prince",
+            "Notte"
+        ]
+    },
+    {
+        "Name": "Mana Fount",
+        "Id": 40020004,
+        "BaseId": 400004,
+        "Rarity": 2,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "None"
+        ]
+    },
+    {
+        "Name": "Mask of Determination (Bow's Boon)",
+        "Id": 40090006,
+        "BaseId": 400362,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Zena"
+        ]
+    },
+    {
+        "Name": "Mask of Determination (Lance's Boon)",
+        "Id": 40090004,
+        "BaseId": 400362,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Zena"
+        ]
+    },
+    {
+        "Name": "Masquerade Mission",
+        "Id": 40040060,
+        "BaseId": 400388,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Waike",
+            "Erik",
+            "Alex"
+        ]
+    },
+    {
+        "Name": "Me and My Bestie!",
+        "Id": 40050107,
+        "BaseId": 400435,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Nadine",
+            "Nefaria"
+        ]
+    },
+    {
+        "Name": "Meanwhile, in Landosol...",
+        "Id": 40050123,
+        "BaseId": 400463,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Pipple",
+            " Kokkoro",
+            " Karyl",
+            "Pecorine"
+        ]
+    },
+    {
+        "Name": "Mega Friends",
+        "Id": 40050082,
+        "BaseId": 400397,
+        "Rarity": 5,
+        "Availability": "Collab",
+        "FeaturedCharacters": [
+            "The Prince",
+            "Mega Man"
+        ]
+    },
+    {
+        "Name": "Memories of Summer's Dusk",
+        "Id": 40050112,
+        "BaseId": 400445,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Yukata Lathna",
+            "Heinwald",
+            "Yukata Curran"
+        ]
+    },
+    {
+        "Name": "Memories of Youth",
+        "Id": 40050102,
+        "BaseId": 400237,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Leonidas",
+            "Valyx",
+            "Emile",
+            "Phares",
+            "Chelle"
+        ]
+    },
+    {
+        "Name": "Memory of a Friend",
+        "Id": 40050105,
+        "BaseId": 400429,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Yurius",
+            "Albert"
+        ]
+    },
+    {
+        "Name": "Moonlight Party",
+        "Id": 40050115,
+        "BaseId": 400448,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Linnea",
+            "Laranoa",
+            "Linus"
+        ]
+    },
+    {
+        "Name": "Nevermelt Ice",
+        "Id": 40030026,
+        "BaseId": 400031,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Troy"
+        ]
+    },
+    {
+        "Name": "New World Escort",
+        "Id": 40040043,
+        "BaseId": 400093,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Odetta",
+            "Orion"
+        ]
+    },
+    {
+        "Name": "Night Harbinger",
+        "Id": 40030020,
+        "BaseId": 400025,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Hawk",
+            "Duskhawk"
+        ]
+    },
+    {
+        "Name": "Nightstalker",
+        "Id": 40050010,
+        "BaseId": 400071,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Hawk",
+            "Duskhawk"
+        ]
+    },
+    {
+        "Name": "Odd Sparrows",
+        "Id": 40040059,
+        "BaseId": 400385,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Patia",
+            "Leif"
+        ]
+    },
+    {
+        "Name": "Of Tricks and Treats",
+        "Id": 40050017,
+        "BaseId": 400078,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Luca",
+            "Ranzal"
+        ]
+    },
+    {
+        "Name": "Old Harp",
+        "Id": 40020005,
+        "BaseId": 400005,
+        "Rarity": 2,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "None"
+        ]
+    },
+    {
+        "Name": "Once in a Lifetime",
+        "Id": 40050109,
+        "BaseId": 400437,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Natalie",
+            "Yaten"
+        ]
+    },
+    {
+        "Name": "One with the Shadows",
+        "Id": 40040013,
+        "BaseId": 400045,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Jurota"
+        ]
+    },
+    {
+        "Name": "One-Winged Journey",
+        "Id": 40050140,
+        "BaseId": 400481,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Nino",
+            "Meene",
+            "Elisanne",
+            "Francesca",
+            "Odetta",
+            "Tobias"
+        ]
+    },
+    {
+        "Name": "Paladyn Defender",
+        "Id": 40040021,
+        "BaseId": 400053,
+        "Rarity": 4,
+        "Availability": "Event Welfare",
+        "FeaturedCharacters": [
+            "Elisanne",
+            "Cibella"
+        ]
+    },
+    {
+        "Name": "Partners in Truth",
+        "Id": 40050044,
+        "BaseId": 400153,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Curran",
+            "Heinwald"
+        ]
+    },
+    {
+        "Name": "Passion Inherited",
+        "Id": 40040103,
+        "BaseId": 400492,
+        "Rarity": 4,
+        "Availability": "Event Welfare",
+        "FeaturedCharacters": [
+            "Yukimura",
+            "Shingen"
+        ]
+    },
+    {
+        "Name": "Peaceful Waterfront",
+        "Id": 40050156,
+        "BaseId": 400134,
+        "Rarity": 5,
+        "Availability": "Compendium",
+        "FeaturedCharacters": [
+            "The Prince",
+            "Notte",
+            "Mercury"
+        ]
+    },
+    {
+        "Name": "Pecorine's Grand Adventure",
+        "Id": 40050122,
+        "BaseId": 400462,
+        "Rarity": 5,
+        "Availability": "Event Welfare",
+        "FeaturedCharacters": [
+            "Pecorine",
+            "Simurgh",
+            "Mitsuba",
+            "Valerio"
+        ]
+    },
+    {
+        "Name": "Pipe Down",
+        "Id": 40040022,
+        "BaseId": 400054,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Edward",
+            "Hope",
+            "Ricardt"
+        ]
+    },
+    {
+        "Name": "Plunder Pals",
+        "Id": 40050018,
+        "BaseId": 400087,
+        "Rarity": 5,
+        "Availability": "Compendium",
+        "FeaturedCharacters": [
+            "Karina",
+            "Maribelle",
+            "Notte"
+        ]
+    },
+    {
+        "Name": "Potiongrass",
+        "Id": 40030023,
+        "BaseId": 400028,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "None"
+        ]
+    },
+    {
+        "Name": "Prayers Unto Him",
+        "Id": 40050075,
+        "BaseId": 400389,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Lathna",
+            "Akasha"
+        ]
+    },
+    {
+        "Name": "Preacher's Vacation",
+        "Id": 40040055,
+        "BaseId": 400337,
+        "Rarity": 4,
+        "Availability": "Event Welfare",
+        "FeaturedCharacters": [
+            "Summer Estelle"
+        ]
+    },
+    {
+        "Name": "Primal Crisis",
+        "Id": 40050090,
+        "BaseId": 400424,
+        "Rarity": 5,
+        "Availability": "Collab",
+        "FeaturedCharacters": [
+            "Hunter Berserker",
+            "Hunter Vanessa",
+            "Hunter Sarisse",
+            "Rathalos",
+            "The Prince"
+        ]
+    },
+    {
+        "Name": "Promised Piety (Bow's Boon)",
+        "Id": 40090016,
+        "BaseId": 400226,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Hildegarde"
+        ]
+    },
+    {
+        "Name": "Promised Piety (Staff's Boon)",
+        "Id": 40090018,
+        "BaseId": 400226,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Hildegarde"
+        ]
+    },
+    {
+        "Name": "Promises in the Rain",
+        "Id": 40040004,
+        "BaseId": 400036,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Xainfried",
+            "Fydon &amp; Felyx"
+        ]
+    },
+    {
+        "Name": "Proper Maintenance",
+        "Id": 40050100,
+        "BaseId": 400423,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Lazry",
+            "Laxi",
+            "Arctos",
+            "Gaibhne &amp; Creidhne"
+        ]
+    },
+    {
+        "Name": "Pumpkin Pail",
+        "Id": 40030027,
+        "BaseId": 400032,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Ranzal",
+            "Cleo"
+        ]
+    },
+    {
+        "Name": "Queen of the Blue Seas",
+        "Id": 40050056,
+        "BaseId": 400108,
+        "Rarity": 5,
+        "Availability": "Treasure Trade",
+        "FeaturedCharacters": [
+            "High Mercury"
+        ]
+    },
+    {
+        "Name": "Ravenous Fire (Crown's Boon)",
+        "Id": 40090029,
+        "BaseId": 400191,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Mikoto"
+        ]
+    },
+    {
+        "Name": "Ravenous Fire (Deer's Boon)",
+        "Id": 40090027,
+        "BaseId": 400191,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Mikoto"
+        ]
+    },
+    {
+        "Name": "Recital Invitation (Bull's Boon)",
+        "Id": 40090014,
+        "BaseId": 400261,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Lucretia"
+        ]
+    },
+    {
+        "Name": "Resounding Rendition",
+        "Id": 40050026,
+        "BaseId": 400110,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Lucretia",
+            "Vixel"
+        ]
+    },
+    {
+        "Name": "Revolutionary Magic",
+        "Id": 40040016,
+        "BaseId": 400048,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Althemia"
+        ]
+    },
+    {
+        "Name": "Ring of Exaltation",
+        "Id": 40020001,
+        "BaseId": 400001,
+        "Rarity": 2,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "None"
+        ]
+    },
+    {
+        "Name": "Rivalry of Kings",
+        "Id": 40050129,
+        "BaseId": 400403,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Leonidas",
+            "Xander"
+        ]
+    },
+    {
+        "Name": "Roast Feast",
+        "Id": 40030032,
+        "BaseId": 400117,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "None"
+        ]
+    },
+    {
+        "Name": "Rogues' Banquet",
+        "Id": 40040089,
+        "BaseId": 400132,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Bandit",
+            "Mercenary",
+            "Thief"
+        ]
+    },
+    {
+        "Name": "Roll On",
+        "Id": 40050081,
+        "BaseId": 400412,
+        "Rarity": 5,
+        "Availability": "Collab",
+        "FeaturedCharacters": [
+            "Roll",
+            "Mega Man",
+            " Rush",
+            " Dr. Light"
+        ]
+    },
+    {
+        "Name": "Ruler of Darkness",
+        "Id": 40050071,
+        "BaseId": 400382,
+        "Rarity": 5,
+        "Availability": "Treasure Trade",
+        "FeaturedCharacters": [
+            "High Zodiark"
+        ]
+    },
+    {
+        "Name": "Saint Starfall's Circus",
+        "Id": 40040102,
+        "BaseId": 400489,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Annelie",
+            "Fritz"
+        ]
+    },
+    {
+        "Name": "Saintly Delivery",
+        "Id": 40040036,
+        "BaseId": 400116,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Maribelle",
+            "Lily",
+            "Lowen"
+        ]
+    },
+    {
+        "Name": "Samurai Siesta",
+        "Id": 40040031,
+        "BaseId": 400100,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Taro",
+            "Mikoto",
+            "Musashi"
+        ]
+    },
+    {
+        "Name": "Savage Hawk (Bow's Boon)",
+        "Id": 40090010,
+        "BaseId": 400214,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Hawk"
+        ]
+    },
+    {
+        "Name": "Savage Hawk (Lance's Boon)",
+        "Id": 40090012,
+        "BaseId": 400214,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Hawk"
+        ]
+    },
+    {
+        "Name": "Scorn the Destrier",
+        "Id": 40030001,
+        "BaseId": 400006,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Scorn",
+            "Dane"
+        ]
+    },
+    {
+        "Name": "Seafood Soup",
+        "Id": 40020002,
+        "BaseId": 400002,
+        "Rarity": 2,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "None"
+        ]
+    },
+    {
+        "Name": "Seaside Memory",
+        "Id": 40040082,
+        "BaseId": 400444,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Summer Norwin"
+        ]
+    },
+    {
+        "Name": "Seaside Princess",
+        "Id": 40050067,
+        "BaseId": 400338,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Chelle"
+        ]
+    },
+    {
+        "Name": "Second Anniversary",
+        "Id": 40050116,
+        "BaseId": 400450,
+        "Rarity": 5,
+        "Availability": "Event Welfare",
+        "FeaturedCharacters": [
+            "Zethia",
+            "Notte",
+            "The Prince",
+            "Midgardsormr",
+            "Chelsea",
+            "Luca",
+            "Eugene",
+            "Sam",
+            "Catherine",
+            "Andromeda",
+            "Aldred",
+            "Ramiel",
+            "Nevin",
+            "Pinon",
+            "Sandalphon",
+            "Wu Kong",
+            "Mei Hou Wang",
+            "Sha Wujing",
+            "Zhu Bajie",
+            "AC-011 Garland",
+            "Joachim",
+            "Kirsty",
+            "Victor",
+            "Noelle",
+            "Valerio",
+            "Pipple",
+            "Nimis",
+            "Mitsuba",
+            "Linnea",
+            "Nadine",
+            "Gauld",
+            "Lazry",
+            "Cassandra",
+            "Parallel Zodiark",
+            "Audric",
+            "Delphi",
+            "Daikokuten",
+            "Ebisu",
+            "Hanabusa",
+            "Chitose",
+            "Nobunaga",
+            "Mitsuhide"
+        ]
+    },
+    {
+        "Name": "Secret Friend",
+        "Id": 40030031,
+        "BaseId": 400113,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Elisanne (speaker)",
+            "Matilda"
+        ]
+    },
+    {
+        "Name": "Secret Nightmare",
+        "Id": 40050118,
+        "BaseId": 400454,
+        "Rarity": 5,
+        "Availability": "Limited",
+        "FeaturedCharacters": [
+            "Shion",
+            "Delphi"
+        ]
+    },
+    {
+        "Name": "Showtime!",
+        "Id": 40050127,
+        "BaseId": 400469,
+        "Rarity": 5,
+        "Availability": "Collab",
+        "FeaturedCharacters": [
+            "Joker",
+            "The Prince",
+            "Ars\u00e8ne",
+            "Midgardsormr"
+        ]
+    },
+    {
+        "Name": "Silke Lends a Hand",
+        "Id": 40040029,
+        "BaseId": 400061,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Halloween Silke"
+        ]
+    },
+    {
+        "Name": "Sisters of the Anvil",
+        "Id": 40040017,
+        "BaseId": 400049,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Rena",
+            "Ramona",
+            "Renee"
+        ]
+    },
+    {
+        "Name": "Sisters' Day Out",
+        "Id": 40050063,
+        "BaseId": 400243,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Ramona",
+            "Rena",
+            "Renee"
+        ]
+    },
+    {
+        "Name": "Slow and Steady",
+        "Id": 40040039,
+        "BaseId": 400090,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Annelie",
+            "The Prince"
+        ]
+    },
+    {
+        "Name": "Sniper's Allure",
+        "Id": 40040003,
+        "BaseId": 400035,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Malora"
+        ]
+    },
+    {
+        "Name": "Soaring Hope",
+        "Id": 40050157,
+        "BaseId": 400159,
+        "Rarity": 5,
+        "Availability": "Compendium",
+        "FeaturedCharacters": [
+            "The Prince",
+            "Jupiter"
+        ]
+    },
+    {
+        "Name": "Soaring Terror",
+        "Id": 40040069,
+        "BaseId": 400415,
+        "Rarity": 4,
+        "Availability": "Collab",
+        "FeaturedCharacters": [
+            "Rathalos"
+        ]
+    },
+    {
+        "Name": "Spirit of the Season",
+        "Id": 40050084,
+        "BaseId": 400393,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Francesca",
+            "Xiao Lei",
+            "Xainfried"
+        ]
+    },
+    {
+        "Name": "Springtime Breeze",
+        "Id": 40050132,
+        "BaseId": 400468,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Aeleen",
+            "Sophie"
+        ]
+    },
+    {
+        "Name": "Stellar Show",
+        "Id": 40050035,
+        "BaseId": 400129,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Fritz"
+        ]
+    },
+    {
+        "Name": "Study Rabbits",
+        "Id": 40050060,
+        "BaseId": 400168,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Student Maribelle"
+        ]
+    },
+    {
+        "Name": "Such High Spirits!",
+        "Id": 40040080,
+        "BaseId": 400440,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Maritimus",
+            "Ebisu",
+            "Sunrise Snapper (NPC)"
+        ]
+    },
+    {
+        "Name": "Summer Paladyns",
+        "Id": 40050066,
+        "BaseId": 400098,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Summer Julietta",
+            "Elisanne"
+        ]
+    },
+    {
+        "Name": "Summertime, Feeling Feline",
+        "Id": 40050110,
+        "BaseId": 400442,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Summer Mikoto"
+        ]
+    },
+    {
+        "Name": "Super Soaking Androids",
+        "Id": 40050137,
+        "BaseId": 400478,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Eirene",
+            "Finni",
+            "Summer Ranzal",
+            "Laxi"
+        ]
+    },
+    {
+        "Name": "Superior Summer",
+        "Id": 40050138,
+        "BaseId": 400479,
+        "Rarity": 5,
+        "Availability": "Event Welfare",
+        "FeaturedCharacters": [
+            "Summer Leonidas",
+            "Summer Chelle"
+        ]
+    },
+    {
+        "Name": "Surfing Siblings",
+        "Id": 40050068,
+        "BaseId": 400340,
+        "Rarity": 5,
+        "Availability": "Compendium",
+        "FeaturedCharacters": [
+            "Luca",
+            "Sarisse"
+        ]
+    },
+    {
+        "Name": "Sweet Surprise",
+        "Id": 40050128,
+        "BaseId": 400466,
+        "Rarity": 5,
+        "Availability": "Limited",
+        "FeaturedCharacters": [
+            "Lumi\u00e8re Pandora",
+            "Phoenix"
+        ]
+    },
+    {
+        "Name": "Syndicate Mask",
+        "Id": 40030008,
+        "BaseId": 400013,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Aldred"
+        ]
+    },
+    {
+        "Name": "Taiko Tandem",
+        "Id": 40040052,
+        "BaseId": 400335,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Ranzal",
+            "Luca"
+        ]
+    },
+    {
+        "Name": "Take My Hand",
+        "Id": 40050051,
+        "BaseId": 400147,
+        "Rarity": 5,
+        "Availability": "Event Welfare",
+        "FeaturedCharacters": [
+            "Valentine's Hildegarde"
+        ]
+    },
+    {
+        "Name": "Teatime",
+        "Id": 40030003,
+        "BaseId": 400008,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "None"
+        ]
+    },
+    {
+        "Name": "Testament of Eternity (Fish's Boon)",
+        "Id": 40090019,
+        "BaseId": 400180,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Cleo",
+            "Alberius",
+            "The Prince"
+        ]
+    },
+    {
+        "Name": "The Bewitching Magician",
+        "Id": 40040061,
+        "BaseId": 400387,
+        "Rarity": 4,
+        "Availability": "Event Welfare",
+        "FeaturedCharacters": [
+            "Cassandra",
+            "Douleur"
+        ]
+    },
+    {
+        "Name": "The Bridal Dragon",
+        "Id": 40050061,
+        "BaseId": 400096,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Mym"
+        ]
+    },
+    {
+        "Name": "The Bustling Hut",
+        "Id": 40040056,
+        "BaseId": 400339,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "The Prince",
+            "Nina"
+        ]
+    },
+    {
+        "Name": "The Chocolatiers",
+        "Id": 40050039,
+        "BaseId": 400092,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Lily",
+            "Cleo",
+            "Maribelle",
+            "Yue"
+        ]
+    },
+    {
+        "Name": "The Cutie Competition",
+        "Id": 40050125,
+        "BaseId": 400465,
+        "Rarity": 5,
+        "Availability": "Limited",
+        "FeaturedCharacters": [
+            "Irfan",
+            "Aurien",
+            "Chitose",
+            "The Prince",
+            "Ranzal",
+            "Kimono Notte",
+            "Kimono Luca",
+            "Kimono Elisanne",
+            "Cleo"
+        ]
+    },
+    {
+        "Name": "The Davian Wetlands",
+        "Id": 40030036,
+        "BaseId": 400151,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "None"
+        ]
+    },
+    {
+        "Name": "The Dragon Smiths",
+        "Id": 40050064,
+        "BaseId": 400245,
+        "Rarity": 5,
+        "Availability": "Compendium",
+        "FeaturedCharacters": [
+            "Mym",
+            "Arctos"
+        ]
+    },
+    {
+        "Name": "The Fires of Hate",
+        "Id": 40050093,
+        "BaseId": 400413,
+        "Rarity": 5,
+        "Availability": "Limited",
+        "FeaturedCharacters": [
+            "Epimetheus",
+            "Prometheus"
+        ]
+    },
+    {
+        "Name": "The Fleeting Girl",
+        "Id": 40050045,
+        "BaseId": 400154,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Lathna",
+            "Curran",
+            "Nyarlathotep"
+        ]
+    },
+    {
+        "Name": "The Floofiest Bed",
+        "Id": 40040095,
+        "BaseId": 400161,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Elisanne"
+        ]
+    },
+    {
+        "Name": "The Genius Tactician (Bow's Boon)",
+        "Id": 40090028,
+        "BaseId": 400192,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Ezelith",
+            "Ranzal"
+        ]
+    },
+    {
+        "Name": "The Genius Tactician (Spider's Boon)",
+        "Id": 40090030,
+        "BaseId": 400192,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Ezelith",
+            "Ranzal"
+        ]
+    },
+    {
+        "Name": "The Greatest Gift",
+        "Id": 40050031,
+        "BaseId": 400123,
+        "Rarity": 5,
+        "Availability": "Compendium",
+        "FeaturedCharacters": [
+            "The Prince",
+            "Dragonyule Cleo",
+            "Dragonyule Xander",
+            "Dragonyule Nefaria"
+        ]
+    },
+    {
+        "Name": "The Halidom's Picnic",
+        "Id": 40030029,
+        "BaseId": 400101,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Cleo",
+            "Ranzal",
+            "Elisanne",
+            "Luca",
+            "The Prince",
+            "Midgardsormr (rice ball)",
+            "Notte (rice ball)"
+        ]
+    },
+    {
+        "Name": "The Heretic's Laboratory",
+        "Id": 40030037,
+        "BaseId": 400156,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Heinwald"
+        ]
+    },
+    {
+        "Name": "The Heroes Arrive",
+        "Id": 40050057,
+        "BaseId": 400277,
+        "Rarity": 5,
+        "Availability": "Collab",
+        "FeaturedCharacters": [
+            "Alfonse",
+            "Fjorm"
+        ]
+    },
+    {
+        "Name": "The Ilian Faithful",
+        "Id": 40050096,
+        "BaseId": 400420,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Curran",
+            "Tobias",
+            "Hildegarde"
+        ]
+    },
+    {
+        "Name": "The Lurker in the Woods",
+        "Id": 40050091,
+        "BaseId": 400418,
+        "Rarity": 5,
+        "Availability": "Collab",
+        "FeaturedCharacters": [
+            "Lin You",
+            "Mao Mao",
+            "Laxi"
+        ]
+    },
+    {
+        "Name": "The Maid Crusade",
+        "Id": 40040070,
+        "BaseId": 400414,
+        "Rarity": 4,
+        "Availability": "Limited",
+        "FeaturedCharacters": [
+            "None"
+        ]
+    },
+    {
+        "Name": "The Nobles' Day Off",
+        "Id": 40040104,
+        "BaseId": 400495,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Valyx",
+            "Chelle",
+            "Malora",
+            "Leif"
+        ]
+    },
+    {
+        "Name": "The Order's Messenger Owl",
+        "Id": 40030039,
+        "BaseId": 400279,
+        "Rarity": 3,
+        "Availability": "Collab",
+        "FeaturedCharacters": [
+            "Feh",
+            "Alfonse"
+        ]
+    },
+    {
+        "Name": "The Petal Queen",
+        "Id": 40050041,
+        "BaseId": 400142,
+        "Rarity": 5,
+        "Availability": "Event Welfare",
+        "FeaturedCharacters": [
+            "Notte",
+            "Midgardsormr"
+        ]
+    },
+    {
+        "Name": "The Plaguebringer",
+        "Id": 40040068,
+        "BaseId": 400410,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Volk"
+        ]
+    },
+    {
+        "Name": "The Prince of Dragonyule",
+        "Id": 40050029,
+        "BaseId": 400115,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "The Prince",
+            "Cleo"
+        ]
+    },
+    {
+        "Name": "The Queen of the Knife",
+        "Id": 40040071,
+        "BaseId": 400286,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Mitsuba",
+            "Melody"
+        ]
+    },
+    {
+        "Name": "The Red Impulse",
+        "Id": 40050101,
+        "BaseId": 400088,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Mym"
+        ]
+    },
+    {
+        "Name": "The Rose Prince",
+        "Id": 40050040,
+        "BaseId": 400139,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Leif"
+        ]
+    },
+    {
+        "Name": "The Shining Overlord",
+        "Id": 40050042,
+        "BaseId": 400167,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Gilgamesh"
+        ]
+    },
+    {
+        "Name": "The Synthetic Dragon",
+        "Id": 40050099,
+        "BaseId": 400239,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Aldred",
+            "Syndicate Soldier"
+        ]
+    },
+    {
+        "Name": "The Warrioresses",
+        "Id": 40040028,
+        "BaseId": 400060,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Johanna",
+            "Vanessa"
+        ]
+    },
+    {
+        "Name": "The Wind's Guidance",
+        "Id": 40050153,
+        "BaseId": 400501,
+        "Rarity": 5,
+        "Availability": "Compendium",
+        "FeaturedCharacters": [
+            "The Prince",
+            "Midgardsormr",
+            "Gala Prince",
+            "High Midgardsormr"
+        ]
+    },
+    {
+        "Name": "The Wyrmclan Duo",
+        "Id": 40050085,
+        "BaseId": 400407,
+        "Rarity": 5,
+        "Availability": "Limited",
+        "FeaturedCharacters": [
+            "Nobunaga",
+            "Mitsuhide",
+            "Chitose"
+        ]
+    },
+    {
+        "Name": "Third Anniversary!",
+        "Id": 40050143,
+        "BaseId": 400491,
+        "Rarity": 5,
+        "Availability": "Event Welfare",
+        "FeaturedCharacters": [
+            "Zethia",
+            "Notte",
+            "The Prince",
+            "Humanoid Midgardsormr",
+            "Alberius",
+            "Myriam",
+            "Giovanni",
+            "Lapis",
+            "Gozu Tenno",
+            "Kuzunoha",
+            "Yoshitsune",
+            "Seimei",
+            "Pecorine",
+            "Lumi\u00e8re Pandora",
+            "Humanoid Mercury",
+            "Child Ranzal",
+            "Raphael",
+            "Faris",
+            "Ryszarda",
+            "Gabriel",
+            "Isaac",
+            "Saiga",
+            "Undercover Grace",
+            "Farren",
+            "Cecile",
+            "Finni",
+            "Eirene",
+            "Nino",
+            "Faeblessed Tobias",
+            "Grimnir",
+            "Vania",
+            "Rose Queen",
+            "Mordecai",
+            "Meene",
+            "Ilia",
+            "Midgardsormr Zero"
+        ]
+    },
+    {
+        "Name": "Thunderswift Lord's Blade (Axe's Boon)",
+        "Id": 40090015,
+        "BaseId": 400301,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Albert"
+        ]
+    },
+    {
+        "Name": "Thunderswift Lord's Blade (Lance's Boon)",
+        "Id": 40090017,
+        "BaseId": 400301,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Albert"
+        ]
+    },
+    {
+        "Name": "Tiny Drago\u00f1atas",
+        "Id": 40030038,
+        "BaseId": 400175,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Tsumuji (Pi\u00f1ata)",
+            "Astral Imp (Pi\u00f1ata)",
+            "Gloom Drake (Pi\u00f1ata)",
+            "Kindling Imp (Pi\u00f1ata)",
+            "Snow Drake (Pi\u00f1ata)"
+        ]
+    },
+    {
+        "Name": "To My Beloved",
+        "Id": 40030035,
+        "BaseId": 400141,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Rodrigo (speaker)",
+            "Cleo"
+        ]
+    },
+    {
+        "Name": "To My Dear Child",
+        "Id": 40040086,
+        "BaseId": 400453,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Raemond",
+            "Aurelius",
+            "Leonidas"
+        ]
+    },
+    {
+        "Name": "To the Extreme!",
+        "Id": 40040053,
+        "BaseId": 400095,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Ramona",
+            "Rena",
+            "Renee",
+            "Arctos"
+        ]
+    },
+    {
+        "Name": "Together We Stand",
+        "Id": 40040019,
+        "BaseId": 400051,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Ranzal",
+            "Berserker"
+        ]
+    },
+    {
+        "Name": "Tough Love",
+        "Id": 40050014,
+        "BaseId": 400075,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Celliera"
+        ]
+    },
+    {
+        "Name": "Tracks of Hope",
+        "Id": 40030021,
+        "BaseId": 400026,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "None"
+        ]
+    },
+    {
+        "Name": "Treasured Memory of the Sea (Butterfly's Boon)",
+        "Id": 40090020,
+        "BaseId": 400199,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Karina"
+        ]
+    },
+    {
+        "Name": "Treasury of Knowledge",
+        "Id": 40040084,
+        "BaseId": 400155,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Kleimann",
+            "Sinoa"
+        ]
+    },
+    {
+        "Name": "Trove of Knowledge",
+        "Id": 40040006,
+        "BaseId": 400038,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Nicolas",
+            "Xania"
+        ]
+    },
+    {
+        "Name": "Tutelary's Destiny (Wolf's Boon)",
+        "Id": 40090002,
+        "BaseId": 400359,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Delphi"
+        ]
+    },
+    {
+        "Name": "Twinfold Bonds",
+        "Id": 40050069,
+        "BaseId": 400097,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Alex",
+            "Elisanne"
+        ]
+    },
+    {
+        "Name": "Two Myms",
+        "Id": 40040094,
+        "BaseId": 400471,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Myriam",
+            "Brunhilda"
+        ]
+    },
+    {
+        "Name": "Unconditional Love",
+        "Id": 40050158,
+        "BaseId": 400383,
+        "Rarity": 5,
+        "Availability": "Compendium",
+        "FeaturedCharacters": [
+            "Aurelius",
+            "The Prince",
+            "Zodiark",
+            "Ranzal",
+            "Luca",
+            "Elisanne",
+            "Cleo"
+        ]
+    },
+    {
+        "Name": "Unexpected Requests",
+        "Id": 40050089,
+        "BaseId": 400419,
+        "Rarity": 5,
+        "Availability": "Collab",
+        "FeaturedCharacters": [
+            "Jurota",
+            "The Prince",
+            "Marty",
+            "Pietro"
+        ]
+    },
+    {
+        "Name": "Unfulfilled Visions",
+        "Id": 40030018,
+        "BaseId": 400023,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "None"
+        ]
+    },
+    {
+        "Name": "United by One Vision",
+        "Id": 40050012,
+        "BaseId": 400073,
+        "Rarity": 5,
+        "Availability": "Event Welfare",
+        "FeaturedCharacters": [
+            "Elisanne",
+            "The Prince",
+            "Cleo",
+            "Notte",
+            "Mym",
+            "Luca",
+            "Ranzal",
+            "Midgardsormr"
+        ]
+    },
+    {
+        "Name": "Valentine's Venture",
+        "Id": 40050048,
+        "BaseId": 400144,
+        "Rarity": 5,
+        "Availability": "Event Welfare",
+        "FeaturedCharacters": [
+            "Ranzal",
+            "Luca"
+        ]
+    },
+    {
+        "Name": "Valiant Crown",
+        "Id": 40050001,
+        "BaseId": 400062,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "The Prince"
+        ]
+    },
+    {
+        "Name": "Vio Rhyse Alberia!",
+        "Id": 40030022,
+        "BaseId": 400027,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "None"
+        ]
+    },
+    {
+        "Name": "Volcanic Queen",
+        "Id": 40050024,
+        "BaseId": 400121,
+        "Rarity": 5,
+        "Availability": "Treasure Trade",
+        "FeaturedCharacters": [
+            "High Brunhilda"
+        ]
+    },
+    {
+        "Name": "Warlust",
+        "Id": 40040014,
+        "BaseId": 400046,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Musashi"
+        ]
+    },
+    {
+        "Name": "Warrior Maiden",
+        "Id": 40050037,
+        "BaseId": 400080,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Jeanne d'Arc",
+            "Bird",
+            "Rabbit",
+            "Squirrel"
+        ]
+    },
+    {
+        "Name": "Welcome to the Halidom!",
+        "Id": 40050103,
+        "BaseId": 400425,
+        "Rarity": 5,
+        "Availability": "Collab",
+        "FeaturedCharacters": [
+            "Tiki",
+            "Peony",
+            "Notte",
+            "Moon Drake",
+            "Snow Drake"
+        ]
+    },
+    {
+        "Name": "Welcome to the Opera!",
+        "Id": 40050120,
+        "BaseId": 400457,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Marty",
+            "Pietro"
+        ]
+    },
+    {
+        "Name": "Welcome, One and All",
+        "Id": 40030033,
+        "BaseId": 400130,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "None"
+        ]
+    },
+    {
+        "Name": "What a Handful!",
+        "Id": 40040011,
+        "BaseId": 400043,
+        "Rarity": 4,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Sarisse"
+        ]
+    },
+    {
+        "Name": "What Dreams May Come",
+        "Id": 40050152,
+        "BaseId": 400500,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Gala Prince",
+            "Nedrick",
+            "Zethia"
+        ]
+    },
+    {
+        "Name": "Wily Warriors: Air &amp; Crash",
+        "Id": 40050078,
+        "BaseId": 400399,
+        "Rarity": 5,
+        "Availability": "Collab",
+        "FeaturedCharacters": [
+            "Air Man",
+            " Crash Man"
+        ]
+    },
+    {
+        "Name": "Wily Warriors: Bubble &amp; Wood",
+        "Id": 40050077,
+        "BaseId": 400398,
+        "Rarity": 5,
+        "Availability": "Collab",
+        "FeaturedCharacters": [
+            "Bubble Man",
+            " Wood Man"
+        ]
+    },
+    {
+        "Name": "Wily Warriors: Flash &amp; Heat",
+        "Id": 40050080,
+        "BaseId": 400401,
+        "Rarity": 5,
+        "Availability": "Collab",
+        "FeaturedCharacters": [
+            "Flash Man",
+            " Heat Man"
+        ]
+    },
+    {
+        "Name": "Wily Warriors: Metal &amp; Quick",
+        "Id": 40050079,
+        "BaseId": 400400,
+        "Rarity": 5,
+        "Availability": "Collab",
+        "FeaturedCharacters": [
+            "Metal Man",
+            " Quick Man"
+        ]
+    },
+    {
+        "Name": "Wind of Oaths (Eagle's Boon)",
+        "Id": 40090008,
+        "BaseId": 400258,
+        "Rarity": 9,
+        "Availability": "Dominion",
+        "FeaturedCharacters": [
+            "Louise",
+            "Lowen"
+        ]
+    },
+    {
+        "Name": "Winds of Saint Lotier",
+        "Id": 40030014,
+        "BaseId": 400019,
+        "Rarity": 3,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "None"
+        ]
+    },
+    {
+        "Name": "Wings in the Night",
+        "Id": 40050113,
+        "BaseId": 400447,
+        "Rarity": 5,
+        "Availability": "Compendium",
+        "FeaturedCharacters": [
+            "Nevin",
+            "Pinon"
+        ]
+    },
+    {
+        "Name": "Wings of Rebellion at Rest",
+        "Id": 40050148,
+        "BaseId": 400493,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Ciella",
+            "Ayaha",
+            "Otoha"
+        ]
+    },
+    {
+        "Name": "Witch's Kitchen",
+        "Id": 40050016,
+        "BaseId": 400077,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Cleo"
+        ]
+    },
+    {
+        "Name": "Worthy Rivals",
+        "Id": 40050004,
+        "BaseId": 400065,
+        "Rarity": 5,
+        "Availability": "Permanent",
+        "FeaturedCharacters": [
+            "Leif",
+            "Harle"
+        ]
+    }
+]

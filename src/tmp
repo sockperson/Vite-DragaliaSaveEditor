@@ -1,0 +1,6 @@
+<fieldset id="foo">
+   <legend>Test</legend>
+   <div a:foreach="bars" a:as="bar">
+      %{test}
+   </div>
+</fieldset>
