@@ -1,7 +1,8 @@
 import React, { useState } from 'react';
 
 import { useSelector, useDispatch } from 'react-redux'; 
-import { updateJsonDataListField, addJsonDataListObject, replaceJsonDataListObject } from '../../../actions/JsonDataActions';
+import { updateJsonDataListField, addJsonDataListObject, 
+  replaceJsonDataListObject, addToObjectListObjectField } from '../../../actions/JsonDataActions';
 
 import Button from '@mui/material/Button';
 import ButtonGroup from '@mui/material/ButtonGroup';
@@ -13,9 +14,12 @@ import ImageUtils from '../../../util/ImageUtils';
 
 import notteWtfIcon from '../../../assets/icons/nottewtf.png';
 
+import useDragaliaActions from '../../../util/DragaliaActionsUtils';
+
 function WeaponList_WeaponSelectButton({weaponId, weaponMeta}) { 
   
   const dispatch = useDispatch();
+  const { addWeaponSkin } = useDragaliaActions();
 
   const weaponObject = useSelector(state => state.jsonData.data.weapon_body_list
     .find(weaponObject => weaponObject["weapon_body_id"] === weaponId));
@@ -35,6 +39,7 @@ function WeaponList_WeaponSelectButton({weaponId, weaponMeta}) {
   const onCraft = () => {
     const newWeaponObject = DragaliaUtils.getNewWeapon(weaponId);
     dispatch(addJsonDataListObject("weapon_body_list", newWeaponObject));
+    addWeaponSkin(weaponId);
   }
 
   const onLevelup = (levelupCount) => {
@@ -68,6 +73,7 @@ function WeaponList_WeaponSelectButton({weaponId, weaponMeta}) {
   const onUnlockWeaponBonus = () => {
     dispatch(updateJsonDataListField("weapon_body_list", 
       "weapon_body_id", weaponId, "fort_passive_chara_weapon_buildup_count", 1));
+    handleWeaponBonus();
   }
 
   const onUnlockFiveStarSlot = () => {
@@ -85,12 +91,27 @@ function WeaponList_WeaponSelectButton({weaponId, weaponMeta}) {
   }
 
   const onMax = () => {
+    handleWeaponBonus();
     if (!isOwned) {
       const newWeaponObject = DragaliaUtils.getMaxedWeapon(weaponId, weaponDetails, null);
       dispatch(addJsonDataListObject("weapon_body_list", newWeaponObject));
+      addWeaponSkin(weaponId);
     } else {
       const newWeaponObject = DragaliaUtils.getMaxedWeapon(weaponId, weaponDetails, weaponObject.gettime);
       dispatch(replaceJsonDataListObject("weapon_body_list", "weapon_body_id", newWeaponObject));
+    }
+  }
+
+  const handleWeaponBonus = () => {
+    const weaponBonus = DragaliaUtils.getWeaponBonus(weaponMeta);
+    const hasWeaponBonus = (weaponObject?.fort_passive_chara_weapon_buildup_count ?? 0) === 1;
+    if (weaponBonus > 0 && !hasWeaponBonus) {
+      dispatch(addToObjectListObjectField(
+        "fort_bonus_list", "param_bonus_by_weapon", "weapon_type", 
+        weaponMeta.WeaponTypeId, "hp", weaponBonus));
+      dispatch(addToObjectListObjectField(
+        "fort_bonus_list", "param_bonus_by_weapon", "weapon_type", 
+        weaponMeta.WeaponTypeId, "attack", weaponBonus));
     }
   }
   

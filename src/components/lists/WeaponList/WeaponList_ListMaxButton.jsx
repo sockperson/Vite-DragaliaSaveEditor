@@ -1,7 +1,7 @@
 import React, { useState, useContext } from 'react';
 
 import { useSelector, useDispatch } from 'react-redux'; 
-import { setList } from '../../../actions/JsonDataActions';
+import { setList, setObjectObject } from '../../../actions/JsonDataActions';
 
 import { MappingContext } from '../../SaveEditor';
 
@@ -14,6 +14,8 @@ import DialogTitle from '@mui/material/DialogTitle';
 
 import JsonUtils from '../../../util/JsonUtils';
 import DragaliaUtils from '../../../util/DragaliaUtils';
+
+import param_bonus_by_weapon from '../../../assets/savedata/param_bonus_by_weapon.json';
 
 function WeaponList_ListMaxButton() { 
   
@@ -51,6 +53,7 @@ function WeaponList_ListMaxButton() {
       );
     });
     dispatch(setList("weapon_body_list", newWeaponList));
+    dispatch(setObjectObject("fort_bonus_list", "param_bonus_by_weapon", param_bonus_by_weapon));
   }
   
   const props = {

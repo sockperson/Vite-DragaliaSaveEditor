@@ -1,8 +1,27 @@
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   text-align: center;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  width: 100%;
+}
+
+.App-content {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
 }
 
 .logo {
@@ -39,4 +58,11 @@
 
 .read-the-docs {
   color: #888;
+}
+
+@font-face {
+  font-family: 'ITC Avant Garde Gothic Condensed Bold';
+  src: url('/src/assets/fonts/ITC Avant Garde Gothic Bold Condensed.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
 }

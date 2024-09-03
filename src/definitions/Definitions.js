@@ -41,3 +41,9 @@ export const WeaponLevelCaps = Object.freeze({
     5: [30, 35, 40, 45, 50, 55, 60, 65, 70],
     6: [40, 45, 50, 55, 60, 65, 70, 75, 80, 90]
 });
+
+export const DragonSellAmounts = Object.freeze({
+    3: 150,
+    4: 2200,
+    5: 8500
+});

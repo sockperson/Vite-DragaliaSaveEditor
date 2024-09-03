@@ -1,32 +1,108 @@
-import { weaponTypeIdToString } from '../enum/Enums';
+import { weaponTypeIdToString, elementTypeIdToString } from '../enum/Enums';
+
+import flame from '../assets/icons/elements/flame.png';
+import water from '../assets/icons/elements/water.png';
+import wind from '../assets/icons/elements/wind.png';
+import light from '../assets/icons/elements/light.png';
+import shadow from '../assets/icons/elements/shadow.png';
+
+import sword from '../assets/icons/weapons/sword.png';
+import blade from '../assets/icons/weapons/blade.png';
+import dagger from '../assets/icons/weapons/dagger.png';
+import axe from '../assets/icons/weapons/axe.png';
+import lance from '../assets/icons/weapons/lance.png';
+import bow from '../assets/icons/weapons/bow.png';
+import wand from '../assets/icons/weapons/wand.png';
+import staff from '../assets/icons/weapons/staff.png';
+import manacaster from '../assets/icons/weapons/manacaster.png';
+
+function zeroPad(number, digits) {
+    return String(number).padStart(digits, '0');
+  }
 
 const getMaterialImage = (id, size) => {
-    return `https://dragalialost.wiki/thumb.php?f=${id}.png&width=${size}`;
+    return `https://minty.sbs/images/icon/item/materialdata/m/${id}.webp`;
 }
 
-const getWeaponTypeImage = (weaponType, size) => {
-    const weaponTypeString = weaponTypeIdToString(weaponType);
-    return `https://dragalialost.wiki/thumb.php?f=Icon_Weapon_${weaponTypeString}.png&width=${size}`;
+const getWeaponTypeImage = (weaponType) => {
+    switch (weaponType) {
+        case 1:
+            return sword;
+        case 2:
+            return blade;
+        case 3:
+            return dagger;
+        case 4:
+            return axe;
+        case 5:
+            return lance;
+        case 6:
+            return bow;
+        case 7:
+            return wand;
+        case 8:
+            return staff;
+        case 9:
+            return manacaster;
+        default:
+            return null;
+    }
+}
+
+const getElementTypeImage = (elementType, size) => {
+    switch (elementType) {
+        case 1:
+            return flame;
+        case 2:
+            return water;
+        case 3:
+            return wind;
+        case 4:
+            return light;
+        case 5:
+            return shadow;
+        default:
+            return null;
+    }
 }
 
 const getWeaponSkinImage = (baseId, variationId, formId, size) => {
-    return `https://dragalialost.wiki/thumb.php?f=${baseId}_0${variationId}_${formId}.png&width=${size}`;
+    return `https://cdn.minty.sbs/images/icon/weapon/m/${baseId}_0${variationId}_${formId}.webp`;
 }
 
-const getConsumableImage = (id, size) => {
-    return `https://dragalialost.wiki/thumb.php?f=Consumable_${id}.png&width=${size}`;
+const getConsumableImage = (id) => {
+    return `https://cdn.minty.sbs/images/icon/item/useitem/l/${id}.webp`;
 }
 
 const getWyrmprintImage = (baseId, rarity, size) => {
     // use refined vestige image for non sindom prints
     const variationId = rarity === 9 ? "01" : "02";
-    return `https://dragalialost.wiki/thumb.php?f=${baseId}_${variationId}.png&width=${size}`;
+    return `https://cdn.minty.sbs/images/icon/amulet/m/${baseId}_${variationId}.webp`;
+}
+
+const getAbilityImage = (abilityIconName, size) => {
+    return `https://cdn.minty.sbs/images/icon/ability/l/${abilityIconName}.webp`;
+}
+
+const getAdventurerImage = (adventurerMeta) => {
+    const baseId = adventurerMeta.Id;
+    const variationId = zeroPad(adventurerMeta.VariationId, 2);
+    return `https://minty.sbs/images/icon/chara/m/${baseId}_${variationId}_r05.webp`;
+}
+
+const getDragonImage = (dragonMeta) => {
+    const baseId = dragonMeta.BaseId;
+    return `https://minty.sbs/images/icon/dragon/m/${baseId}_01.webp`;
 }
 
 export default {
     getMaterialImage,
     getWeaponTypeImage,
+    getElementTypeImage,
     getWeaponSkinImage,
     getConsumableImage,
-    getWyrmprintImage
+    getWyrmprintImage,
+    getAdventurerImage,
+    getAbilityImage,
+    getDragonImage
 }

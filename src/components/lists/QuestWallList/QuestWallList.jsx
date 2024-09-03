@@ -14,18 +14,13 @@ function QuestWallList({ questWallList, onSaveEdit }) {
   const getQuestWalls = () => {
     return (
       <>
-        <Grid container item xs={12} justifyContent="flex-end" alignItems="center">
-          <Grid item xs={12} sm={6} md={4}>
-            <Box sx={{ textAlign: 'right', fontWeight: 'bold' }}>
-              Has Started Next Level?
-            </Box>
-          </Grid>
+        <Grid container item xs={12} justifyContent="center" alignItems="center">
+          {Object.values(QuestWallId).map(questWallId => (
+            <Grid item xs={12} key={questWallId}>
+              <QuestWallList_Slider questWallId={questWallId}/>
+            </Grid>
+          ))}
         </Grid>
-        {Object.values(QuestWallId).map(questWallId => (
-          <Grid item xs={12} sm={6} md={4} key={questWallId}>
-            <QuestWallList_Slider questWallId={questWallId}/>
-          </Grid>
-        ))}
       </>
     );
   }

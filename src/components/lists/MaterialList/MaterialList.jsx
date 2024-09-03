@@ -44,7 +44,7 @@ function MaterialList() {
 
   return (
     <div>
-      <Box sx={{ border: '1px solid grey', borderRadius: '4px', p: 2 }}>
+      <Box sx={{ border: '1px solid grey', borderRadius: '4px', p: 2, maxHeight: '80vh', overflowY: 'auto' }}>
         <p>Materials</p>
         <MaterialList_MaterialCategoryButtonGroup
           onSetActiveMaterialCategoryGroup={onSetActiveMaterialCategoryGroup}

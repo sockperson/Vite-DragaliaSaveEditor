@@ -4,6 +4,10 @@ import summonTicketList from './assets/lists/summon_ticket/summon_ticket.json';
 import weaponList from './assets/lists/weapon/weapons.json';
 import weaponSkinList from './assets/lists/weapon/weaponSkin.json';
 import wyrmprintList from './assets/lists/wyrmprints/wyrmprints.json';
+import adventurerList from './assets/lists/adventurers/adventurers.json';
+import charaStoryList from './assets/lists/adventurers/CharaStories.json';
+import portraitWyrmprintList from './assets/lists/wyrmprints/portraitWyrmprints.json';
+import abilityList from './assets/lists/ability/abilities.json';
 
 import JsonUtils from './util/JsonUtils';
 import { MaterialCategoryMap } from './definitions/Definitions';
@@ -50,6 +54,15 @@ const getMap = (list) => {
   return map;
 }
 
+// same as above but with non-hardcoded ID field
+const getMapByKey = (list, idFieldName) => {
+  let map = {};
+  list.forEach(item => {
+    map[parseInt(item[idFieldName])] = item;
+  });
+  return map;
+}
+
 const getMaterialIdsByCategoryGroup = (materialMap) => {
   const out = {};
   // initialize empty list for each category group
@@ -71,6 +84,21 @@ const getMaterialIdsByCategoryGroup = (materialMap) => {
 
 const getWeaponSkinMap = () => { return getMap(weaponSkinList); }
 const getWyrmprintMap = () => { return getMap(wyrmprintList); }
+const getAdventurerMap = () => { return getMapByKey(adventurerList, "IdLong"); }
+const getPortraitWyrmprintMap = () => { return getMap(portraitWyrmprintList); }
+const getAbilityMap = () => { return getMap(abilityList); }
+const getCharaStoryMap = () => { return charaStoryList; }
+
+// merge two maps
+const addField = () => {
+  const map1 = getMap(weaponList);
+  const map2 = getMap(weaponList2);
+  const addField = "HasWeaponBonus";
+  for (let key in map1) {
+    map1[key][addField] = map2[key][addField];
+  }
+  console.log("Output: ", Object.values(map1));
+}
 
 export default {
     getMaterialMap,
@@ -79,5 +107,10 @@ export default {
     getWeaponMap,
     getWeaponSkinMap,
     getWyrmprintMap,
-    getMaterialIdsByCategoryGroup
+    getMaterialIdsByCategoryGroup,
+    getAdventurerMap,
+    getPortraitWyrmprintMap,
+    getAbilityMap,
+    getCharaStoryMap,
+    addField
 }

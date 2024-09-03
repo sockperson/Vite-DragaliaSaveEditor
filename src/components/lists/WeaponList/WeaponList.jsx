@@ -7,6 +7,7 @@ import JsonUtils from '../../../util/JsonUtils';
 
 import { WeaponTypeId } from '../../../enum/Enums';
 import { WeaponSeries } from '../../../enum/Enums';
+import { useSelector, useDispatch } from 'react-redux'; 
 
 import WeaponList_WeaponTypeButtonGroup from './WeaponList_WeaponTypeButtonGroup';
 import WeaponList_WeaponSeriesButtonGroup from './WeaponList_WeaponSeriesButtonGroup';
@@ -24,6 +25,9 @@ function WeaponList() {
   const weaponMap = useContext(MappingContext).weaponMap;
   const weaponSkinMap = useContext(MappingContext).weaponSkinMap;
   const allWeaponsList = Object.values(weaponMap);
+
+  const weaponSkinList = useSelector(state => state.jsonData.data.weapon_skin_list);
+  const weaponSkinCount = weaponSkinList.length;
 
   const onSetActiveWeaponType = (weaponType) => { setActiveWeaponType(weaponType); }
   const onSetActiveWeaponSeries = (weaponSeries) => { setActiveWeaponSeries(weaponSeries); }
@@ -88,6 +92,9 @@ function WeaponList() {
   //TODO
   return (
     <div>
+      <div style={{ marginBottom: '40px' }}>
+      Weapon Skin Count: {weaponSkinCount}
+      </div>
       <div style={{ marginBottom: '20px' }}>
       <WeaponList_ListMaxButton/>
       </div>

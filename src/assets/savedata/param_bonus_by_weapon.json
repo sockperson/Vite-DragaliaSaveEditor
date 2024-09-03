@@ -1,0 +1,47 @@
+[
+    {
+        "weapon_type": 1,
+        "hp": 30.0,
+        "attack": 30.0
+    },
+    {
+        "weapon_type": 2,
+        "hp": 30.0,
+        "attack": 30.0
+    },
+    {
+        "weapon_type": 3,
+        "hp": 30.0,
+        "attack": 30.0
+    },
+    {
+        "weapon_type": 4,
+        "hp": 30.0,
+        "attack": 30.0
+    },
+    {
+        "weapon_type": 5,
+        "hp": 30.0,
+        "attack": 30.0
+    },
+    {
+        "weapon_type": 6,
+        "hp": 30.0,
+        "attack": 30.0
+    },
+    {
+        "weapon_type": 7,
+        "hp": 30.0,
+        "attack": 30.0
+    },
+    {
+        "weapon_type": 8,
+        "hp": 30.0,
+        "attack": 30.0
+    },
+    {
+        "weapon_type": 9,
+        "hp": 27.5,
+        "attack": 27.5
+    }
+]

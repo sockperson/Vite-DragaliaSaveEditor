@@ -1,0 +1,1492 @@
+[
+    {
+        "Id": 50130102,
+        "Name": "Top Ruin Explorer",
+        "CharaId": 10130102
+    },
+    {
+        "Id": 50130103,
+        "Name": "Valentine's Guardian",
+        "CharaId": 10130103
+    },
+    {
+        "Id": 50130201,
+        "Name": "Hopeless Narcissist",
+        "CharaId": 10130201
+    },
+    {
+        "Id": 50130401,
+        "Name": "Loyal Servant",
+        "CharaId": 10130401
+    },
+    {
+        "Id": 50130501,
+        "Name": "Sincere Giver",
+        "CharaId": 10130501
+    },
+    {
+        "Id": 50140101,
+        "Name": "Dragonblood Prince",
+        "CharaId": 10140101
+    },
+    {
+        "Id": 50140102,
+        "Name": "Hero of Justice",
+        "CharaId": 10140102
+    },
+    {
+        "Id": 50140103,
+        "Name": "Purehearted Warrior",
+        "CharaId": 10140103
+    },
+    {
+        "Id": 50140201,
+        "Name": "Wandering Spider",
+        "CharaId": 10140201
+    },
+    {
+        "Id": 50140301,
+        "Name": "Rambling Blade",
+        "CharaId": 10140301
+    },
+    {
+        "Id": 50140302,
+        "Name": "Budding Templar",
+        "CharaId": 10140302
+    },
+    {
+        "Id": 50140401,
+        "Name": "Wanderlust Incarnate",
+        "CharaId": 10140401
+    },
+    {
+        "Id": 50140501,
+        "Name": "Frenzied Warrior",
+        "CharaId": 10140501
+    },
+    {
+        "Id": 50140503,
+        "Name": "Atoning King",
+        "CharaId": 10140503
+    },
+    {
+        "Id": 50150101,
+        "Name": "Suave Lithomancer",
+        "CharaId": 10150101
+    },
+    {
+        "Id": 50150102,
+        "Name": "Altean Prince",
+        "CharaId": 10150102
+    },
+    {
+        "Id": 50150103,
+        "Name": "Sublime Swordsman",
+        "CharaId": 10150103
+    },
+    {
+        "Id": 50150104,
+        "Name": "Rathalos Berserker",
+        "CharaId": 10150104
+    },
+    {
+        "Id": 50150105,
+        "Name": "Prince of Ylisse",
+        "CharaId": 10150105
+    },
+    {
+        "Id": 50150106,
+        "Name": "Expiatory Researcher",
+        "CharaId": 10150106
+    },
+    {
+        "Id": 50150201,
+        "Name": "Born Ruler",
+        "CharaId": 10150201
+    },
+    {
+        "Id": 50150202,
+        "Name": "Avid Armsmaster",
+        "CharaId": 10150202
+    },
+    {
+        "Id": 50150203,
+        "Name": "Sullen Youth",
+        "CharaId": 10150203
+    },
+    {
+        "Id": 50150204,
+        "Name": "Summertime Boar",
+        "CharaId": 10150204
+    },
+    {
+        "Id": 50150301,
+        "Name": "Seasoned Tactician",
+        "CharaId": 10150301
+    },
+    {
+        "Id": 50150302,
+        "Name": "Battling Bride",
+        "CharaId": 10150302
+    },
+    {
+        "Id": 50150303,
+        "Name": "White Sparrow",
+        "CharaId": 10150303
+    },
+    {
+        "Id": 50150304,
+        "Name": "Feline Guide",
+        "CharaId": 10150304
+    },
+    {
+        "Id": 50150305,
+        "Name": "Inheritor of the Wing",
+        "CharaId": 10150305
+    },
+    {
+        "Id": 50150306,
+        "Name": "Bondforged Scion",
+        "CharaId": 10150306
+    },
+    {
+        "Id": 50150401,
+        "Name": "Thunderswift Lord",
+        "CharaId": 10150401
+    },
+    {
+        "Id": 50150402,
+        "Name": "Prince of Askr",
+        "CharaId": 10150402
+    },
+    {
+        "Id": 50150403,
+        "Name": "Bearer of Dragonlight",
+        "CharaId": 10150403
+    },
+    {
+        "Id": 50150404,
+        "Name": "Peckish Princess",
+        "CharaId": 10150404
+    },
+    {
+        "Id": 50150405,
+        "Name": "Ambitious Knight",
+        "CharaId": 10150405
+    },
+    {
+        "Id": 50150501,
+        "Name": "Wandering Festival Planner",
+        "CharaId": 10150501
+    },
+    {
+        "Id": 50150502,
+        "Name": "Liberated Assassin",
+        "CharaId": 10150502
+    },
+    {
+        "Id": 50150503,
+        "Name": "Dragonblooded Hero",
+        "CharaId": 10150503
+    },
+    {
+        "Id": 50150504,
+        "Name": "Shadow of Genesis",
+        "CharaId": 10150504
+    },
+    {
+        "Id": 50230101,
+        "Name": "Impassioned Ninja",
+        "CharaId": 10230101
+    },
+    {
+        "Id": 50230201,
+        "Name": "Solemn Stalwart",
+        "CharaId": 10230201
+    },
+    {
+        "Id": 50230301,
+        "Name": "Menace of a Maid",
+        "CharaId": 10230301
+    },
+    {
+        "Id": 50230401,
+        "Name": "Bloodsucking Butler",
+        "CharaId": 10230401
+    },
+    {
+        "Id": 50230501,
+        "Name": "Greenhorn Samurai",
+        "CharaId": 10230501
+    },
+    {
+        "Id": 50240101,
+        "Name": "Dissonant Android",
+        "CharaId": 10240101
+    },
+    {
+        "Id": 50240201,
+        "Name": "Hot-Blooded Instructor",
+        "CharaId": 10240201
+    },
+    {
+        "Id": 50240202,
+        "Name": "Grillmaster",
+        "CharaId": 10240202
+    },
+    {
+        "Id": 50240301,
+        "Name": "Wandering Samurai",
+        "CharaId": 10240301
+    },
+    {
+        "Id": 50240302,
+        "Name": "Noble Warrior",
+        "CharaId": 10240302
+    },
+    {
+        "Id": 50240401,
+        "Name": "Peerless Duelist",
+        "CharaId": 10240401
+    },
+    {
+        "Id": 50240402,
+        "Name": "Hinomotoan Dancer",
+        "CharaId": 10240402
+    },
+    {
+        "Id": 50240502,
+        "Name": "Blood-Covered Mad Dog",
+        "CharaId": 10240502
+    },
+    {
+        "Id": 50240503,
+        "Name": "Wyrmbound Warrior",
+        "CharaId": 10240503
+    },
+    {
+        "Id": 50250101,
+        "Name": "Nature's Avatar",
+        "CharaId": 10250101
+    },
+    {
+        "Id": 50250102,
+        "Name": "Mana Infuser",
+        "CharaId": 10250102
+    },
+    {
+        "Id": 50250103,
+        "Name": "Leader of the Horse Clan",
+        "CharaId": 10250103
+    },
+    {
+        "Id": 50250104,
+        "Name": "Resplendent Duelist",
+        "CharaId": 10250104
+    },
+    {
+        "Id": 50250201,
+        "Name": "Dutiful Chef",
+        "CharaId": 10250201
+    },
+    {
+        "Id": 50250202,
+        "Name": "Bloodthirsty One",
+        "CharaId": 10250202
+    },
+    {
+        "Id": 50250203,
+        "Name": "Pure-Hearted Android",
+        "CharaId": 10250203
+    },
+    {
+        "Id": 50250204,
+        "Name": "Commander of Five Wings",
+        "CharaId": 10250204
+    },
+    {
+        "Id": 50250301,
+        "Name": "Vengeful Commander",
+        "CharaId": 10250301
+    },
+    {
+        "Id": 50250302,
+        "Name": "Faithful Knight",
+        "CharaId": 10250302
+    },
+    {
+        "Id": 50250303,
+        "Name": "Foraging Chef",
+        "CharaId": 10250303
+    },
+    {
+        "Id": 50250304,
+        "Name": "Midsummer Nightmare",
+        "CharaId": 10250304
+    },
+    {
+        "Id": 50250305,
+        "Name": "The Black Raven",
+        "CharaId": 10250305
+    },
+    {
+        "Id": 50250401,
+        "Name": "Brilliant Beautician",
+        "CharaId": 10250401
+    },
+    {
+        "Id": 50250402,
+        "Name": "Harmony Seeker",
+        "CharaId": 10250402
+    },
+    {
+        "Id": 50250403,
+        "Name": "Innocent Being",
+        "CharaId": 10250403
+    },
+    {
+        "Id": 50250404,
+        "Name": "Capricious Luminary",
+        "CharaId": 10250404
+    },
+    {
+        "Id": 50250501,
+        "Name": "Leader of the Boar Clan",
+        "CharaId": 10250501
+    },
+    {
+        "Id": 50250502,
+        "Name": "Devoted Festival Prot\u00e9g\u00e9",
+        "CharaId": 10250502
+    },
+    {
+        "Id": 50250503,
+        "Name": "Taciturn Warrior",
+        "CharaId": 10250503
+    },
+    {
+        "Id": 50250504,
+        "Name": "Auspex of Genesis",
+        "CharaId": 10250504
+    },
+    {
+        "Id": 50330101,
+        "Name": "Honorable Treasure Hunter",
+        "CharaId": 10330101
+    },
+    {
+        "Id": 50330301,
+        "Name": "Cheerful Merchant",
+        "CharaId": 10330301
+    },
+    {
+        "Id": 50330401,
+        "Name": "Mammonist Mercenary",
+        "CharaId": 10330401
+    },
+    {
+        "Id": 50330501,
+        "Name": "Eager Assassin",
+        "CharaId": 10330501
+    },
+    {
+        "Id": 50330502,
+        "Name": "Knife Fanatic",
+        "CharaId": 10330502
+    },
+    {
+        "Id": 50340101,
+        "Name": "Resolute Friend",
+        "CharaId": 10340101
+    },
+    {
+        "Id": 50340102,
+        "Name": "Rebellious Rider",
+        "CharaId": 10340102
+    },
+    {
+        "Id": 50340201,
+        "Name": "Passionate Dancer",
+        "CharaId": 10340201
+    },
+    {
+        "Id": 50340202,
+        "Name": "Dreamer on Ice",
+        "CharaId": 10340202
+    },
+    {
+        "Id": 50340203,
+        "Name": "Future Smithing Genius",
+        "CharaId": 10340203
+    },
+    {
+        "Id": 50340301,
+        "Name": "Pyroblossom Artisan",
+        "CharaId": 10340301
+    },
+    {
+        "Id": 50340401,
+        "Name": "Dagger Magnificence",
+        "CharaId": 10340401
+    },
+    {
+        "Id": 50340402,
+        "Name": "Budding Artist",
+        "CharaId": 10340402
+    },
+    {
+        "Id": 50340501,
+        "Name": "Maiden Protector",
+        "CharaId": 10340501
+    },
+    {
+        "Id": 50340502,
+        "Name": "Shadow Assassin",
+        "CharaId": 10340502
+    },
+    {
+        "Id": 50350101,
+        "Name": "Genius of the Century",
+        "CharaId": 10350101
+    },
+    {
+        "Id": 50350102,
+        "Name": "Synchronized Android",
+        "CharaId": 10350102
+    },
+    {
+        "Id": 50350103,
+        "Name": "Summertime Mouse",
+        "CharaId": 10350103
+    },
+    {
+        "Id": 50350104,
+        "Name": "Blazing Auspex",
+        "CharaId": 10350104
+    },
+    {
+        "Id": 50350201,
+        "Name": "Belle Bestower",
+        "CharaId": 10350201
+    },
+    {
+        "Id": 50350202,
+        "Name": "Hinomotoan Chef",
+        "CharaId": 10350202
+    },
+    {
+        "Id": 50350203,
+        "Name": "Dragon Scion",
+        "CharaId": 10350203
+    },
+    {
+        "Id": 50350204,
+        "Name": "Teacher from the Tides",
+        "CharaId": 10350204
+    },
+    {
+        "Id": 50350301,
+        "Name": "Ninja Bride",
+        "CharaId": 10350301
+    },
+    {
+        "Id": 50350302,
+        "Name": "Summer Scribe",
+        "CharaId": 10350302
+    },
+    {
+        "Id": 50350303,
+        "Name": "Eternal Partner",
+        "CharaId": 10350303
+    },
+    {
+        "Id": 50350304,
+        "Name": "The Wintry Wing of Revelation",
+        "CharaId": 10350304
+    },
+    {
+        "Id": 50350402,
+        "Name": "Leader of the Mouse Clan",
+        "CharaId": 10350402
+    },
+    {
+        "Id": 50350403,
+        "Name": "Rookie Sealer",
+        "CharaId": 10350403
+    },
+    {
+        "Id": 50350404,
+        "Name": "Festival Inquisitor",
+        "CharaId": 10350404
+    },
+    {
+        "Id": 50350405,
+        "Name": "Synced Wyrmbinder",
+        "CharaId": 10350405
+    },
+    {
+        "Id": 50350502,
+        "Name": "Tutelary Successor",
+        "CharaId": 10350502
+    },
+    {
+        "Id": 50350503,
+        "Name": "Renegade Spitfire",
+        "CharaId": 10350503
+    },
+    {
+        "Id": 50350504,
+        "Name": "The Wing of Revelation",
+        "CharaId": 10350504
+    },
+    {
+        "Id": 50350505,
+        "Name": "Rebellion Incarnate",
+        "CharaId": 10350505
+    },
+    {
+        "Id": 50350506,
+        "Name": "Prince of Summer",
+        "CharaId": 10350506
+    },
+    {
+        "Id": 50430201,
+        "Name": "Charitable Lumberjack",
+        "CharaId": 10430201
+    },
+    {
+        "Id": 50430202,
+        "Name": "Visionary Adventurer",
+        "CharaId": 10430202
+    },
+    {
+        "Id": 50430301,
+        "Name": "Untamed Warrioress",
+        "CharaId": 10430301
+    },
+    {
+        "Id": 50430401,
+        "Name": "Bantam Hero",
+        "CharaId": 10430401
+    },
+    {
+        "Id": 50430501,
+        "Name": "Feral Noble",
+        "CharaId": 10430501
+    },
+    {
+        "Id": 50440101,
+        "Name": "Red-Haired Warrior",
+        "CharaId": 10440101
+    },
+    {
+        "Id": 50440102,
+        "Name": "Hungry Hunter",
+        "CharaId": 10440102
+    },
+    {
+        "Id": 50440201,
+        "Name": "Free-Spirited Pirate",
+        "CharaId": 10440201
+    },
+    {
+        "Id": 50440301,
+        "Name": "Arc in the Storm",
+        "CharaId": 10440301
+    },
+    {
+        "Id": 50440401,
+        "Name": "Prankster in Paradise",
+        "CharaId": 10440401
+    },
+    {
+        "Id": 50440501,
+        "Name": "Cultured Flower",
+        "CharaId": 10440501
+    },
+    {
+        "Id": 50450101,
+        "Name": "Impassioned Blacksmith",
+        "CharaId": 10450101
+    },
+    {
+        "Id": 50450102,
+        "Name": "Dragon Temptress",
+        "CharaId": 10450102
+    },
+    {
+        "Id": 50450103,
+        "Name": "Childlike Mercenary",
+        "CharaId": 10450103
+    },
+    {
+        "Id": 50450104,
+        "Name": "The Blazewolf",
+        "CharaId": 10450104
+    },
+    {
+        "Id": 50450201,
+        "Name": "Paladyn in Paradise",
+        "CharaId": 10450201
+    },
+    {
+        "Id": 50450202,
+        "Name": "Godly Guide",
+        "CharaId": 10450202
+    },
+    {
+        "Id": 50450203,
+        "Name": "Mechanized Blacksmith",
+        "CharaId": 10450203
+    },
+    {
+        "Id": 50450204,
+        "Name": "Emotional Android",
+        "CharaId": 10450204
+    },
+    {
+        "Id": 50450301,
+        "Name": "Kung-Fu Apprentice",
+        "CharaId": 10450301
+    },
+    {
+        "Id": 50450302,
+        "Name": "Lovestruck Maid",
+        "CharaId": 10450302
+    },
+    {
+        "Id": 50450303,
+        "Name": "Kitty Cafe's Shining Star",
+        "CharaId": 10450303
+    },
+    {
+        "Id": 50450304,
+        "Name": "New Year's Prankster",
+        "CharaId": 10450304
+    },
+    {
+        "Id": 50450305,
+        "Name": "Leader of the Tiger Clan",
+        "CharaId": 10450305
+    },
+    {
+        "Id": 50450401,
+        "Name": "Timorous Paladyn",
+        "CharaId": 10450401
+    },
+    {
+        "Id": 50450402,
+        "Name": "Lady Starfall",
+        "CharaId": 10450402
+    },
+    {
+        "Id": 50450403,
+        "Name": "Indebted General",
+        "CharaId": 10450403
+    },
+    {
+        "Id": 50450404,
+        "Name": "Humanity's Companion",
+        "CharaId": 10450404
+    },
+    {
+        "Id": 50450405,
+        "Name": "The Paternal King",
+        "CharaId": 10450405
+    },
+    {
+        "Id": 50450406,
+        "Name": "The Unbending",
+        "CharaId": 10450406
+    },
+    {
+        "Id": 50450501,
+        "Name": "Dogged Inquisitor",
+        "CharaId": 10450501
+    },
+    {
+        "Id": 50450502,
+        "Name": "Seaside Sparrow",
+        "CharaId": 10450502
+    },
+    {
+        "Id": 50450503,
+        "Name": "Festive Commander",
+        "CharaId": 10450503
+    },
+    {
+        "Id": 50530101,
+        "Name": "Captain Craven",
+        "CharaId": 10530101
+    },
+    {
+        "Id": 50530201,
+        "Name": "Staunch Avenger",
+        "CharaId": 10530201
+    },
+    {
+        "Id": 50530202,
+        "Name": "Quiet Mercenary",
+        "CharaId": 10530202
+    },
+    {
+        "Id": 50530401,
+        "Name": "Golden Armorer",
+        "CharaId": 10530401
+    },
+    {
+        "Id": 50530501,
+        "Name": "Bone Collector",
+        "CharaId": 10530501
+    },
+    {
+        "Id": 50540102,
+        "Name": "Erudite Sealer",
+        "CharaId": 10540102
+    },
+    {
+        "Id": 50540103,
+        "Name": "Encouraging Cheerleader",
+        "CharaId": 10540103
+    },
+    {
+        "Id": 50540201,
+        "Name": "Anointed Lance",
+        "CharaId": 10540201
+    },
+    {
+        "Id": 50540202,
+        "Name": "Bloodfist",
+        "CharaId": 10540202
+    },
+    {
+        "Id": 50540301,
+        "Name": "Mercurial Lancer",
+        "CharaId": 10540301
+    },
+    {
+        "Id": 50540302,
+        "Name": "Budding Vocalist",
+        "CharaId": 10540302
+    },
+    {
+        "Id": 50540401,
+        "Name": "Dormant Demon",
+        "CharaId": 10540401
+    },
+    {
+        "Id": 50540402,
+        "Name": "Deadly Tactician",
+        "CharaId": 10540402
+    },
+    {
+        "Id": 50540501,
+        "Name": "Naginata Cutie",
+        "CharaId": 10540501
+    },
+    {
+        "Id": 50540502,
+        "Name": "Spirited Sparrow",
+        "CharaId": 10540502
+    },
+    {
+        "Id": 50550101,
+        "Name": "Lovestruck Dragon",
+        "CharaId": 10550101
+    },
+    {
+        "Id": 50550102,
+        "Name": "Selfie Addict",
+        "CharaId": 10550102
+    },
+    {
+        "Id": 50550103,
+        "Name": "Crimson Paladyn",
+        "CharaId": 10550103
+    },
+    {
+        "Id": 50550104,
+        "Name": "Dancing Panther",
+        "CharaId": 10550104
+    },
+    {
+        "Id": 50550201,
+        "Name": "Dragon Guardian",
+        "CharaId": 10550201
+    },
+    {
+        "Id": 50550203,
+        "Name": "Princess of Ice",
+        "CharaId": 10550203
+    },
+    {
+        "Id": 50550204,
+        "Name": "Perfect Flower",
+        "CharaId": 10550204
+    },
+    {
+        "Id": 50550205,
+        "Name": "Winged Knight",
+        "CharaId": 10550205
+    },
+    {
+        "Id": 50550301,
+        "Name": "Adept Aromatherapist",
+        "CharaId": 10550301
+    },
+    {
+        "Id": 50550302,
+        "Name": "Rebellious Commander",
+        "CharaId": 10550302
+    },
+    {
+        "Id": 50550303,
+        "Name": "Spirited Corpse",
+        "CharaId": 10550303
+    },
+    {
+        "Id": 50550304,
+        "Name": "The Mad Cyclone",
+        "CharaId": 10550304
+    },
+    {
+        "Id": 50550305,
+        "Name": "Emissary of Amaterasu",
+        "CharaId": 10550305
+    },
+    {
+        "Id": 50550306,
+        "Name": "The Dawning Wind",
+        "CharaId": 10550306
+    },
+    {
+        "Id": 50550401,
+        "Name": "The Sugary Star",
+        "CharaId": 10550401
+    },
+    {
+        "Id": 50550402,
+        "Name": "Vampaladyn",
+        "CharaId": 10550402
+    },
+    {
+        "Id": 50550403,
+        "Name": "Kirin Amazon",
+        "CharaId": 10550403
+    },
+    {
+        "Id": 50550404,
+        "Name": "Princess of Askr",
+        "CharaId": 10550404
+    },
+    {
+        "Id": 50550405,
+        "Name": "The Wing of Enlightenment",
+        "CharaId": 10550405
+    },
+    {
+        "Id": 50550501,
+        "Name": "Lord of the Skies",
+        "CharaId": 10550501
+    },
+    {
+        "Id": 50550502,
+        "Name": "Chaos Child",
+        "CharaId": 10550502
+    },
+    {
+        "Id": 50550503,
+        "Name": "Lord of the Summer Sun",
+        "CharaId": 10550503
+    },
+    {
+        "Id": 50550504,
+        "Name": "Leader of the Monkey Clan",
+        "CharaId": 10550504
+    },
+    {
+        "Id": 50630101,
+        "Name": "Fire's Fletcher",
+        "CharaId": 10630101
+    },
+    {
+        "Id": 50630201,
+        "Name": "Noble Thief",
+        "CharaId": 10630201
+    },
+    {
+        "Id": 50630301,
+        "Name": "Love Seeker",
+        "CharaId": 10630301
+    },
+    {
+        "Id": 50630401,
+        "Name": "Alluring Sniper",
+        "CharaId": 10630401
+    },
+    {
+        "Id": 50640101,
+        "Name": "Stunning Sweetheart",
+        "CharaId": 10640101
+    },
+    {
+        "Id": 50640202,
+        "Name": "Queen of Smiles",
+        "CharaId": 10640202
+    },
+    {
+        "Id": 50640301,
+        "Name": "Curious Archer",
+        "CharaId": 10640301
+    },
+    {
+        "Id": 50640302,
+        "Name": "Hidden Hunter",
+        "CharaId": 10640302
+    },
+    {
+        "Id": 50640401,
+        "Name": "Woodland Archer",
+        "CharaId": 10640401
+    },
+    {
+        "Id": 50640402,
+        "Name": "Wild Hunter",
+        "CharaId": 10640402
+    },
+    {
+        "Id": 50640403,
+        "Name": "Divine Voice",
+        "CharaId": 10640403
+    },
+    {
+        "Id": 50640501,
+        "Name": "Anguished Author",
+        "CharaId": 10640501
+    },
+    {
+        "Id": 50650101,
+        "Name": "The Crimson Star",
+        "CharaId": 10650101
+    },
+    {
+        "Id": 50650102,
+        "Name": "Obvious Admirer",
+        "CharaId": 10650102
+    },
+    {
+        "Id": 50650103,
+        "Name": "Shimmering Guardian",
+        "CharaId": 10650103
+    },
+    {
+        "Id": 50650201,
+        "Name": "Lighthearted Leader",
+        "CharaId": 10650201
+    },
+    {
+        "Id": 50650202,
+        "Name": "Mizutsune Archer",
+        "CharaId": 10650202
+    },
+    {
+        "Id": 50650203,
+        "Name": "The Wing of Purity",
+        "CharaId": 10650203
+    },
+    {
+        "Id": 50650204,
+        "Name": "Small Singing Helper",
+        "CharaId": 10650204
+    },
+    {
+        "Id": 50650301,
+        "Name": "Doting Sister",
+        "CharaId": 10650301
+    },
+    {
+        "Id": 50650302,
+        "Name": "Twilight Hunter",
+        "CharaId": 10650302
+    },
+    {
+        "Id": 50650303,
+        "Name": "Motherly Faerie",
+        "CharaId": 10650303
+    },
+    {
+        "Id": 50650304,
+        "Name": "Cloying Clingy Admirer",
+        "CharaId": 10650304
+    },
+    {
+        "Id": 50650305,
+        "Name": "Hero of Storms",
+        "CharaId": 10650305
+    },
+    {
+        "Id": 50650401,
+        "Name": "Beach Belle",
+        "CharaId": 10650401
+    },
+    {
+        "Id": 50650402,
+        "Name": "Wave-Riding Archer",
+        "CharaId": 10650402
+    },
+    {
+        "Id": 50650403,
+        "Name": "Guardsman of the Verdure",
+        "CharaId": 10650403
+    },
+    {
+        "Id": 50650501,
+        "Name": "Queen of the Sands",
+        "CharaId": 10650501
+    },
+    {
+        "Id": 50650502,
+        "Name": "Devoted Samurai",
+        "CharaId": 10650502
+    },
+    {
+        "Id": 50650503,
+        "Name": "Unrelenting Beauty",
+        "CharaId": 10650503
+    },
+    {
+        "Id": 50650504,
+        "Name": "Pirate Opera Prima Donna",
+        "CharaId": 10650504
+    },
+    {
+        "Id": 50650505,
+        "Name": "Enchanting Aromatherapist",
+        "CharaId": 10650505
+    },
+    {
+        "Id": 50730101,
+        "Name": "Meandering Mage",
+        "CharaId": 10730101
+    },
+    {
+        "Id": 50730301,
+        "Name": "Walking Encyclopedia",
+        "CharaId": 10730301
+    },
+    {
+        "Id": 50730401,
+        "Name": "Boundless Arithmetician",
+        "CharaId": 10730401
+    },
+    {
+        "Id": 50730501,
+        "Name": "Timid Researcher",
+        "CharaId": 10730501
+    },
+    {
+        "Id": 50740101,
+        "Name": "Intrepid Scholar",
+        "CharaId": 10740101
+    },
+    {
+        "Id": 50740201,
+        "Name": "King Starfall",
+        "CharaId": 10740201
+    },
+    {
+        "Id": 50740202,
+        "Name": "Beachside Preacher",
+        "CharaId": 10740202
+    },
+    {
+        "Id": 50740203,
+        "Name": "Sentient Vegetable",
+        "CharaId": 10740203
+    },
+    {
+        "Id": 50740301,
+        "Name": "Meek Messenger",
+        "CharaId": 10740301
+    },
+    {
+        "Id": 50740302,
+        "Name": "Saint's Aegis",
+        "CharaId": 10740302
+    },
+    {
+        "Id": 50740401,
+        "Name": "Child of Miracles",
+        "CharaId": 10740401
+    },
+    {
+        "Id": 50740402,
+        "Name": "Cuteness Incarnate",
+        "CharaId": 10740402
+    },
+    {
+        "Id": 50740501,
+        "Name": "Mad Scientist",
+        "CharaId": 10740501
+    },
+    {
+        "Id": 50750101,
+        "Name": "Outgoing Student",
+        "CharaId": 10750101
+    },
+    {
+        "Id": 50750102,
+        "Name": "Kindly Android",
+        "CharaId": 10750102
+    },
+    {
+        "Id": 50750103,
+        "Name": "Yearning Queen",
+        "CharaId": 10750103
+    },
+    {
+        "Id": 50750104,
+        "Name": "Leader of the Ox Clan",
+        "CharaId": 10750104
+    },
+    {
+        "Id": 50750105,
+        "Name": "Festival Belle",
+        "CharaId": 10750105
+    },
+    {
+        "Id": 50750201,
+        "Name": "Crystalian Princess",
+        "CharaId": 10750201
+    },
+    {
+        "Id": 50750202,
+        "Name": "Ravenous Researcher",
+        "CharaId": 10750202
+    },
+    {
+        "Id": 50750203,
+        "Name": "Belle Forager",
+        "CharaId": 10750203
+    },
+    {
+        "Id": 50750204,
+        "Name": "Artistic Pinnacle",
+        "CharaId": 10750204
+    },
+    {
+        "Id": 50750205,
+        "Name": "Aqueous Auspex",
+        "CharaId": 10750205
+    },
+    {
+        "Id": 50750301,
+        "Name": "Child of the Forest",
+        "CharaId": 10750301
+    },
+    {
+        "Id": 50750302,
+        "Name": "Seaside Scholar",
+        "CharaId": 10750302
+    },
+    {
+        "Id": 50750303,
+        "Name": "Secret Admirer",
+        "CharaId": 10750303
+    },
+    {
+        "Id": 50750304,
+        "Name": "The Wing of War",
+        "CharaId": 10750304
+    },
+    {
+        "Id": 50750401,
+        "Name": "Songstress of the Century",
+        "CharaId": 10750401
+    },
+    {
+        "Id": 50750402,
+        "Name": "Sweet Dream",
+        "CharaId": 10750402
+    },
+    {
+        "Id": 50750403,
+        "Name": "Radiant Sealer",
+        "CharaId": 10750403
+    },
+    {
+        "Id": 50750404,
+        "Name": "Unrelenting Summer Beauty",
+        "CharaId": 10750404
+    },
+    {
+        "Id": 50750405,
+        "Name": "Radiant Auspex",
+        "CharaId": 10750405
+    },
+    {
+        "Id": 50750501,
+        "Name": "Emblian Princess",
+        "CharaId": 10750501
+    },
+    {
+        "Id": 50750502,
+        "Name": "Supreme Sorcerer",
+        "CharaId": 10750502
+    },
+    {
+        "Id": 50750503,
+        "Name": "Sorrowful Royal Magician",
+        "CharaId": 10750503
+    },
+    {
+        "Id": 50750504,
+        "Name": "Otherworld Auspex",
+        "CharaId": 10750504
+    },
+    {
+        "Id": 50750505,
+        "Name": "Vampire Princess",
+        "CharaId": 10750505
+    },
+    {
+        "Id": 50830101,
+        "Name": "Elegant Gambler",
+        "CharaId": 10830101
+    },
+    {
+        "Id": 50830201,
+        "Name": "Kindly Coward",
+        "CharaId": 10830201
+    },
+    {
+        "Id": 50830301,
+        "Name": "Mana Observer",
+        "CharaId": 10830301
+    },
+    {
+        "Id": 50830401,
+        "Name": "Knight at Heart",
+        "CharaId": 10830401
+    },
+    {
+        "Id": 50830402,
+        "Name": "Loving Preacher",
+        "CharaId": 10830402
+    },
+    {
+        "Id": 50830501,
+        "Name": "Perfect Butler",
+        "CharaId": 10830501
+    },
+    {
+        "Id": 50840101,
+        "Name": "Guiding Seer",
+        "CharaId": 10840101
+    },
+    {
+        "Id": 50840102,
+        "Name": "Halloween Prankster",
+        "CharaId": 10840102
+    },
+    {
+        "Id": 50840201,
+        "Name": "Shifty Sailor",
+        "CharaId": 10840201
+    },
+    {
+        "Id": 50840202,
+        "Name": "Battle-Tested Nurse",
+        "CharaId": 10840202
+    },
+    {
+        "Id": 50840301,
+        "Name": "Dependable Brother",
+        "CharaId": 10840301
+    },
+    {
+        "Id": 50840302,
+        "Name": "Magical Bride",
+        "CharaId": 10840302
+    },
+    {
+        "Id": 50840401,
+        "Name": "Diametric Vampire",
+        "CharaId": 10840401
+    },
+    {
+        "Id": 50840402,
+        "Name": "Musical Maestro",
+        "CharaId": 10840402
+    },
+    {
+        "Id": 50840403,
+        "Name": "Captivating Dancer",
+        "CharaId": 10840403
+    },
+    {
+        "Id": 50840501,
+        "Name": "Belle Healer",
+        "CharaId": 10840501
+    },
+    {
+        "Id": 50850101,
+        "Name": "Rosy Saint",
+        "CharaId": 10850101
+    },
+    {
+        "Id": 50850102,
+        "Name": "Summer Sorceress",
+        "CharaId": 10850102
+    },
+    {
+        "Id": 50850103,
+        "Name": "Outfoxed Fox",
+        "CharaId": 10850103
+    },
+    {
+        "Id": 50850104,
+        "Name": "Twin Wings of Freedom",
+        "CharaId": 10850104
+    },
+    {
+        "Id": 50850201,
+        "Name": "Quirky Qilin",
+        "CharaId": 10850201
+    },
+    {
+        "Id": 50850202,
+        "Name": "Princess Starfall",
+        "CharaId": 10850202
+    },
+    {
+        "Id": 50850203,
+        "Name": "Angel of Information",
+        "CharaId": 10850203
+    },
+    {
+        "Id": 50850301,
+        "Name": "Pursuer of Knowledge",
+        "CharaId": 10850301
+    },
+    {
+        "Id": 50850302,
+        "Name": "Bridge Builder",
+        "CharaId": 10850302
+    },
+    {
+        "Id": 50850303,
+        "Name": "Spirited Shopkeeper",
+        "CharaId": 10850303
+    },
+    {
+        "Id": 50850401,
+        "Name": "Devout Oracle",
+        "CharaId": 10850401
+    },
+    {
+        "Id": 50850402,
+        "Name": "Unwavering Auspex",
+        "CharaId": 10850402
+    },
+    {
+        "Id": 50850403,
+        "Name": "Celebrating Cutie",
+        "CharaId": 10850403
+    },
+    {
+        "Id": 50850501,
+        "Name": "Seeker of Truth",
+        "CharaId": 10850501
+    },
+    {
+        "Id": 50850502,
+        "Name": "Beach Beauty",
+        "CharaId": 10850502
+    },
+    {
+        "Id": 50850503,
+        "Name": "Wistful Widow",
+        "CharaId": 10850503
+    },
+    {
+        "Id": 50930401,
+        "Name": "Scorching Sharpshooter",
+        "CharaId": 10930401
+    },
+    {
+        "Id": 50950101,
+        "Name": "Lord of the New Path",
+        "CharaId": 10950101
+    },
+    {
+        "Id": 50950102,
+        "Name": "The Wing of Righteousness",
+        "CharaId": 10950102
+    },
+    {
+        "Id": 50950103,
+        "Name": "Blessed Alchemist",
+        "CharaId": 10950103
+    },
+    {
+        "Id": 50950201,
+        "Name": "The Blue Rose",
+        "CharaId": 10950201
+    },
+    {
+        "Id": 50950202,
+        "Name": "Leader of the Rooster Clan",
+        "CharaId": 10950202
+    },
+    {
+        "Id": 50950203,
+        "Name": "Sylvan Sharpshooter",
+        "CharaId": 10950203
+    },
+    {
+        "Id": 50950301,
+        "Name": "Resolved Hunter",
+        "CharaId": 10950301
+    },
+    {
+        "Id": 50950302,
+        "Name": "Sinful Marksman",
+        "CharaId": 10950302
+    },
+    {
+        "Id": 50950303,
+        "Name": "Disgraced Knight",
+        "CharaId": 10950303
+    },
+    {
+        "Id": 50950401,
+        "Name": "Flawless Alchemist",
+        "CharaId": 10950401
+    },
+    {
+        "Id": 50950402,
+        "Name": "Rational Android",
+        "CharaId": 10950402
+    },
+    {
+        "Id": 50950403,
+        "Name": "Mischievous Android",
+        "CharaId": 10950403
+    },
+    {
+        "Id": 50950501,
+        "Name": "Passionate Princess",
+        "CharaId": 10950501
+    },
+    {
+        "Id": 50950502,
+        "Name": "Midsummer Temptress",
+        "CharaId": 10950502
+    },
+    {
+        "Id": 50950503,
+        "Name": "Embracing Shadow",
+        "CharaId": 10950503
+    }
+]

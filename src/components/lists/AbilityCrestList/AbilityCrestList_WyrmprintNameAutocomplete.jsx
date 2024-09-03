@@ -9,7 +9,7 @@ import notteWtfIcon from '../../../assets/icons/nottewtf.png';
 
 function AbilityCrestList_WyrmprintNameAutocomplete({activeWyrmprintMeta, onSetActiveWyrmprintIdByName, wyrmprintNameList}) {
 
-  const [activeWyrmprintName, setActiveWyrmprintName] = useState('');
+  const [activeWyrmprintName, setActiveWyrmprintName] = useState("Savage Hawk (Bow's Boon)");
 
   const IMG_SIZE = 36;
 

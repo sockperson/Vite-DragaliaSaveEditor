@@ -5,6 +5,13 @@ export const EditorState = Object.freeze({
     SAVE_READ: 3       
 });
 
+export const ExportStatus = Object.freeze({
+    DEFAULT: 0,
+    EXPORT_IN_PROGRESS: 1,
+    EXPORT_SUCCESS: 2,
+    EXPORT_FAIL: 3
+});
+
 export const QuestWallId = Object.freeze({
     FLAME: 216010001,             
     WATER: 216010002,
@@ -24,6 +31,14 @@ export const WeaponTypeId = Object.freeze({
     STAFF: 8,
     MANACASTER: 9
 });
+
+export const ElementTypeId = Object.freeze({
+    FLAME: 1,
+    WATER: 2,
+    WIND: 3,
+    LIGHT: 4,
+    SHADOW: 5
+})
 
 export const WeaponSeries = Object.freeze({
     CORE: "Core",
@@ -125,3 +140,20 @@ export const weaponTypeIdToString = (weaponTypeId) => {
             return "Unknown";
     }
 };
+
+export const elementTypeIdToString = (elementTypeId) => {
+    switch (elementTypeId) {
+        case 1:
+            return "Flame";
+        case 2:
+            return "Water";
+        case 3:
+            return "Wind";
+        case 4:
+            return "Light";
+        case 5:
+            return "Shadow";
+        default:
+            return "Unknown";
+    }
+}

@@ -13,7 +13,7 @@ function AbilityCrestList_WyrmprintInfo({wyrmprintId, wyrmprintMeta}) {
 
   const wyrmprintObject = useSelector(state => state.jsonData.data.ability_crest_list
     .find(wyrmprintObject => wyrmprintObject["ability_crest_id"] === wyrmprintId));
-  
+    
   let content;
   if (wyrmprintMeta === undefined) {
     content = (<p>No Wyrmprint selected.</p>);

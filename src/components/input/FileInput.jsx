@@ -4,6 +4,7 @@ import { useSelector, useDispatch } from 'react-redux';
 
 import { updateJsonData } from '../../actions/JsonDataActions';
 import { updateEditorState } from '../../actions/EditorStateActions';
+import { updateFileName } from '../../actions/FileNameActions';
 
 import { EditorState } from '../../enum/Enums';
 
@@ -29,6 +30,7 @@ function FileInput() {
           EditorState.INVALID_FILE_IMPORTED;
         setFile(uploadedFile);
         dispatch(updateEditorState(resultEditorState));
+        dispatch(updateFileName(uploadedFile.name));
       };
       reader.readAsText(uploadedFile);
     }

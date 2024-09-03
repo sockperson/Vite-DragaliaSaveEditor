@@ -36,61 +36,36 @@ function QuestWallList_Slider({questWallId}) {
   const dispatch = useDispatch();
   const questWallObject = useSelector(state => state.jsonData.data.quest_wall_list
     .find(questWall => questWall["wall_id"] === questWallId));
-
-  const prevIsStartNextLevelState = useRef(questWallObject.is_start_next_level);
-
+  
+  const initialWallLevel = useRef(questWallObject.wall_level);
   const icon = iconMap[questWallId] || notteWtfIcon;
 
   const handleWallLevelChange = (event) => {
-    let prevValue = questWallObject.wall_level;
     let value = event.target.value;
     let newValue = Math.max(Math.min(value, QUEST_WALL_LEVEL_MAX), 0);
-    let newIsStartNextLevel = questWallObject.is_start_next_level;
-    // Going from non-max to max level; started next level flag forced to false
-    if (value === QUEST_WALL_LEVEL_MAX) {
-      newIsStartNextLevel = 0;
-    } else { // If not, then keep track of previous flag value
-      if (prevValue !== QUEST_WALL_LEVEL_MAX) {
-        prevIsStartNextLevelState.current = newIsStartNextLevel;
-      }
-    }
 
-    // Going from max to non-max level; restore previous flag value
-    if (prevValue === QUEST_WALL_LEVEL_MAX) {
-      newIsStartNextLevel = prevIsStartNextLevelState.current;
-    }
+    const valueChanged = newValue != initialWallLevel.current;
+    // if wall level changed, then set is_start_next_level to 0
+    const newIsStartNextLevel = (valueChanged) ? 0 : 1;
     
     dispatch(updateJsonDataListField("quest_wall_list", "wall_id", questWallId, "wall_level", newValue))
-    if (newIsStartNextLevel !== questWallObject.is_start_next_level) {
-      dispatch(updateJsonDataListField("quest_wall_list", "wall_id", questWallId, "is_start_next_level", newIsStartNextLevel))
-    }
+    dispatch(updateJsonDataListField("quest_wall_list", "wall_id", questWallId, "is_start_next_level", newIsStartNextLevel))
   };
 
-  const handleIsStartNextLevelChange = (event) => {
-    let value = event.target.checked ? 1 : 0;
-    dispatch(updateJsonDataListField("quest_wall_list", "wall_id", questWallId, "is_start_next_level", value))
-  }
-
   return (
-    <div style={{ display: 'flex', alignItems: 'center' }}>
+    <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
       <Slider
         value={questWallObject.wall_level || -1}
         onChange={handleWallLevelChange}
         aria-labelledby="input-slider"
         min={0}
         max={QUEST_WALL_LEVEL_MAX}
-        style={{ marginRight: 8 }} // Add some spacing between the slider and the text field
+        style={{ marginRight: 8, width: '50%' }} // Adjust the width as needed
       />
-      <Box display="flex" alignItems="center">
+      <Box display="flex" alignItems="center" style={{ marginLeft: 16 }}>
         <img src={icon} alt="Icon" style={{ width: 24, height: 24, marginRight: 8 }} />
         <Typography variant="body1">Level: {questWallObject.wall_level}</Typography>
       </Box>
-      <Checkbox
-        checked={questWallObject.is_start_next_level == 1}
-        onChange={handleIsStartNextLevelChange}
-        inputProps={{ 'aria-label': 'Has Started Next Level?' }}
-        disabled={questWallObject.wall_level >= QUEST_WALL_LEVEL_MAX}
-      />
     </div>
   );
 }

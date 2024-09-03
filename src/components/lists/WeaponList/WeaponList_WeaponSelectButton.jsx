@@ -15,7 +15,7 @@ function WeaponList_WeaponSelectButton({weaponId, weaponMeta, weaponSkinMeta, is
   
   const isOwned = weaponObject ? true : false;
   
-  const BUTTON_SIZE = 96;
+  const BUTTON_SIZE = 80;
 
   const imgSrc = weaponSkinMeta ? (ImageUtils.getWeaponSkinImage(
     weaponSkinMeta.BaseId,
