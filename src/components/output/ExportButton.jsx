@@ -74,8 +74,11 @@ function ExportButton() {
             jsonData.data.album_dragon_list, jsonData.data.dragon_reliability_list);
         //await runTest("noMonaTest", results, Validation.noMonaTest, jsonData.data.chara_list);
         setTestResults(results);
-        setExportStatus(results.fail > 0 ? ExportStatus.EXPORT_FAIL : ExportStatus.EXPORT_SUCCESS);
-        handleDownloadSaveData();
+        const exportStatus = results.fail > 0 ? ExportStatus.EXPORT_FAIL : ExportStatus.EXPORT_SUCCESS;
+        setExportStatus(exportStatus);
+        if (exportStatus === ExportStatus.EXPORT_SUCCESS) {
+            handleDownloadSaveData();
+        }
     }
 
     const incrementTestCount = () => {
@@ -116,7 +119,7 @@ function ExportButton() {
                     }
                 );
                 return (
-                    <div>
+                    <div className="export-fail-message">
                         <p>Unable to validate export save! (Test failures)</p>
                         <p>Please contact @sockperson if this appears.</p>
                         <p>Test Results:</p>
@@ -140,13 +143,15 @@ function ExportButton() {
 
     return (
         <div style={{
-            marginBottom: '30px',
+            marginBottom: '20px',
             marginTop: '20px'
         }}>
             <Button {...commonProps} onClick={handleExport}>
                 Export Save Data
             </Button>
-            {exportInfo()}
+            <div style={{marginBottom: '20px'}}>
+                {exportInfo()}
+            </div>
         </div>
     );
 }

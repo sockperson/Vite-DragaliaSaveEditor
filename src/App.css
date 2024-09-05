@@ -73,3 +73,8 @@
   font-weight: bold;
   font-style: normal;
 }
+
+.export-fail-message {
+  margin-top: 20px;
+  margin-bottom: 60px;
+}

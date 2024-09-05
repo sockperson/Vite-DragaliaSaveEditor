@@ -2,7 +2,12 @@
 
 This project maintains a webapp that allows users to input a Dragalia Lost save file JSON and edit its contents.
 
-The React.JS is built with Vite, and uses Redux for state management of the save file and Immer to facilitate reducing Redux actions.
+This React.JS project is built with Vite, using Redux for state management of the save file.
 
 Maintained by:
 @sockperson
+
+Special Thanks to:
+@dreadfullydistinct - For being super helpful in helping me understand frontend, React, and Redux fundamentals
+@Ceris - For hosting image assets for the UI
+
