@@ -16,9 +16,17 @@ import wand from '../assets/icons/weapons/wand.png';
 import staff from '../assets/icons/weapons/staff.png';
 import manacaster from '../assets/icons/weapons/manacaster.png';
 
+import dream from '../assets/icons/summon_voucher/dream.png';
+import single from '../assets/icons/summon_voucher/single.png';
+import tenfold from '../assets/icons/summon_voucher/tenfold.png';
+import adventurer from '../assets/icons/summon_voucher/5star_adventurer.png';
+import adventurerPlus from '../assets/icons/summon_voucher/5star_adventurer_plus.png';
+import dragon from '../assets/icons/summon_voucher/5star_dragon.png';
+import dragonPlus from '../assets/icons/summon_voucher/5star_dragon_plus.png';
+
 function zeroPad(number, digits) {
     return String(number).padStart(digits, '0');
-  }
+}
 
 const getMaterialImage = (id, size) => {
     return `https://minty.sbs/images/icon/item/materialdata/m/${id}.webp`;
@@ -71,7 +79,23 @@ const getWeaponSkinImage = (baseId, variationId, formId, size) => {
 }
 
 const getConsumableImage = (id) => {
-    return `https://cdn.minty.sbs/images/icon/item/useitem/l/${id}.webp`;
+    switch (id) {
+        case 10001:
+        case 10002:
+            return dream;
+        case 10101:
+            return single;
+        case 10102:
+            return tenfold;
+        case 10301:
+            return adventurer;
+        case 10302:
+            return dragon;
+        case 10501:
+            return adventurerPlus;
+        case 10502:
+            return dragonPlus;
+    }
 }
 
 const getWyrmprintImage = (baseId, rarity, size) => {

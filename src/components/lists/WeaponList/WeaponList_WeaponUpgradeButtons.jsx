@@ -4,6 +4,8 @@ import { useSelector, useDispatch } from 'react-redux';
 import { updateJsonDataListField, addJsonDataListObject, 
   replaceJsonDataListObject, addToObjectListObjectField } from '../../../actions/JsonDataActions';
 
+import { WeaponBuildupPieceType } from '../../../enum/Enums';
+
 import Button from '@mui/material/Button';
 import ButtonGroup from '@mui/material/ButtonGroup';
 import IconButton from '@mui/material/IconButton';
@@ -19,7 +21,7 @@ import useDragaliaActions from '../../../util/DragaliaActionsUtils';
 function WeaponList_WeaponSelectButton({weaponId, weaponMeta}) { 
   
   const dispatch = useDispatch();
-  const { addWeaponSkin } = useDragaliaActions();
+  const { addWeaponSkin, handleWeaponBuildupSkins, handleWeaponBuildupSkinsAll } = useDragaliaActions();
 
   const weaponObject = useSelector(state => state.jsonData.data.weapon_body_list
     .find(weaponObject => weaponObject["weapon_body_id"] === weaponId));
@@ -54,6 +56,7 @@ function WeaponList_WeaponSelectButton({weaponId, weaponMeta}) {
     const newUnbinds = Math.min(unbinds + 1, weaponDetails.maxUnbindCount, weaponUnbindCap);
     dispatch(updateJsonDataListField("weapon_body_list", 
       "weapon_body_id", weaponId, "limit_break_count", newUnbinds));
+    handleWeaponBuildupSkins(weaponMeta, WeaponBuildupPieceType.UNBIND, newUnbinds);
   }
 
   const onRefine = () => {
@@ -61,6 +64,7 @@ function WeaponList_WeaponSelectButton({weaponId, weaponMeta}) {
     const newRefines = Math.min(refines + 1, weaponDetails.maxRefineCount);
     dispatch(updateJsonDataListField("weapon_body_list", 
       "weapon_body_id", weaponId, "limit_over_count", newRefines));
+    handleWeaponBuildupSkins(weaponMeta, WeaponBuildupPieceType.REFINEMENT, newRefines);
   }
 
   const onAddCopies = () => {
@@ -92,6 +96,7 @@ function WeaponList_WeaponSelectButton({weaponId, weaponMeta}) {
 
   const onMax = () => {
     handleWeaponBonus();
+    handleWeaponBuildupSkinsAll(weaponMeta);
     if (!isOwned) {
       const newWeaponObject = DragaliaUtils.getMaxedWeapon(weaponId, weaponDetails, null);
       dispatch(addJsonDataListObject("weapon_body_list", newWeaponObject));

@@ -15,7 +15,7 @@ function SummonTicketList() {
     return (
       <Grid container spacing={1}>
         {Array.from(possibleTicketIds).map(id => (
-          <Grid item xs={3} sm={3} md={3} key={id}>
+          <Grid item xs={12} sm={12} md={6} key={id}>
             <SummonTicketList_NumberInput
               summonTicketId={id}
               summonTicketMeta={summonTicketMap[id]}

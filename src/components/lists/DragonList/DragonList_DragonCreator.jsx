@@ -30,15 +30,30 @@ function DragonList_DragonCreator({
   const ABILITY_IMG_SIZE = 40;
   const TALISMAN_LIST_MAX_CAPACITY = 500;
   const ELDWATER_IMG_SIZE = 20;
+
+  const GALA_MARS = 20050113;
   const GALA_BEAST_CIELLA = 20050217;
+  const GALA_REBORN_ZEPHYR = 20050316;
+  const GALA_CHRONOS_NYX = 20050418;
+  const SHINOBI = 20050509;
 
   const dragonListMaxCapacity = useSelector(state => state.jsonData.data.user_data.max_dragon_quantity);
   
   const dragonMap = useContext(MappingContext).dragonMap;
 
-  const [activeDragonMeta, setActiveDragonMeta] = useState(dragonMap[GALA_BEAST_CIELLA]);
+  const defaultDragonMetas = {
+    [ElementTypeId.FLAME]: dragonMap[GALA_MARS],
+    [ElementTypeId.WATER]: dragonMap[GALA_BEAST_CIELLA],
+    [ElementTypeId.WIND]: dragonMap[GALA_REBORN_ZEPHYR],
+    [ElementTypeId.LIGHT]: dragonMap[GALA_CHRONOS_NYX],
+    [ElementTypeId.SHADOW]: dragonMap[SHINOBI]
+  }
+
+  const [activeDragonMetas, setActiveDragonMetas] = useState(defaultDragonMetas);
   const [activeElementId, setActiveElementId] = useState(ElementTypeId.WATER);
   const [toAddMaxedDragon, setToAddMaxedDragon] = useState(false);
+
+  const activeDragonMeta = activeDragonMetas[activeElementId];
 
   const [isDeleteEquippedDialogOpen, setIsDeleteEquippedDialogOpen] = useState(false);
 
@@ -69,9 +84,13 @@ function DragonList_DragonCreator({
     dispatch(resetListObjectListField("party_list", "party_setting_list", "equip_dragon_key_id", activeDragonKeyId));
   };
 
+  const handleSetActiveDragonMeta = (dragonMeta) => {
+    setActiveDragonMetas({ ...activeDragonMetas, [dragonMeta.ElementalTypeId]: dragonMeta });
+  }
+
   const handleActiveDragonChange = (event, dragonMeta) => {
     if (dragonMeta != null) {
-      setActiveDragonMeta(dragonMeta);
+      handleSetActiveDragonMeta(dragonMeta);
     }
   }
 

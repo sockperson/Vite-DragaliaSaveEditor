@@ -116,6 +116,11 @@ export const StatType = Object.freeze({
     HP: 1
 });
 
+export const WeaponBuildupPieceType = Object.freeze({
+   UNBIND: 1,
+   REFINEMENT: 2 
+});
+
 export const weaponTypeIdToString = (weaponTypeId) => {
     switch (weaponTypeId) {
         case WeaponTypeId.SWORD:

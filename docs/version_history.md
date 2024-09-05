@@ -1,7 +1,7 @@
 # beta-1.0 (7/2/24)
 * Implement functional editors for `user_data, quest_wall_list, summon_ticket_list, material_list, weapon_list, ability_crest_list`.
 
-# beta-1.1 (8/XX/24)
+# beta-1.1 (9/3/24)
 * Implement functional editors for `chara_list`, `dragon_list`, `talisman_list`.
 * Implement readonly view for `fort_bonus_list`.
 * Add savedata repair system.
@@ -13,3 +13,9 @@
 * Add weapon skin handling for crafting new weapons.
 * Add save editor infos (version, author) to exported save data.
 * Some other minor issues...
+
+# beta-1.2 (9/4/24)
+* Fix issue in weapons list where selected template dragon and selected element type could be mismatched
+* Fix editor state rendering where it could display "Unrecognized editor state"
+* Handle weapon skins for unbinding and refining certain weapons
+* Fix some styling in summon ticket list and materials list

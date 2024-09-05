@@ -51,6 +51,7 @@ function SaveEditor({ editorVersion }) {
   const summonTicketMapRef = useRef(null);
   const weaponMapRef = useRef(null);
   const weaponSkinMapRef = useRef(null);
+  const weaponBodyBuildupGroupMapRef = useRef(null);
   const wyrmprintMapRef = useRef(null);
   const adventurerMapRef = useRef(null);
   const portraitWyrmprintMapRef = useRef(null);
@@ -70,7 +71,8 @@ function SaveEditor({ editorVersion }) {
         loadedDragonMap, 
         loadedSummonTicketMap, 
         loadedWeaponMap, 
-        loadedWeaponSkinMap, 
+        loadedWeaponSkinMap,
+        loadedWeaponBodyBuildupGroupMap,
         loadedWyrmprintMap,
         loadedAdventurerMap,
         loadedPortraitWyrmprintMap,
@@ -82,6 +84,7 @@ function SaveEditor({ editorVersion }) {
         DragaliaData.getSummonTicketMap(),
         DragaliaData.getWeaponMap(),
         DragaliaData.getWeaponSkinMap(),
+        DragaliaData.getWeaponBodyBuildupGroupMap(),
         DragaliaData.getWyrmprintMap(),
         DragaliaData.getAdventurerMap(),
         DragaliaData.getPortraitWyrmprintMap(),
@@ -94,6 +97,7 @@ function SaveEditor({ editorVersion }) {
       summonTicketMapRef.current = loadedSummonTicketMap;
       weaponMapRef.current = loadedWeaponMap;
       weaponSkinMapRef.current = loadedWeaponSkinMap;
+      weaponBodyBuildupGroupMapRef.current = loadedWeaponBodyBuildupGroupMap;
       wyrmprintMapRef.current = loadedWyrmprintMap;
       adventurerMapRef.current = loadedAdventurerMap;
       portraitWyrmprintMapRef.current = loadedPortraitWyrmprintMap;
@@ -114,6 +118,7 @@ function SaveEditor({ editorVersion }) {
     summonTicketMap: summonTicketMapRef.current,
     weaponMap: weaponMapRef.current,
     weaponSkinMap: weaponSkinMapRef.current,
+    weaponBodyBuildupGroupMap: weaponBodyBuildupGroupMapRef.current,
     wyrmprintMap: wyrmprintMapRef.current,
     adventurerMap: adventurerMapRef.current,
     portraitWyrmprintMap: portraitWyrmprintMapRef.current,
@@ -131,6 +136,7 @@ function SaveEditor({ editorVersion }) {
 
   const { repairDragonStories } = useRepairUtils(maps);
 
+  // handle repairing save data if needed
   useEffect(() => {
     if (areMapsLoaded) {
       const repairSave = async () => {

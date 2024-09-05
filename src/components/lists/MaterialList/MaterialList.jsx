@@ -31,7 +31,7 @@ function MaterialList() {
     return (
       <Grid container spacing={2}>
         {Array.from(activeMaterialIds).map(id => (
-          <Grid item xs={3} sm={3} md={3} key={id}>
+          <Grid item xs={6} sm={6} md={4} key={id}>
             <MaterialList_NumberInput
               materialId={id}
               materialMeta={materialMap[id]}

@@ -16,7 +16,7 @@ import ErrorBoundary from './ErrorBoundary';
 
 function App() {
 
-  const VERSION = "beta-1.1";
+  const VERSION = "beta-1.2";
 
   const editorState = useSelector(state => state.editorState);
 
@@ -24,8 +24,8 @@ function App() {
     switch (editorState) {
       case EditorState.VALID_JSON_IMPORTED:
         return <p>Valid JSON imported.</p>;
-      case EditorState.INVALID_JSON_IMPORTED:
-        return <p>Invalid JSON imported.</p>;
+      case EditorState.INVALID_FILE_IMPORTED:
+        return <p>Invalid file imported.</p>;
       case EditorState.SAVE_READ:
         return <p>Showing save editor.</p>;  
       case EditorState.DEFAULT:
@@ -48,7 +48,7 @@ function App() {
     <ErrorBoundary>
       <div className="App" style={{ height: '100vh', overflowY: 'auto' }}>
         <AppBar position="static">
-          <Toolbar>
+          <Toolbar style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
             <IconButton edge="start" color="inherit" aria-label="github" 
               href="https://github.com/sockperson/Vite-DragaliaSaveEditor"
               target="_blank" rel="noopener noreferrer"
@@ -56,13 +56,13 @@ function App() {
               <GitHubIcon />
             </IconButton>
             <Typography variant="h6" style={{ 
-              flexGrow: 0, 
+              flexGrow: 1, 
               marginLeft: '16px',
-              fontFamily: '"ITC Avant Garde Gothic Condensed Bold", sans-serif' 
+              fontFamily: '"ITC Avant Garde Gothic Condensed Bold", sans-serif',
+              textAlign: 'left'
             }}>
               Dragalia Lost Save Editor
             </Typography>
-            <div style={{ flexGrow: 1 }}></div>
             <Typography variant="h6" style={{ 
               flexGrow: 0, 
               marginRight: '16px',
@@ -72,12 +72,32 @@ function App() {
             </Typography>
           </Toolbar>
         </AppBar>
-        <header className="App-header" style={{marginTop: '30px'}}>
+        <header className="App-header" style={{ marginTop: '30px', padding: '20px' }}>
           {getEditorState()}
         </header>
         <FileInput />
         {saveEditor()}
       </div>
+      <style>
+        {`
+          @media (max-width: 600px) {
+            .App-header {
+              margin-top: 50px; /* Adjust as needed */
+            }
+            .MuiTypography-h6 {
+              font-size: 1rem; /* Adjust font size for smaller screens */
+            }
+            .MuiToolbar-root {
+              flex-direction: row;
+              align-items: center;
+              justify-content: space-between;
+            }
+            .MuiIconButton-root {
+              margin-bottom: 0; /* Ensure no extra space */
+            }
+          }
+        `}
+      </style>
     </ErrorBoundary>
   );
 }

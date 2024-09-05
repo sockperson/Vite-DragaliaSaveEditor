@@ -6,6 +6,8 @@ import { addJsonDataListObject, replaceJsonDataListObject, addToObjectListObject
 
  } from '../actions/JsonDataActions';
 
+import { WeaponBuildupPieceType } from '../enum/Enums';
+
 import JsonUtils from './JsonUtils';
 import DragaliaUtils from './DragaliaUtils';
 
@@ -22,6 +24,10 @@ const useDragaliaActions = () => {
     const weaponSkinList = useSelector(state => state.jsonData.data.weapon_skin_list);
 
     const ARSENE = 20050522;
+
+    function zeroPad(number, digits) {
+        return String(number).padStart(digits, '0');
+    }
 
     const addAdventurerStory = (adventurerId, onlyAddFirst) => {
 
@@ -187,7 +193,7 @@ const useDragaliaActions = () => {
             };
         }
         dispatch(addJsonDataListObject("album_dragon_list", entry));
-        console.log(`Added new dragon album entry for dragon: ${dragonMeta.FullName} (${id})`);
+        console.log(`Added new dragon album entry for dragon: ${dragonMeta.FullName} (${dragonId})`);
     }
 
     const addNewDragonReliabilityEntry = (dragonMeta) => {
@@ -247,9 +253,20 @@ const useDragaliaActions = () => {
             addNewEncyclopediaEntry(dragonMeta, addAsMaxed);
             addNewDragonReliabilityEntry(dragonMeta);
         }
+
+        // The dragon "Arsene" always comes at bond level 30
+        // and its dragon stories are unlocked by default
+        if (dragonId === ARSENE) {
+            addDragonStory(dragonMeta, 1);
+            addDragonStory(dragonMeta, 2);
+        }
     }
 
     const addWeaponSkin = (weaponSkinId) => {
+        if (weaponSkinId === 0) {
+            return;
+        }
+
         const weaponSkinObject = weaponSkinList.find(obj => obj.weapon_skin_id === weaponSkinId);
         if (weaponSkinObject !== undefined) {
             return;
@@ -264,13 +281,63 @@ const useDragaliaActions = () => {
         dispatch(addJsonDataListObject("weapon_skin_list", newWeaponSkin));
     }
 
+    const handleWeaponBuildupSkins = (weaponMeta, weaponBuildupPieceType, step) => {
+        const buildupGroupId = weaponMeta.WeaponBodyBuildupGroupId;
+        const buildupPieceTypeString = zeroPad(weaponBuildupPieceType, 2);
+        const stepString = zeroPad(step, 2);
+        const weaponBodyBuildupGroupId = +`${buildupGroupId}${buildupPieceTypeString}${stepString}`;
+        const weaponBodyBuildupGroup = maps.weaponBodyBuildupGroupMap[weaponBodyBuildupGroupId];
+        
+        if (weaponBodyBuildupGroup === undefined) {
+            console.error(`No weapon buildup group found for ID: ${weaponBodyBuildupGroupId},
+                weapon ID: ${weaponMeta.Id}, type: ${weaponBuildupPieceType}, step: ${step}`);
+            return;
+        }
+
+        const rewardWeaponSkinNo = weaponBodyBuildupGroup.RewardWeaponSkinNo;
+        if (rewardWeaponSkinNo === 0) {
+            return;
+        }
+
+        let weaponSkinId = 0;
+        switch (rewardWeaponSkinNo) {
+            case 1:
+                weaponSkinId = weaponMeta.RewardWeaponSkinId1;
+                break;
+            case 2:
+                weaponSkinId = weaponMeta.RewardWeaponSkinId2;
+                break;
+            case 3:
+                weaponSkinId = weaponMeta.RewardWeaponSkinId3;
+                break;
+            default:
+                console.error(`Invalid reward weapon skin number: ${rewardWeaponSkinNo}`);
+                return;
+        }
+        addWeaponSkin(weaponSkinId);
+    }
+
+    const handleWeaponBuildupSkinsAll = (weaponMeta) => {
+        const weaponDetails = DragaliaUtils.getWeaponDetails(weaponMeta);
+
+        for (let i = 1; i <= weaponDetails.maxUnbindCount; i++) {
+            handleWeaponBuildupSkins(weaponMeta, WeaponBuildupPieceType.UNBIND, i);
+        }
+
+        for (let i = 1; i <= weaponDetails.maxRefineCount; i++) {
+            handleWeaponBuildupSkins(weaponMeta, WeaponBuildupPieceType.REFINEMENT, i);
+        }
+    }
+
     return { 
         addAdventurerStory,
         addDragonStory,
         handleDragonEncyclopedia,
         maxAdventurer,
         addDragon,
-        addWeaponSkin
+        addWeaponSkin,
+        handleWeaponBuildupSkins,
+        handleWeaponBuildupSkinsAll
     };
 };
 

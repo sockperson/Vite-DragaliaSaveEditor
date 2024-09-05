@@ -3,12 +3,12 @@ import dragonList from './assets/lists/dragons/dragons.json';
 import summonTicketList from './assets/lists/summon_ticket/summon_ticket.json';
 import weaponList from './assets/lists/weapon/weapons.json';
 import weaponSkinList from './assets/lists/weapon/weaponSkin.json';
+import weaponBodyBuildupGroupList from './assets/lists/weapon/weaponBodyBuildupGroup.json';
 import wyrmprintList from './assets/lists/wyrmprints/wyrmprints.json';
 import adventurerList from './assets/lists/adventurers/adventurers.json';
 import charaStoryList from './assets/lists/adventurers/CharaStories.json';
 import portraitWyrmprintList from './assets/lists/wyrmprints/portraitWyrmprints.json';
 import abilityList from './assets/lists/ability/abilities.json';
-
 import JsonUtils from './util/JsonUtils';
 import { MaterialCategoryMap } from './definitions/Definitions';
 
@@ -83,6 +83,7 @@ const getMaterialIdsByCategoryGroup = (materialMap) => {
 }
 
 const getWeaponSkinMap = () => { return getMap(weaponSkinList); }
+const getWeaponBodyBuildupGroupMap = () => { return getMap(weaponBodyBuildupGroupList); }
 const getWyrmprintMap = () => { return getMap(wyrmprintList); }
 const getAdventurerMap = () => { return getMapByKey(adventurerList, "IdLong"); }
 const getPortraitWyrmprintMap = () => { return getMap(portraitWyrmprintList); }
@@ -93,10 +94,13 @@ const getCharaStoryMap = () => { return charaStoryList; }
 const addField = () => {
   const map1 = getMap(weaponList);
   const map2 = getMap(weaponList2);
-  const addField = "HasWeaponBonus";
+  const addFields = ["RewardWeaponSkinId1", "RewardWeaponSkinId2", "RewardWeaponSkinId3", "WeaponBodyBuildupGroupId"];
   for (let key in map1) {
-    map1[key][addField] = map2[key][addField];
+    for (let field of addFields) {
+      map1[key][field] = map2[key][field];
+    }
   }
+
   console.log("Output: ", Object.values(map1));
 }
 
@@ -106,6 +110,7 @@ export default {
     getSummonTicketMap,
     getWeaponMap,
     getWeaponSkinMap,
+    getWeaponBodyBuildupGroupMap,
     getWyrmprintMap,
     getMaterialIdsByCategoryGroup,
     getAdventurerMap,

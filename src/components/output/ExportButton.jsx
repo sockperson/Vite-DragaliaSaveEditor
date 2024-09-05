@@ -13,7 +13,7 @@ function ExportButton() {
     const jsonData = useSelector(state => state.jsonData);
     const fileName = useSelector(state => state.fileName);
 
-    const TEST_COUNT = 10;
+    const TEST_COUNT = 7;
     const [exportStatus, setExportStatus] = useState(ExportStatus.DEFAULT);
     const [testCount, setTestCount] = useState(0);
 
@@ -75,7 +75,7 @@ function ExportButton() {
         //await runTest("noMonaTest", results, Validation.noMonaTest, jsonData.data.chara_list);
         setTestResults(results);
         setExportStatus(results.fail > 0 ? ExportStatus.EXPORT_FAIL : ExportStatus.EXPORT_SUCCESS);
-        //handleDownloadSaveData();
+        handleDownloadSaveData();
     }
 
     const incrementTestCount = () => {

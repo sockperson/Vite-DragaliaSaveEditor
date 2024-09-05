@@ -1,0 +1,8346 @@
+[
+    {
+        "BuildupPieceType": 1,
+        "Id": 1100101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 110
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 1100102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 110
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 1100103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 110
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 1100104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 110
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 1100602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 110
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 1100603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 110
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 1100604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 110
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 1300101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 130
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 1300102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 130
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 1300103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 130
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 1300104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 130
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 1300602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 130
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 1300603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 130
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 1300604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 130
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 1700101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 170
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 1700102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 170
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 1700103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 170
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 1700104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 170
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 1700602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 170
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 1700603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 170
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 1700604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 170
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 2100101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 210
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 2100102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 210
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 2100103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 210
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 2100104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 210
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 2100602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 210
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 2100603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 210
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 2100604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 210
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 2300101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 230
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 2300102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 230
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 2300103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 230
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 2300104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 230
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 2300602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 230
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 2300603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 230
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 2300604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 230
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 2700101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 270
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 2700102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 270
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 2700103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 270
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 2700104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 270
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 2700602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 270
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 2700603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 270
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 2700604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 270
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 2900101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 290
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 2900102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 290
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 2900103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 290
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 2900104,
+        "RewardWeaponSkinNo": 1,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 290
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 2900602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 290
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 2900603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 290
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 2900604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 290
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3100101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 310
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3100102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 310
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3100103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 310
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3100104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 310
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 3100602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 310
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 3100603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 310
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 3100604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 310
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3200101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 320
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3200102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 320
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3200103,
+        "RewardWeaponSkinNo": 2,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 320
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3200104,
+        "RewardWeaponSkinNo": 3,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 320
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 3200602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 320
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 3200603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 320
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 3200604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 320
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3300101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 330
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3300102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 330
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3300103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 330
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3300104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 330
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 3300602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 330
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 3300603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 330
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 3300604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 330
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3400101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 340
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3400102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 340
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3400103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 340
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3400104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 340
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 3400602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 340
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 3400603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 340
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 3400604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 340
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3500101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 350
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3500102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 350
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3500103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 350
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3500104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 350
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 3500602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 350
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 3500603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 350
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 3500604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 350
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3600101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 360
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3600102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 360
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3600103,
+        "RewardWeaponSkinNo": 2,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 360
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3600104,
+        "RewardWeaponSkinNo": 3,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 360
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 3600602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 360
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 3600603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 360
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 3600604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 360
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3700101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 370
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3700102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 370
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3700103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 370
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3700104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 370
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 3700602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 370
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 3700603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 370
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 3700604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 370
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3800101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 380
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3800102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 380
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3800103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 380
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3800104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 380
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 3800602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 380
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 3800603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 380
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 3800604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 380
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3900101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 390
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3900102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 390
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3900103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 390
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 3900104,
+        "RewardWeaponSkinNo": 1,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 390
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 3900602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 390
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 3900603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 390
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 3900604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 390
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4110101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 411
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4110102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 411
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4110103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 411
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4110104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 411
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4110301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 411
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4110501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 411
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4110602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 411
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4110603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 411
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4110604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 411
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4120101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 412
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4120102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 412
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4120103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 412
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4120104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 412
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4120301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 412
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4120501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 412
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4120602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 412
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4120603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 412
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4120604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 412
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4130101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 413
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4130102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 413
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4130103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 413
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4130104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 413
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4130301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 413
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4130501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 413
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4130602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 413
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4130603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 413
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4130604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 413
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4140101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 414
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4140102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 414
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4140103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 414
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4140104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 414
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4140301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 414
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4140501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 414
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4140602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 414
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4140603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 414
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4140604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 414
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4150101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 415
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4150102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 415
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4150103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 415
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4150104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 415
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4150301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 415
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4150501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 415
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4150602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 415
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4150603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 415
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4150604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 415
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4210101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 421
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4210102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 421
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4210103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 421
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4210104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 421
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4210301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 421
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4210501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 421
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4210602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 421
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4210603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 421
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4210604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 421
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4220101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 422
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4220102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 422
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4220103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 422
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4220104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 422
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4220301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 422
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4220501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 422
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4220602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 422
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4220603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 422
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4220604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 422
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4230101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 423
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4230102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 423
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4230103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 423
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4230104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 423
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4230301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 423
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4230501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 423
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4230602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 423
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4230603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 423
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4230604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 423
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4240101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 424
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4240102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 424
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4240103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 424
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4240104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 424
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4240301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 424
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4240501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 424
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4240602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 424
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4240603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 424
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4240604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 424
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4250101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 425
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4250102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 425
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4250103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 425
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4250104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 425
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4250301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 425
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4250501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 425
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4250602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 425
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4250603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 425
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4250604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 425
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4310101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 431
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4310102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 431
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4310103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 431
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4310104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 431
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4310301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 431
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4310501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 431
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4310602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 431
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4310603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 431
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4310604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 431
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4320101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 432
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4320102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 432
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4320103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 432
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4320104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 432
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4320301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 432
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4320501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 432
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4320602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 432
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4320603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 432
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4320604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 432
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4330101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 433
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4330102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 433
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4330103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 433
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4330104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 433
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4330301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 433
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4330501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 433
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4330602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 433
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4330603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 433
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4330604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 433
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4340101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 434
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4340102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 434
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4340103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 434
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4340104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 434
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4340301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 434
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4340501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 434
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4340602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 434
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4340603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 434
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4340604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 434
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4350101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 435
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4350102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 435
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4350103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 435
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4350104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 435
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4350301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 435
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4350501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 435
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4350602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 435
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4350603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 435
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4350604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 435
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4410101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 441
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4410102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 441
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4410103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 441
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4410104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 441
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4410301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 441
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4410501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 441
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4410602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 441
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4410603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 441
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4410604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 441
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4420101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 442
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4420102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 442
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4420103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 442
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4420104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 442
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4420301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 442
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4420501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 442
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4420602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 442
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4420603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 442
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4420604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 442
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4430101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 443
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4430102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 443
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4430103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 443
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4430104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 443
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4430301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 443
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4430501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 443
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4430602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 443
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4430603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 443
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4430604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 443
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4440101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 444
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4440102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 444
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4440103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 444
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4440104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 444
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4440301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 444
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4440501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 444
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4440602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 444
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4440603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 444
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4440604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 444
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4450101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 445
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4450102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 445
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4450103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 445
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4450104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 445
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4450301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 445
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4450501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 445
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4450602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 445
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4450603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 445
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4450604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 445
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4510101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 451
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4510102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 451
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4510103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 451
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4510104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 451
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4510301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 451
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4510501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 451
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4510602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 451
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4510603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 451
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4510604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 451
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4520101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 452
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4520102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 452
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4520103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 452
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4520104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 452
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4520301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 452
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4520501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 452
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4520602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 452
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4520603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 452
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4520604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 452
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4530101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 453
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4530102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 453
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4530103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 453
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4530104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 453
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4530301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 453
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4530501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 453
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4530602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 453
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4530603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 453
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4530604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 453
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4540101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 454
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4540102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 454
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4540103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 454
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4540104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 454
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4540301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 454
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4540501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 454
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4540602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 454
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4540603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 454
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4540604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 454
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4550101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 455
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4550102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 455
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4550103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 455
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4550104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 455
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4550301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 455
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4550501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 455
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4550602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 455
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4550603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 455
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4550604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 455
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4610101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 461
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4610102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 461
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4610103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 461
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4610104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 461
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4610301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 461
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4610501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 461
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4610602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 461
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4610603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 461
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4610604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 461
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4620101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 462
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4620102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 462
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4620103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 462
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4620104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 462
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4620301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 462
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4620501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 462
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4620602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 462
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4620603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 462
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4620604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 462
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4630101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 463
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4630102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 463
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4630103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 463
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4630104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 463
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4630301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 463
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4630501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 463
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4630602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 463
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4630603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 463
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4630604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 463
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4640101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 464
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4640102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 464
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4640103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 464
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4640104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 464
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4640301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 464
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4640501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 464
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4640602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 464
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4640603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 464
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4640604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 464
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4650101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 465
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4650102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 465
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4650103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 465
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4650104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 465
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4650301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 465
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4650501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 465
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4650602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 465
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4650603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 465
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4650604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 465
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4710101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 471
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4710102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 471
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4710103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 471
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4710104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 471
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4710301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 471
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4710501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 471
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4710602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 471
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4710603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 471
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4710604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 471
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4720101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 472
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4720102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 472
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4720103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 472
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4720104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 472
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4720301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 472
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4720501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 472
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4720602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 472
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4720603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 472
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4720604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 472
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4730101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 473
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4730102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 473
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4730103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 473
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4730104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 473
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4730301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 473
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4730501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 473
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4730602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 473
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4730603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 473
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4730604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 473
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4740101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 474
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4740102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 474
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4740103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 474
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4740104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 474
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4740301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 474
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4740501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 474
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4740602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 474
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4740603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 474
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4740604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 474
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4750101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 475
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4750102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 475
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4750103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 475
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4750104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 475
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4750301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 475
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4750501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 475
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4750602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 475
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4750603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 475
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4750604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 475
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4810101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 481
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4810102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 481
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4810103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 481
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4810104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 481
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4810301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 481
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4810501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 481
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4810602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 481
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4810603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 481
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4810604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 481
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4820101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 482
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4820102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 482
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4820103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 482
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4820104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 482
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4820301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 482
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4820501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 482
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4820602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 482
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4820603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 482
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4820604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 482
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4830101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 483
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4830102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 483
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4830103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 483
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4830104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 483
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4830301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 483
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4830501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 483
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4830602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 483
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4830603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 483
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4830604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 483
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4840101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 484
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4840102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 484
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4840103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 484
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4840104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 484
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4840301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 484
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4840501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 484
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4840602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 484
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4840603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 484
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4840604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 484
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4850101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 485
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4850102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 485
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4850103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 485
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4850104,
+        "RewardWeaponSkinNo": 2,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 485
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4850301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 485
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4850501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 485
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4850602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 485
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4850603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 485
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4850604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 485
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4910101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 491
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4910102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 491
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4910103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 491
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4910104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 491
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4910301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 491
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4910501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 491
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4910602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 491
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4910603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 491
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4910604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 491
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4920101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 492
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4920102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 492
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4920103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 492
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4920104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 492
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4920301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 492
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4920501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 492
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4920602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 492
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4920603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 492
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4920604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 492
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4930101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 493
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4930102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 493
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4930103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 493
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4930104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 493
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4930301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 493
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4930501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 493
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4930602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 493
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4930603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 493
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4930604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 493
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4940101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 494
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4940102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 494
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4940103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 494
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4940104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 494
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4940301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 494
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4940501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 494
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4940602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 494
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4940603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 494
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4940604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 494
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4950101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 495
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4950102,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 495
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4950103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 495
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 4950104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 495
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 4950301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 495
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 4950501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 495
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4950602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 495
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4950603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 495
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 4950604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 495
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5110101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 511
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5110102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 511
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5110103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 511
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5110104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 511
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5110105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 511
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5110106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 511
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5110107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 511
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5110108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 511
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 5110201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 511
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 5110301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 511
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 5110501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 511
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5110602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 511
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5110603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 511
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5110604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 511
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5120101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 512
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5120102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 512
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5120103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 512
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5120104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 512
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5120105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 512
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5120106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 512
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5120107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 512
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5120108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 512
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 5120201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 512
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 5120301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 512
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 5120501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 512
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5120602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 512
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5120603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 512
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5120604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 512
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5130101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 513
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5130102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 513
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5130103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 513
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5130104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 513
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5130105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 513
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5130106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 513
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5130107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 513
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5130108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 513
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 5130201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 513
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 5130301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 513
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 5130501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 513
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5130602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 513
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5130603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 513
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5130604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 513
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5140101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 514
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5140102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 514
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5140103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 514
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5140104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 514
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5140105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 514
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5140106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 514
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5140107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 514
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5140108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 514
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 5140201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 514
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 5140301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 514
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 5140501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 514
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5140602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 514
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5140603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 514
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5140604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 514
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5150101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 515
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5150102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 515
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5150103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 515
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5150104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 515
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5150105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 515
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5150106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 515
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5150107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 515
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5150108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 515
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 5150201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 515
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 5150301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 515
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 5150501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 515
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5150602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 515
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5150603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 515
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5150604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 515
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5310101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 531
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5310102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 531
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5310103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 531
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5310104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 531
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5310105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 531
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5310106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 531
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5310107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 531
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5310108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 531
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 5310201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 531
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 5310301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 531
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 5310501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 531
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5310602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 531
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5310603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 531
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5310604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 531
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5320101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 532
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5320102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 532
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5320103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 532
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5320104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 532
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5320105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 532
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5320106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 532
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5320107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 532
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5320108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 532
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 5320201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 532
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 5320301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 532
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 5320501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 532
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5320602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 532
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5320603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 532
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5320604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 532
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5330101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 533
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5330102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 533
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5330103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 533
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5330104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 533
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5330105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 533
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5330106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 533
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5330107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 533
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5330108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 533
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 5330201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 533
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 5330301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 533
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 5330501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 533
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5330602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 533
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5330603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 533
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5330604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 533
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5340101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 534
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5340102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 534
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5340103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 534
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5340104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 534
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5340105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 534
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5340106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 534
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5340107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 534
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5340108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 534
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 5340201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 534
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 5340301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 534
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 5340501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 534
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5340602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 534
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5340603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 534
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5340604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 534
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5350101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 535
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5350102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 535
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5350103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 535
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5350104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 535
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5350105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 535
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5350106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 535
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5350107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 535
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5350108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 535
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 5350201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 535
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 5350301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 535
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 5350501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 535
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5350602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 535
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5350603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 535
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5350604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 535
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5710101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 571
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5710102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 571
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5710103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 571
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5710104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 571
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5710105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 571
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5710106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 571
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5710107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 571
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5710108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 571
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 5710201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 571
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 5710301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 571
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 5710501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 571
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5710602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 571
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5710603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 571
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5710604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 571
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5720101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 572
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5720102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 572
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5720103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 572
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5720104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 572
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5720105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 572
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5720106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 572
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5720107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 572
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5720108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 572
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 5720201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 572
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 5720301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 572
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 5720501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 572
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5720602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 572
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5720603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 572
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5720604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 572
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5730101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 573
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5730102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 573
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5730103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 573
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5730104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 573
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5730105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 573
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5730106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 573
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5730107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 573
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5730108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 573
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 5730201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 573
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 5730301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 573
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 5730501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 573
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5730602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 573
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5730603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 573
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5730604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 573
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5740101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 574
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5740102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 574
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5740103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 574
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5740104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 574
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5740105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 574
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5740106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 574
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5740107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 574
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5740108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 574
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 5740201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 574
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 5740301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 574
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 5740501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 574
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5740602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 574
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5740603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 574
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5740604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 574
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5750101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 575
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5750102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 575
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5750103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 575
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5750104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 575
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5750105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 575
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5750106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 575
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5750107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 575
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 5750108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 575
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 5750201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 575
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 5750301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 575
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 5750501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 575
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5750602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 575
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5750603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 575
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 5750604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 575
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6110101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 611
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6110102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 611
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6110103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 611
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6110104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 611
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6110105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 611
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6110106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 611
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6110107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 611
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6110108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 611
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 6110201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 611
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 6110301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 611
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 6110501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 611
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6110602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 611
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6110603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 611
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6110604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 611
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6120101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 612
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6120102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 612
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6120103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 612
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6120104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 612
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6120105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 612
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6120106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 612
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6120107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 612
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6120108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 612
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 6120201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 612
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 6120301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 612
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 6120501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 612
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6120602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 612
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6120603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 612
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6120604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 612
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6130101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 613
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6130102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 613
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6130103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 613
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6130104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 613
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6130105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 613
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6130106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 613
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6130107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 613
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6130108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 613
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 6130201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 613
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 6130301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 613
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 6130501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 613
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6130602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 613
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6130603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 613
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6130604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 613
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6140101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 614
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6140102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 614
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6140103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 614
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6140104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 614
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6140105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 614
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6140106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 614
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6140107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 614
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6140108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 614
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 6140201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 614
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 6140301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 614
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 6140501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 614
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6140602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 614
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6140603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 614
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6140604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 614
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6150101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 615
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6150102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 615
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6150103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 615
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6150104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 615
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6150105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 615
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6150106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 615
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6150107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 615
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6150108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 615
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 6150201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 615
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 6150301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 615
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 6150501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 615
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6150602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 615
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6150603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 615
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6150604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 615
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6310101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 631
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6310102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 631
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6310103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 631
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6310104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 631
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6310105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 631
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6310106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 631
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6310107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 631
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6310108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 631
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 6310201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 631
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 6310301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 631
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 6310501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 631
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6310602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 631
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6310603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 631
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6310604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 631
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6320101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 632
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6320102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 632
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6320103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 632
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6320104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 632
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6320105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 632
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6320106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 632
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6320107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 632
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6320108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 632
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 6320201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 632
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 6320301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 632
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 6320501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 632
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6320602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 632
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6320603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 632
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6320604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 632
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6330101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 633
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6330102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 633
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6330103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 633
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6330104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 633
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6330105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 633
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6330106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 633
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6330107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 633
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6330108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 633
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 6330201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 633
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 6330301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 633
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 6330501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 633
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6330602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 633
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6330603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 633
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6330604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 633
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6340101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 634
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6340102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 634
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6340103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 634
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6340104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 634
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6340105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 634
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6340106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 634
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6340107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 634
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6340108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 634
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 6340201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 634
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 6340301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 634
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 6340501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 634
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6340602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 634
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6340603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 634
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6340604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 634
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6350101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 635
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6350102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 635
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6350103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 635
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6350104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 635
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6350105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 635
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6350106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 635
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6350107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 635
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6350108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 635
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 6350201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 635
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 6350301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 635
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 6350501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 635
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6350602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 635
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6350603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 635
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6350604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 635
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6710101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 671
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6710102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 671
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6710103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 671
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6710104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 671
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6710105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 671
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6710106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 671
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6710107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 671
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6710108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 671
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 6710201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 671
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 6710301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 671
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 6710501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 671
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6710602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 671
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6710603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 671
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6710604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 671
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6720101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 672
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6720102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 672
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6720103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 672
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6720104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 672
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6720105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 672
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6720106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 672
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6720107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 672
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6720108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 672
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 6720201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 672
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 6720301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 672
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 6720501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 672
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6720602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 672
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6720603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 672
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6720604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 672
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6730101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 673
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6730102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 673
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6730103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 673
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6730104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 673
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6730105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 673
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6730106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 673
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6730107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 673
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6730108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 673
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 6730201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 673
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 6730301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 673
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 6730501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 673
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6730602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 673
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6730603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 673
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6730604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 673
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6740101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 674
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6740102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 674
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6740103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 674
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6740104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 674
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6740105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 674
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6740106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 674
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6740107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 674
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6740108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 674
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 6740201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 674
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 6740301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 674
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 6740501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 674
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6740602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 674
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6740603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 674
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6740604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 674
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6750101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 675
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6750102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 675
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6750103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 675
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6750104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 675
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6750105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 675
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6750106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 675
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6750107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 675
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 6750108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 675
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 6750201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 675
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 6750301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 675
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 6750501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 675
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6750602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 675
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6750603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 675
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 6750604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 675
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7010101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 701
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7010102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 701
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7010103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 701
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7010104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 701
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7010105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 701
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7010106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 701
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7010107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 701
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7010108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 701
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 7010201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 701
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 7010301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 701
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 7010501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 701
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 7010602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 701
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 7010603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 701
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 7010604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 701
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7020101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 702
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7020102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 702
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7020103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 702
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7020104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 702
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7020105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 702
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7020106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 702
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7020107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 702
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7020108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 702
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 7020201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 702
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 7020301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 702
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 7020501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 702
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 7020602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 702
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 7020603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 702
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 7020604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 702
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7030101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 703
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7030102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 703
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7030103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 703
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7030104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 703
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7030105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 703
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7030106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 703
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7030107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 703
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7030108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 703
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 7030201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 703
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 7030301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 703
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 7030501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 703
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 7030602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 703
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 7030603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 703
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 7030604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 703
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7040101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 704
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7040102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 704
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7040103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 704
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7040104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 704
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7040105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 704
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7040106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 704
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7040107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 704
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7040108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 704
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 7040201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 704
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 7040301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 704
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 7040501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 704
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 7040602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 704
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 7040603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 704
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 7040604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 704
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7050101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 705
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7050102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 705
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7050103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 705
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7050104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 705
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7050105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 705
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7050106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 705
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7050107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 705
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 7050108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 705
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 7050201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 705
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 7050301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 705
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 7050501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 705
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 7050602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 705
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 7050603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 705
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 7050604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 705
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8010101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 801
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8010102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 801
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8010103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 801
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8010104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 801
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8010105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 801
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8010106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 801
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8010107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 801
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8010108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 801
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8010109,
+        "RewardWeaponSkinNo": 0,
+        "Step": 9,
+        "WeaponBodyBuildupGroupId": 801
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 8010201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 801
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 8010202,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 801
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 8010301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 801
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 8010501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 801
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 8010602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 801
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 8010603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 801
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 8010604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 801
+    },
+    {
+        "BuildupPieceType": 9,
+        "Id": 8010901,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 801
+    },
+    {
+        "BuildupPieceType": 9,
+        "Id": 8010902,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 801
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8020101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 802
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8020102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 802
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8020103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 802
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8020104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 802
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8020105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 802
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8020106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 802
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8020107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 802
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8020108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 802
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8020109,
+        "RewardWeaponSkinNo": 0,
+        "Step": 9,
+        "WeaponBodyBuildupGroupId": 802
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 8020201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 802
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 8020202,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 802
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 8020301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 802
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 8020501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 802
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 8020602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 802
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 8020603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 802
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 8020604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 802
+    },
+    {
+        "BuildupPieceType": 9,
+        "Id": 8020901,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 802
+    },
+    {
+        "BuildupPieceType": 9,
+        "Id": 8020902,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 802
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8030101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 803
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8030102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 803
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8030103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 803
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8030104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 803
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8030105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 803
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8030106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 803
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8030107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 803
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8030108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 803
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8030109,
+        "RewardWeaponSkinNo": 0,
+        "Step": 9,
+        "WeaponBodyBuildupGroupId": 803
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 8030201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 803
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 8030202,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 803
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 8030301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 803
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 8030501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 803
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 8030602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 803
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 8030603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 803
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 8030604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 803
+    },
+    {
+        "BuildupPieceType": 9,
+        "Id": 8030901,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 803
+    },
+    {
+        "BuildupPieceType": 9,
+        "Id": 8030902,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 803
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8040101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 804
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8040102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 804
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8040103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 804
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8040104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 804
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8040105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 804
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8040106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 804
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8040107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 804
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8040108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 804
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8040109,
+        "RewardWeaponSkinNo": 0,
+        "Step": 9,
+        "WeaponBodyBuildupGroupId": 804
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 8040201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 804
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 8040202,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 804
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 8040301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 804
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 8040501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 804
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 8040602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 804
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 8040603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 804
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 8040604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 804
+    },
+    {
+        "BuildupPieceType": 9,
+        "Id": 8040901,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 804
+    },
+    {
+        "BuildupPieceType": 9,
+        "Id": 8040902,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 804
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8050101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 805
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8050102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 805
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8050103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 805
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8050104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 805
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8050105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 805
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8050106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 805
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8050107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 805
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8050108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 805
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 8050109,
+        "RewardWeaponSkinNo": 0,
+        "Step": 9,
+        "WeaponBodyBuildupGroupId": 805
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 8050201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 805
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 8050202,
+        "RewardWeaponSkinNo": 1,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 805
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 8050301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 805
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 8050501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 805
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 8050602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 805
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 8050603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 805
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 8050604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 805
+    },
+    {
+        "BuildupPieceType": 9,
+        "Id": 8050901,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 805
+    },
+    {
+        "BuildupPieceType": 9,
+        "Id": 8050902,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 805
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 9000101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 900
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 9000102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 900
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 9000103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 900
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 9000104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 900
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 9000602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 900
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 9000603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 900
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 9000604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 900
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 10000101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 1000
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 10000102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 1000
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 10000103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 1000
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 10000104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 1000
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11000101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 1100
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11000102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 1100
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11000103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 1100
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11000104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 1100
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11010101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 1101
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11010102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 1101
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11010103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 1101
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11010104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 1101
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11010105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 1101
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11010106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 1101
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11010107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 1101
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11010108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 1101
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 11010201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 1101
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 11010301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 1101
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 11010501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 1101
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 11010602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 1101
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 11010603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 1101
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 11010604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 1101
+    },
+    {
+        "BuildupPieceType": 9,
+        "Id": 11010901,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 1101
+    },
+    {
+        "BuildupPieceType": 9,
+        "Id": 11010902,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 1101
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11020101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 1102
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11020102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 1102
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11020103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 1102
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11020104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 1102
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11020105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 1102
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11020106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 1102
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11020107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 1102
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11020108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 1102
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 11020201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 1102
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 11020301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 1102
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 11020501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 1102
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 11020602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 1102
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 11020603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 1102
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 11020604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 1102
+    },
+    {
+        "BuildupPieceType": 9,
+        "Id": 11020901,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 1102
+    },
+    {
+        "BuildupPieceType": 9,
+        "Id": 11020902,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 1102
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11030101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 1103
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11030102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 1103
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11030103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 1103
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11030104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 1103
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11030105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 1103
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11030106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 1103
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11030107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 1103
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11030108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 1103
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 11030201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 1103
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 11030301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 1103
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 11030501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 1103
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 11030602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 1103
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 11030603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 1103
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 11030604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 1103
+    },
+    {
+        "BuildupPieceType": 9,
+        "Id": 11030901,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 1103
+    },
+    {
+        "BuildupPieceType": 9,
+        "Id": 11030902,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 1103
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11040101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 1104
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11040102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 1104
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11040103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 1104
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11040104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 1104
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11040105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 1104
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11040106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 1104
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11040107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 1104
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11040108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 1104
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 11040201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 1104
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 11040301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 1104
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 11040501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 1104
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 11040602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 1104
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 11040603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 1104
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 11040604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 1104
+    },
+    {
+        "BuildupPieceType": 9,
+        "Id": 11040901,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 1104
+    },
+    {
+        "BuildupPieceType": 9,
+        "Id": 11040902,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 1104
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11050101,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 1105
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11050102,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 1105
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11050103,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 1105
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11050104,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 1105
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11050105,
+        "RewardWeaponSkinNo": 0,
+        "Step": 5,
+        "WeaponBodyBuildupGroupId": 1105
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11050106,
+        "RewardWeaponSkinNo": 0,
+        "Step": 6,
+        "WeaponBodyBuildupGroupId": 1105
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11050107,
+        "RewardWeaponSkinNo": 0,
+        "Step": 7,
+        "WeaponBodyBuildupGroupId": 1105
+    },
+    {
+        "BuildupPieceType": 1,
+        "Id": 11050108,
+        "RewardWeaponSkinNo": 0,
+        "Step": 8,
+        "WeaponBodyBuildupGroupId": 1105
+    },
+    {
+        "BuildupPieceType": 2,
+        "Id": 11050201,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 1105
+    },
+    {
+        "BuildupPieceType": 3,
+        "Id": 11050301,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 1105
+    },
+    {
+        "BuildupPieceType": 5,
+        "Id": 11050501,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 1105
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 11050602,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 1105
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 11050603,
+        "RewardWeaponSkinNo": 0,
+        "Step": 3,
+        "WeaponBodyBuildupGroupId": 1105
+    },
+    {
+        "BuildupPieceType": 6,
+        "Id": 11050604,
+        "RewardWeaponSkinNo": 0,
+        "Step": 4,
+        "WeaponBodyBuildupGroupId": 1105
+    },
+    {
+        "BuildupPieceType": 9,
+        "Id": 11050901,
+        "RewardWeaponSkinNo": 0,
+        "Step": 1,
+        "WeaponBodyBuildupGroupId": 1105
+    },
+    {
+        "BuildupPieceType": 9,
+        "Id": 11050902,
+        "RewardWeaponSkinNo": 0,
+        "Step": 2,
+        "WeaponBodyBuildupGroupId": 1105
+    }
+]
