@@ -17,9 +17,12 @@ import DragaliaUtils from '../../../util/DragaliaUtils';
 
 import param_bonus_by_weapon from '../../../assets/savedata/param_bonus_by_weapon.json';
 
+import useDragaliaActions from '../../../util/DragaliaActionsUtils';
+
 function WeaponList_ListMaxButton() { 
   
   const dispatch = useDispatch();
+  const { addWeaponSkin, handleWeaponBuildupSkinsAll } = useDragaliaActions();
 
   const weaponMap = useContext(MappingContext).weaponMap;
   const weaponIds = new Set(Object.keys(weaponMap).map(key => parseInt(key, 10)));
@@ -46,11 +49,14 @@ function WeaponList_ListMaxButton() {
     // create a new list of every weapon, maxed out. Use existing getTimes if they were owned.
     const newWeaponList = [];
     weaponIds.forEach(weaponId => {
-      const weaponDetails = DragaliaUtils.getWeaponDetails(weaponMap[weaponId]);
+      const weaponMeta = weaponMap[weaponId];
+      const weaponDetails = DragaliaUtils.getWeaponDetails(weaponMeta);
       const getTime = idToGetTime[weaponId] ?? null;
       newWeaponList.push(
         DragaliaUtils.getMaxedWeapon(weaponId, weaponDetails, getTime)
       );
+      addWeaponSkin(weaponId);
+      handleWeaponBuildupSkinsAll(weaponMeta);
     });
     dispatch(setList("weapon_body_list", newWeaponList));
     dispatch(setObjectObject("fort_bonus_list", "param_bonus_by_weapon", param_bonus_by_weapon));
