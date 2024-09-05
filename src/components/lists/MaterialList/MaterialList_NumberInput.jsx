@@ -19,17 +19,26 @@ const MaterialList_NumberInput = memo(({materialId, materialMeta}) => {
   const materialObject = useSelector(state => state.jsonData.data.material_list
     .find(materialObject => materialObject["material_id"] === materialId));
 
+  const [inputValue, setInputValue] = useState(materialObject ? materialObject.quantity : 0);
+
   const iconSize = 36;
   const icon = ImageUtils.getMaterialImage(materialMeta.Id, iconSize)
   
-  const quantity = materialObject ? materialObject.quantity : 0;
-  const ticketObjectExists = materialObject ? true : false;
+  const materialObjectExists = materialObject ? true : false;
 
-  const handleQuantityChange = (event) => {
-    let value = event.target.value;
+  const handleInputChange = (e) => {
+    const newValue = Math.max(Math.min(e.target.value, 999999), 0);
+    setInputValue(newValue);
+  }
+
+  const handleInputBlur = () => {
+    handleQuantityChange(inputValue);
+  }
+
+  const handleQuantityChange = (value) => {
     let newValue = Math.max(Math.min(value, 999999), 0);
 
-    if (ticketObjectExists) {
+    if (materialObjectExists) {
       dispatch(updateJsonDataListField("material_list", 
         "material_id", materialId, "quantity", newValue));
     } else {
@@ -45,7 +54,7 @@ const MaterialList_NumberInput = memo(({materialId, materialMeta}) => {
     <TextField style={{ width: "80%" }}
           label={materialMeta.Name || "Unknown Item"}
           type="number"
-          value={quantity}
+          value={inputValue}
           InputProps={{
             startAdornment: (
               <InputAdornment position="start">
@@ -59,7 +68,8 @@ const MaterialList_NumberInput = memo(({materialId, materialMeta}) => {
             }
           }}
           variant="outlined"
-          onChange={handleQuantityChange}
+          onChange={handleInputChange}
+          onBlur={handleInputBlur}
         />
   );
 });

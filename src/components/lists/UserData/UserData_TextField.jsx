@@ -14,20 +14,27 @@ function UserData_TextField({fieldName, fieldLabel}) {
 
   const userDataField = useSelector(state => state.jsonData.data.user_data[fieldName]);
 
+  const [inputValue, setInputValue] = useState(userDataField ? userDataField : "");
+
   const dispatch = useDispatch();
+
+  const handleBlur = () => {
+    dispatch(updateJsonDataObjectField("user_data", fieldName, inputValue));
+  }
 
   const handleChange = (event) => {
     let value = event.target.value;
-    dispatch(updateJsonDataObjectField("user_data", fieldName, value));
+    setInputValue(value);
   };
 
   return (
     <div>
       <TextField
           label={fieldLabel}
-          value={userDataField}
+          value={inputValue}
           variant="outlined"
           onChange={handleChange}
+          onBlur={handleBlur}
           InputProps={{
             startAdornment: (
               <InputAdornment position="start"> {/* Text input in user_data only for player name; hardcoded Euden icon */}

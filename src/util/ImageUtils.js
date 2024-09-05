@@ -75,7 +75,7 @@ const getElementTypeImage = (elementType, size) => {
 }
 
 const getWeaponSkinImage = (baseId, variationId, formId, size) => {
-    return `https://cdn.minty.sbs/images/icon/weapon/m/${baseId}_0${variationId}_${formId}.webp`;
+    return `https://minty.sbs/images/icon/weapon/m/${baseId}_0${variationId}_${formId}.webp`;
 }
 
 const getConsumableImage = (id) => {
@@ -101,11 +101,11 @@ const getConsumableImage = (id) => {
 const getWyrmprintImage = (baseId, rarity, size) => {
     // use refined vestige image for non sindom prints
     const variationId = rarity === 9 ? "01" : "02";
-    return `https://cdn.minty.sbs/images/icon/amulet/m/${baseId}_${variationId}.webp`;
+    return `https://minty.sbs/images/icon/amulet/m/${baseId}_${variationId}.webp`;
 }
 
 const getAbilityImage = (abilityIconName, size) => {
-    return `https://cdn.minty.sbs/images/icon/ability/l/${abilityIconName}.webp`;
+    return `https://minty.sbs/images/icon/ability/l/${abilityIconName}.webp`;
 }
 
 const getAdventurerImage = (adventurerMeta) => {

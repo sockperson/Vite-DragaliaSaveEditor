@@ -32,14 +32,20 @@ function UserData_NumberField({fieldName, fieldLabel, maxValue, iconName, increm
   
   const userDataField = useSelector(state => state.jsonData.data.user_data[fieldName]);
 
+  const [inputValue, setInputValue] = useState(userDataField ? userDataField : 0);
+
   const dispatch = useDispatch();
 
   const icon = iconMap[iconName] || celesteBirbIcon;
 
+  const handleBlur = () => {
+    dispatch(updateJsonDataObjectField("user_data", fieldName, inputValue));
+  }
+
   const handleChange = (event) => {
     let value = event.target.value;
     let newValue = Math.max(Math.min(value, maxValue), 0);
-    dispatch(updateJsonDataObjectField("user_data", fieldName, newValue));
+    setInputValue(newValue);
   };
 
   return (
@@ -47,7 +53,7 @@ function UserData_NumberField({fieldName, fieldLabel, maxValue, iconName, increm
       <TextField
           label={fieldLabel}
           type="number"
-          value={userDataField}
+          value={inputValue}
           InputProps={{
             startAdornment: (
               <InputAdornment position="start">
@@ -62,6 +68,7 @@ function UserData_NumberField({fieldName, fieldLabel, maxValue, iconName, increm
           }}
           variant="outlined"
           onChange={handleChange}
+          onBlur={handleBlur}
         />
     </div>
   );

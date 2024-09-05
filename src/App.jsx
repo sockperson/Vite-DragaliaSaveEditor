@@ -47,7 +47,7 @@ function App() {
   return (
     <ErrorBoundary>
       <div className="App" style={{ height: '100vh', overflowY: 'auto' }}>
-        <AppBar position="static">
+        <AppBar position="static" className="app-bar">
           <Toolbar style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
             <IconButton edge="start" color="inherit" aria-label="github" 
               href="https://github.com/sockperson/Vite-DragaliaSaveEditor"
@@ -82,10 +82,10 @@ function App() {
         {`
           @media (max-width: 600px) {
             .App-header {
-              margin-top: 50px; /* Adjust as needed */
+              margin-top: 50px !important;
             }
             .MuiTypography-h6 {
-              font-size: 1rem; /* Adjust font size for smaller screens */
+              font-size: 1rem;
             }
             .MuiToolbar-root {
               flex-direction: row;
@@ -93,7 +93,7 @@ function App() {
               justify-content: space-between;
             }
             .MuiIconButton-root {
-              margin-bottom: 0; /* Ensure no extra space */
+              margin-bottom: 0;
             }
           }
         `}

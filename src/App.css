@@ -15,6 +15,13 @@
   flex-direction: column;
   flex-grow: 1;
   width: 100%;
+  padding-top: env(safe-area-inset-top);
+}
+
+@media (max-width: 600px) {
+  .App {
+    padding-top: calc(env(safe-area-inset-top) + 30px);
+  }
 }
 
 .App-content {
