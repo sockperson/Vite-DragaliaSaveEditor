@@ -408,7 +408,7 @@ const getNewAdventurer = (adventurerMeta) => {
     const adventurerDetails = getAdventurerDetails(adventurerMeta);
     return {
         "chara_id": adventurerMeta.IdLong,
-        "rarity": adventurerMeta.BaseRarity,
+        "rarity": adventurerMeta.Rarity,
         "exp": 0,
         "level": 1,
         "additional_max_level": 0,
