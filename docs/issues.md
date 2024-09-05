@@ -6,11 +6,8 @@ Issue headers in order of significance:
 * Top (T)
 
 # Bugs:
-* (H) todo/weapons-1: weapon skins are not handled at all
-* (L) todo/materials-2: Material inputs hard to view with high quantity on mobile
 * (M) todo/materials-3: Need to subcategorize "Crafting" materials further. The list of materials is too large.
 * (M) todo/materials-4: Look into optimizing loading each materials tab. Can take >700ms to load a tab, even for tabs with a reasonable amount of items (<50)
-* (S) todo/mercurialgauntlet-1: Look into optimizing the sliders. It is a bit unresponsive.
 * (S) bug/dragons-1: Welfare dragon sell prices are not handled
 
 # Features:
@@ -21,3 +18,8 @@ Issue headers in order of significance:
 # Resolved Issues:
 * Wyrmprints: Resolve issue where selecting Wyrmprint by name would not accurately retrieve Wyrmprint info (beta-1.1)
 * (T) todo/weapons-2: weapon bonuses are not handled at all (beta-1.1)
+* (H) todo/weapons-1: weapon skins are not handled at all (beta-1.2)
+* (L) todo/materials-2: Material inputs hard to view with high quantity on mobile (beta-1.2)
+* (S) todo/mercurialgauntlet-1: Look into optimizing the sliders. It is a bit unresponsive. (beta-1.2)
+
+

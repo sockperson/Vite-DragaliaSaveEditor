@@ -19,3 +19,6 @@
 * Fix editor state rendering where it could display "Unrecognized editor state"
 * Handle weapon skins for unbinding and refining certain weapons
 * Fix some styling in summon ticket list and materials list
+* Fix unresponsive input components in UserData, MaterialList, and QuestWallList
+* Fix header spacing on mobile
+* Fix all image urls to be 'minty.sbs' vs 'cdn.minty.sbs'
