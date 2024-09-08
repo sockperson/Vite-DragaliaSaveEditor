@@ -4,7 +4,7 @@ import TextField from '@mui/material/TextField';
 
 function AbilityCrestList_WyrmprintCharacterAutocomplete({onSetActiveCharacterName, featuredCharacterList}) {
 
-  const [activeCharacterName, setActiveCharacterName] = useState('');
+  const [activeCharacterName, setActiveCharacterName] = useState('Notte');
 
   const handleChange = (event, characterName) => {
     setActiveCharacterName(characterName);
@@ -16,6 +16,8 @@ function AbilityCrestList_WyrmprintCharacterAutocomplete({onSetActiveCharacterNa
       options={featuredCharacterList}
       value={activeCharacterName}
       onChange={handleChange}
+      clearOnEscape={false}
+      disableClearable={true}
       renderInput={(params) => <TextField {...params} label="Character Name" />}
     />
   );

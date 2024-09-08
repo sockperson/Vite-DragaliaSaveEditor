@@ -29,6 +29,8 @@ function AbilityCrestList_WyrmprintNameAutocomplete({activeWyrmprintMeta, onSetA
       options={wyrmprintNameList}
       value={activeWyrmprintName}
       onChange={handleChange}
+      clearOnEscape={false}
+      disableClearable={true}
       renderInput={(params) => (
         <TextField
           {...params}

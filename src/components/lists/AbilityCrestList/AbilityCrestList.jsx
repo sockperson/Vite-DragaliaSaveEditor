@@ -26,19 +26,17 @@ function AbilityCrestList() {
   const [activeWyrmprintAvailability, setActiveWyrmprintAvailability] = useState(WyrmprintAvailability.PERMANENT);
 
   // search by character
-  const [activeCharacterName, setActiveCharacterName] = useState('');
+  const [activeCharacterName, setActiveCharacterName] = useState('Notte');
 
   const [activeWyrmprintId, setActiveWyrmprintId] = useState(40090010); // hawk print
 
   const wyrmprintMap = useContext(MappingContext).wyrmprintMap;
   const allWyrmprintList = Object.values(wyrmprintMap);
   const allWyrmprintNames = allWyrmprintList.map(wyrmprint => wyrmprint.Name);
-  allWyrmprintNames.push(''); // add empty string to allow for clearing the search field
 
   const allFeaturedCharacters = Array.from(
     new Set(allWyrmprintList.flatMap(wyrmprint => wyrmprint.FeaturedCharacters))
   );
-  allFeaturedCharacters.push(''); // add empty string to allow for clearing the search field
 
   const nameToIdMap = Object.entries(wyrmprintMap).reduce((acc, [id, wyrmprint]) => {
     acc[wyrmprint.Name] = id;
