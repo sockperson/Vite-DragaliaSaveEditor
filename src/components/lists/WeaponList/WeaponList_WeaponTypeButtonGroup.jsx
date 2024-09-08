@@ -28,7 +28,7 @@ function WeaponList_WeaponTypeButtonGroup({onSetActiveWeaponType}) {
   };
 
   return (
-    <ButtonGroup>
+    <ButtonGroup className="button-group">
       {buttons.map((button) => (
         <Button
           key={button.weaponType}

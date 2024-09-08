@@ -24,14 +24,14 @@ function MaterialList_MaterialCategoryButtonGroup({ onSetActiveMaterialCategoryG
   };
 
   return (
-    <ButtonGroup>
+    <ButtonGroup className="button-group">
       {buttons.map((button) => (
         <Button
           key={button.materialCategoryGroup}
           variant='contained'
           style={{ backgroundColor: activeMaterialCategoryGroup === button.materialCategoryGroup ? '#493b8f' : '#7a62f0' }}
           onClick={() => handleButtonClick(button.materialCategoryGroup)}
-          sx={{ textTransform: 'none' }}
+          sx={{ textTransform: 'none', whiteSpace: 'nowrap' }}
         >
           {button.label}
         </Button>

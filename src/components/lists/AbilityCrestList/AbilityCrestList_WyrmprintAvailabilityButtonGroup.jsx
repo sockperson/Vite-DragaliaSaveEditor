@@ -25,14 +25,14 @@ function AbilityCrestList_WyrmprintAvailabilityButtonGroup({onSetActiveWyrmprint
   };
 
   return (
-    <ButtonGroup>
+    <ButtonGroup className="button-group">
       {buttons.map((button) => (
         <Button
           key={button.wyrmprintAvailability}
           variant='contained'
           style={{ backgroundColor: activeWyrmprintAvailability === button.wyrmprintAvailability ? '#493b8f' : '#7a62f0' }}
           onClick={() => handleButtonClick(button.wyrmprintAvailability)}
-          sx={{ textTransform: 'none' }}
+          sx={{ textTransform: 'none', whiteSpace: 'nowrap' }}
         >
           {button.label}
         </Button>

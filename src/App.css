@@ -78,3 +78,21 @@
   margin-top: 20px;
   margin-bottom: 60px;
 }
+
+.button-group-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.button-group {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center; 
+}
+
+.button-group .MuiButton-root {
+  max-width: calc(25% - 8px);
+  box-sizing: border-box;
+}

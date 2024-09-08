@@ -27,23 +27,25 @@ function CharaList_WeaponTypeButtonGroup({onSetActiveWeaponType, activeWeaponTyp
   };
 
   return (
-    <ButtonGroup>
-      {buttons.map((button) => (
-        <Button
-          key={button.weaponType}
-          variant='contained'
-          style={{ backgroundColor: activeWeaponType === button.weaponType ? '#493b8f' : '#7a62f0' }}
-          onClick={() => handleButtonClick(button.weaponType)}
-          sx={{ textTransform: 'none' }}
-        >
-          <img 
-            src={ImageUtils.getWeaponTypeImage(button.weaponType, IMG_SIZE)} 
-            alt={button.label} 
-            style={{ width: IMG_SIZE, height: IMG_SIZE }} 
-          />
-        </Button>
-      ))}
-    </ButtonGroup>
+    <div className="button-group-container">
+      <ButtonGroup className="button-group">
+        {buttons.map((button) => (
+          <Button
+            key={button.weaponType}
+            variant='contained'
+            style={{ backgroundColor: activeWeaponType === button.weaponType ? '#493b8f' : '#7a62f0' }}
+            onClick={() => handleButtonClick(button.weaponType)}
+            sx={{ textTransform: 'none' }}
+          >
+            <img 
+              src={ImageUtils.getWeaponTypeImage(button.weaponType, IMG_SIZE)} 
+              alt={button.label} 
+              style={{ width: IMG_SIZE, height: IMG_SIZE }} 
+            />
+          </Button>
+        ))}
+      </ButtonGroup>
+    </div>
   );
 }
 

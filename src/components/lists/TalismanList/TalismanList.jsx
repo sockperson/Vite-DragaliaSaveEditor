@@ -11,7 +11,7 @@ import TalismanList_TalismanSelectButton from './TalismanList_TalismanSelectButt
 import TalismanList_TalismanInfo from './TalismanList_TalismanInfo';
 import TalismanList_TalismanCreator from './TalismanList_TalismanCreator';
 
-const ITEMS_PER_PAGE = 25;
+const ITEMS_PER_PAGE = 24;
 const TALISMAN_LIST_MAX_CAPACITY = 500;
 
 function TalismanList() {
@@ -39,7 +39,7 @@ function TalismanList() {
         <Grid container spacing={0} style={{ justifyContent: "flex-start" }}>
           {currentTalismanKeyIds.map(keyId => {
             return (
-              <Grid item xs={3} sm={3} md={2} lg={1} xl={1}
+              <Grid item xs={3} sm={2} md={2} lg={1} xl={1}
               style={{ width: "10%" }} key={keyId}>
                 <TalismanList_TalismanSelectButton 
                   talismanKeyId={keyId} 

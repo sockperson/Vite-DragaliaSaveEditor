@@ -24,14 +24,14 @@ function WeaponList_WeaponSeriesButtonGroup({onSetActiveWeaponSeries}) {
   };
 
   return (
-    <ButtonGroup>
+    <ButtonGroup className="button-group">
       {buttons.map((button) => (
         <Button
           key={button.weaponSeries}
           variant='contained'
           style={{ backgroundColor: activeWeaponSeries === button.weaponSeries ? '#493b8f' : '#7a62f0' }}
           onClick={() => handleButtonClick(button.weaponSeries)}
-          sx={{ textTransform: 'none' }}
+          sx={{ textTransform: 'none', whiteSpace: 'nowrap' }}
         >
           {button.label}
         </Button>
