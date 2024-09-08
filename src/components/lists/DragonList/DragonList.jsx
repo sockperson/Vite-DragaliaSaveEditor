@@ -87,7 +87,7 @@ function DragonList() {
         <Grid container spacing={0} style={{ justifyContent: "flex-start" }}>
           {currentDragons.map(({dragonKeyId, dragonMeta}) => {
             return (
-              <Grid item xs={4} sm={3} md={2} lg={1} xl={1}
+              <Grid item xs={3} sm={2} md={2} lg={1} xl={1}
               style={{ width: "10%" }} key={dragonKeyId}>
                 <DragonList_DragonSelectButton 
                   dragonKeyId={dragonKeyId} 

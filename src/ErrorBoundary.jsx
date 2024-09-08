@@ -23,7 +23,7 @@ class ErrorBoundary extends React.Component {
       return (
         <div>
           <p>An internal error occurred; this shouldn't happen</p>
-          <p>Contact @sockperson is this message pops up.</p>
+          <p>Contact @sockperson if this message pops up.</p>
           <p>(Also provide the input save file)</p>
           <details style={{ whiteSpace: 'pre-wrap' }}>
             {this.state.error && this.state.error.toString()}
