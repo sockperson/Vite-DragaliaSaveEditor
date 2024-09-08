@@ -571,7 +571,7 @@ const getMaxedDragon = (dragonList, dragonMeta, getTime, isLock, keyId) => {
         "hp_plus_count": 50,
         "attack_plus_count": 50,
         "exp": dragonDetails.maxExp,
-        "is_lock": isLock,
+        "is_lock": isLock ? 1 : 0,
         "is_new": getIsNew(getTime),
         "get_time": getGetTime(getTime),
         "skill_1_level": 2,

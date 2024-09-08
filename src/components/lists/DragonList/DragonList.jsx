@@ -7,6 +7,7 @@ import { Grid, Pagination } from '@mui/material';
 
 // Enum
 import { ElementTypeId } from '../../../enum/Enums';
+import { DragonSellAmounts } from '../../../definitions/Definitions';
 
 // Components
 import DragonList_ElementButtonGroup from './DragonList_ElementButtonGroup';
@@ -33,7 +34,16 @@ function DragonList() {
   const [activeDragonKeyId, setActiveDragonKeyId] = useState(null);
   const [activeDragonId, setActiveDragonId] = useState(null);
   const [activeElementType, setActiveElementType] = useState(ElementTypeId.FLAME);
-  const [currentPage, setCurrentPage] = useState(1);
+  
+  const defaultPages = {
+    [ElementTypeId.FLAME]: 1,
+    [ElementTypeId.WATER]: 1,
+    [ElementTypeId.WIND]: 1,
+    [ElementTypeId.LIGHT]: 1,
+    [ElementTypeId.SHADOW]: 1
+  }
+
+  const [currentPages, setCurrentPages] = useState(defaultPages);
   
   const dragonMap = useContext(MappingContext).dragonMap;
 
@@ -45,8 +55,8 @@ function DragonList() {
   const onSellActiveDragon = () => {
     dispatch(removeJsonDataListObject("dragon_list", "dragon_key_id", activeDragonKeyId));
     // handle sell amount
-    dispatch(addJsonDataListObjectField("user_data", "dew_point", 5000));
-
+    const sellAmount = DragonSellAmounts[dragonMap[activeDragonId].Rarity];
+    dispatch(addJsonDataListObjectField("user_data", "dew_point", sellAmount));
     setActiveDragonKeyId(null);
     setActiveDragonId(null);
   }
@@ -66,7 +76,7 @@ function DragonList() {
     return out;
   }
 
-  const indexOfLastItem = currentPage * ITEMS_PER_PAGE;
+  const indexOfLastItem = currentPages[activeElementType] * ITEMS_PER_PAGE;
   const indexOfFirstItem = indexOfLastItem - ITEMS_PER_PAGE;
   const getSelectedDragons = getDragonsByElement();
   const currentDragons = getSelectedDragons.slice(indexOfFirstItem, indexOfLastItem)
@@ -102,7 +112,7 @@ function DragonList() {
         <div>
           <Pagination style={{ display: "flex", justifyContent: "center", marginTop: "10px" }}
             count={Math.ceil(getSelectedDragons.length / ITEMS_PER_PAGE)}
-            page={currentPage}
+            page={currentPages[activeElementType]}
             onChange={handlePageChange}
             color="primary"
           />
@@ -138,7 +148,9 @@ function DragonList() {
   }
 
   const handlePageChange = (event, value) => {
-    setCurrentPage(value);
+    const newPages = { ...currentPages };
+    newPages[activeElementType] = value;
+    setCurrentPages(newPages);
   };
 
   const activeDragonObject = dragonList.find(dragonObject => dragonObject["dragon_key_id"] === activeDragonKeyId);

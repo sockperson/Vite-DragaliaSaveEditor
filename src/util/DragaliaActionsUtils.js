@@ -92,12 +92,14 @@ const useDragaliaActions = () => {
         const toUpdateEncyclo = toUpdateBonuses || maxLevel < dragonDetails.maxLevel;
         
         if (toUpdateEncyclo) {
+            console.log("Updating encyclopedia entry for dragon: " + dragonMeta.FullName);
             const updatedEntry = {
                 "dragon_id": id,
                 "max_level": dragonDetails.maxLevel,
                 "max_limit_break_count": has5Ub ? 5 : 4
             }
             if (toUpdateBonuses) {
+                console.log("Updating encyclopedia bonuses for dragon: " + dragonMeta.FullName);
                 const unbinds = dragonObject.limit_break_count;
                 let hpBonus = 0.0;
                 if (has5Ub) {
