@@ -22,3 +22,6 @@
 * Fix unresponsive input components in UserData, MaterialList, and QuestWallList
 * Fix header spacing on mobile
 * Fix all image urls to be 'minty.sbs' vs 'cdn.minty.sbs'
+
+# beta-1.2.2 (9/21/24)
+* Fix issue where editor throws when quest_wall_list is empty

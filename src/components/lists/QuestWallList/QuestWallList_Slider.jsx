@@ -29,13 +29,15 @@ const iconMap = {
 
 const QUEST_WALL_LEVEL_MAX = 80;
 
-// field: the actual field name in save data (e.g. "coin")
-// fieldName: the display name of the field (e.g. "Rupies")
 function QuestWallList_Slider({questWallId}) {
 
   const dispatch = useDispatch();
   const questWallObject = useSelector(state => state.jsonData.data.quest_wall_list
     .find(questWall => questWall["wall_id"] === questWallId));
+
+  if (!questWallObject) {
+    return "No quest wall object found :(";
+  }
 
   const [inputValue, setInputValue] = useState(questWallObject ? questWallObject.wall_level : 0);
   
