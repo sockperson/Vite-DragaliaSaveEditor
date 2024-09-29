@@ -1,4 +1,6 @@
 import React, {useState, useRef} from 'react';
+import { useSelector } from 'react-redux';
+
 import UserData_NumberField from './UserData_NumberField';
 import UserData_TextField from './UserData_TextField';
 import { Grid } from '@mui/material';
@@ -8,6 +10,42 @@ import Box from '@mui/material/Box';
 // doesn't really matter ig
 
 function UserData() {
+
+  const tutorialStatus = useSelector(state => state.jsonData.data.user_data.tutorial_status);
+  const tutorialFlagList = useSelector(state => state.jsonData.data.user_data.tutorial_flag_list);
+
+  const tutorialInfo = () => {
+    let tutorialStatusString = "Just started";
+    if (tutorialStatus >= 60999) {
+      tutorialStatusString = "Completed Tutorial";
+    } else if (tutorialStatus >= 11003) {
+      tutorialStatusString = "Completed Halidom Tutorial";
+    } else if (tutorialStatus >= 10711) {
+      tutorialStatusString = "Completed Wyrmprint Tutorial";
+    } else if (tutorialStatus >= 10601) {
+      tutorialStatusString = "Completed Upgrade Tutorial";
+    } else if (tutorialStatus >= 10301) {
+      tutorialStatusString = "Completed Team Building Tutorial";
+    }
+
+    let tutorialFlagString = "Just started";
+    if (tutorialFlagList.includes(1030)) {
+      tutorialFlagString = "Completed Tutorial";
+    } else if (tutorialFlagList.includes(1024)) {
+      tutorialFlagString = "Completed Weapons Tutorial";
+    } else if (tutorialFlagList.includes(1023)) {
+      tutorialFlagString = "Completed Wyrmprint Tutorial";
+    } else if (tutorialFlagList.includes(1001)) {
+      tutorialFlagString = "Completed Dragon Upgrade Tutorial";
+    }
+
+    return (
+      <div>
+        <p>Tutorial Status: {tutorialStatusString}, Tutorial Flags: {tutorialFlagString}</p>
+      </div>
+    );
+  }
+
   return (
     <div>
       <Box sx={{ border: '1px solid grey', borderRadius: '4px', p: 2 }}>
@@ -81,6 +119,7 @@ function UserData() {
           </Grid>
         </Grid>
       </Box>
+      {tutorialInfo()}
     </div>
   );
 }

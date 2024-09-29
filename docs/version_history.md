@@ -25,3 +25,9 @@
 
 # beta-1.2.2 (9/21/24)
 * Fix issue where editor throws when quest_wall_list is empty
+
+# beta-1.3 (9/29/24)
+* Show tutorial status in "User Data"
+* Make "List Max" buttons display a warning when tutorial is not maxed
+* Make "List Max" buttons max the tutorial when tutorial is not maxed
+* Remove Dream Summon vouchers from Summon Ticket list

@@ -608,6 +608,10 @@ const isDragonMaxed = (dragonObject, dragonMeta) => {
     return result;
 }
 
+const isTutorialMaxed = (tutorialStatus, tutorialFlagList) => {
+    return tutorialStatus >= 60999 && tutorialFlagList.includes(1030);
+}
+
 export default {
     getWeaponDetails,
     getNewWeapon,
@@ -629,5 +633,6 @@ export default {
     getMaxedDragon,
     getMaxedDragonFromExisting,
     isDragonMaxed,
+    isTutorialMaxed,
     getGetTime
 }

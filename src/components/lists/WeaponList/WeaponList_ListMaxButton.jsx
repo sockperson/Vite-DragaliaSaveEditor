@@ -22,7 +22,7 @@ import useDragaliaActions from '../../../util/DragaliaActionsUtils';
 function WeaponList_ListMaxButton() { 
   
   const dispatch = useDispatch();
-  const { addWeaponSkin, handleWeaponBuildupSkinsAll } = useDragaliaActions();
+  const { addWeaponSkin, handleWeaponBuildupSkinsAll, maxTutorial } = useDragaliaActions();
 
   const weaponMap = useContext(MappingContext).weaponMap;
   const weaponIds = new Set(Object.keys(weaponMap).map(key => parseInt(key, 10)));
@@ -30,6 +30,9 @@ function WeaponList_ListMaxButton() {
   const [isDialogOpen, setIsDialogOpen] = useState(false);
 
   const weaponList = useSelector(state => state.jsonData.data.weapon_body_list);
+
+  const tutorialFlagList = useSelector(state => state.jsonData.data.user_data.tutorial_flag_list);
+  const tutorialStatus = useSelector(state => state.jsonData.data.user_data.tutorial_status);
 
   const handleClickOpen = () => {
     setIsDialogOpen(true);
@@ -60,8 +63,18 @@ function WeaponList_ListMaxButton() {
     });
     dispatch(setList("weapon_body_list", newWeaponList));
     dispatch(setObjectObject("fort_bonus_list", "param_bonus_by_weapon", param_bonus_by_weapon));
+    if (!DragaliaUtils.isTutorialMaxed(tutorialStatus, tutorialFlagList)) {
+      maxTutorial();
+    }
   }
-  
+
+  const tutorialWarning = DragaliaUtils.isTutorialMaxed(tutorialStatus, tutorialFlagList) ? "" 
+    : "(This save file is flagged as not having completed all tutorials. Proceeding with this option will skip the tutorial.)";
+  const tutorialWarningText = <>
+    <br />
+    <span style={{ color: 'red' }}>{tutorialWarning}</span>
+  </>
+
   const props = {
     variant: 'contained',
     style: { backgroundColor: '#9c1e63' },
@@ -92,6 +105,7 @@ function WeaponList_ListMaxButton() {
         <DialogContent>
           <DialogContentText>
             Are you sure you want to max out all weapons?
+            {tutorialWarningText}
           </DialogContentText>
         </DialogContent>
         <DialogActions>

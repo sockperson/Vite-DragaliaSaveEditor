@@ -20,7 +20,7 @@ import useDragaliaActions from '../../../util/DragaliaActionsUtils';
 function CharaList_ListMaxButton() { 
   
   const dispatch = useDispatch();
-  const { maxAdventurer } = useDragaliaActions();
+  const { maxAdventurer, maxTutorial } = useDragaliaActions();
 
   const adventurerMap = useContext(MappingContext).adventurerMap;
   const adventurerIds = new Set(Object.keys(adventurerMap).map(key => parseInt(key, 10)));
@@ -33,6 +33,9 @@ function CharaList_ListMaxButton() {
     map[adventurer.chara_id] = adventurer;
     return map;
   }, {});
+
+  const tutorialFlagList = useSelector(state => state.jsonData.data.user_data.tutorial_flag_list);
+  const tutorialStatus = useSelector(state => state.jsonData.data.user_data.tutorial_status);
 
   const handleClickOpen = () => {
     setIsDialogOpen(true);
@@ -60,8 +63,18 @@ function CharaList_ListMaxButton() {
         setIsDialogOpen(false);
       }
     }, 10);
+    if (!DragaliaUtils.isTutorialMaxed(tutorialStatus, tutorialFlagList)) {
+      maxTutorial();
+    }
   };
   
+  const tutorialWarning = DragaliaUtils.isTutorialMaxed(tutorialStatus, tutorialFlagList) ? "" 
+  : "(This save file is flagged as not having completed all tutorials. Proceeding with this option will skip the tutorial.)";
+  const tutorialWarningText = <>
+    <br />
+    <span style={{ color: 'red' }}>{tutorialWarning}</span>
+  </>;
+
   const props = {
     variant: 'contained',
     style: { backgroundColor: '#9c1e63' },
@@ -99,6 +112,7 @@ function CharaList_ListMaxButton() {
           <DialogContent>
             <DialogContentText>
               Are you sure you want to max out all Adventurers?
+              {tutorialWarningText}
             </DialogContentText>
           </DialogContent>
           <DialogActions>

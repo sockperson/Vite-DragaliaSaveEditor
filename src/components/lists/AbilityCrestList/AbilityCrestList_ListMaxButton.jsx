@@ -15,9 +15,12 @@ import DialogTitle from '@mui/material/DialogTitle';
 import JsonUtils from '../../../util/JsonUtils';
 import DragaliaUtils from '../../../util/DragaliaUtils';
 
+import useDragaliaActions from '../../../util/DragaliaActionsUtils';
+
 function AbilityCrestList_ListMaxButton() { 
   
   const dispatch = useDispatch();
+  const { maxTutorial } = useDragaliaActions();
 
   const wyrmprintMap = useContext(MappingContext).wyrmprintMap;
   const wyrmprintIds = new Set(Object.keys(wyrmprintMap).map(key => parseInt(key, 10)));
@@ -25,6 +28,9 @@ function AbilityCrestList_ListMaxButton() {
   const [isDialogOpen, setIsDialogOpen] = useState(false);
 
   const wyrmprintList = useSelector(state => state.jsonData.data.ability_crest_list);
+
+  const tutorialFlagList = useSelector(state => state.jsonData.data.user_data.tutorial_flag_list);
+  const tutorialStatus = useSelector(state => state.jsonData.data.user_data.tutorial_status);
 
   const handleClickOpen = () => {
     setIsDialogOpen(true);
@@ -53,7 +59,17 @@ function AbilityCrestList_ListMaxButton() {
       );
     });
     dispatch(setList("ability_crest_list", newWyrmprintList));
+    if (!DragaliaUtils.isTutorialMaxed(tutorialStatus, tutorialFlagList)) {
+      maxTutorial();
+    }
   }
+
+  const tutorialWarning = DragaliaUtils.isTutorialMaxed(tutorialStatus, tutorialFlagList) ? "" 
+    : "(This save file is flagged as not having completed all tutorials. Proceeding with this option will skip the tutorial.)";
+  const tutorialWarningText = <>
+    <br />
+    <span style={{ color: 'red' }}>{tutorialWarning}</span>
+  </>;
   
   const props = {
     variant: 'contained',
@@ -85,6 +101,7 @@ function AbilityCrestList_ListMaxButton() {
         <DialogContent>
           <DialogContentText>
             Are you sure you want to max out all Wyrmprints?
+            {tutorialWarningText}
           </DialogContentText>
         </DialogContent>
         <DialogActions>
