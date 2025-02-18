@@ -32,3 +32,6 @@
 * Make "List Max" buttons max the tutorial when tutorial is not maxed
 * Remove Dream Summon vouchers from Summon Ticket list
 * Fix import/export duplicate weapon_passive_id's (1.3.1)
+
+# beta-1.3.2 (2/17/25)
+* fix crash when loading savefile with dragon with nonexistent ID
