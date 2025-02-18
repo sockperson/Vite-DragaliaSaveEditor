@@ -206,27 +206,7 @@ const useDragaliaActions = () => {
             return;
         }
 
-        const toMax = id === ARSENE; // Arsene can only be maxed
-
-        const time = DragaliaUtils.getGetTime(null);
-        let reliability;
-        if (toMax) {
-            reliability = {
-                "dragon_id": id,
-                "gettime": time,
-                "reliability_level": 30,
-                "reliability_total_exp": 36300,
-                "last_contact_time": time
-            };
-        } else {
-            reliability = {
-                "dragon_id": id,
-                "gettime": time,
-                "reliability_level": 1,
-                "reliability_total_exp": 0,
-                "last_contact_time": time
-            };
-        }
+        const reliability = DragaliaUtils.getDragonReliability(id);
         dispatch(addJsonDataListObject("dragon_reliability_list", reliability));
         console.log(`Added new reliability entry for dragon: ${dragonMeta.FullName} (${id})`);
     }

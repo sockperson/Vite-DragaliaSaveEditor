@@ -600,6 +600,35 @@ const getMaxedDragonFromExisting = (dragonMeta, dragonObject) => {
     }
 }
 
+const ARSENE = 20050522;
+
+const getDragonReliability = (dragonMeta) => {
+    const id = dragonMeta.Id;
+    const toMax = id === ARSENE; // Arsene can only be maxed
+
+    const time = getGetTime(null);
+    let reliability;
+    if (toMax) {
+        reliability = {
+            "dragon_id": id,
+            "gettime": time,
+            "reliability_level": 30,
+            "reliability_total_exp": 36300,
+            "last_contact_time": time
+        };
+    } else {
+        reliability = {
+            "dragon_id": id,
+            "gettime": time,
+            "reliability_level": 1,
+            "reliability_total_exp": 0,
+            "last_contact_time": time
+        };
+    }
+
+    return reliability;
+}
+
 const isDragonMaxed = (dragonObject, dragonMeta) => {
     const maxedDragon = getMaxedDragonFromExisting(dragonMeta, dragonObject);
     const saveObj = removeProperties(dragonObject, "get_time", "dragon_key_id", "is_lock", "is_new");
@@ -632,6 +661,7 @@ export default {
     getNewDragon,
     getMaxedDragon,
     getMaxedDragonFromExisting,
+    getDragonReliability,
     isDragonMaxed,
     isTutorialMaxed,
     getGetTime

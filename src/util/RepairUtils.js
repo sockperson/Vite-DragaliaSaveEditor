@@ -15,6 +15,7 @@ const useRepairUtils = (maps) => {
     const unitStoryList = useSelector(state => state.jsonData.data.unit_story_list);
     const dragonReliabilityList = useSelector(state => state.jsonData.data.dragon_reliability_list);
     const weaponPassiveAbilityList = useSelector(state => state.jsonData.data.weapon_passive_ability_list);
+    const albumDragonList = useSelector(state => state.jsonData.data.album_dragon_list);
 
     const repairDragonStories = () => {
         let out = "Added stories: ";
@@ -67,9 +68,31 @@ const useRepairUtils = (maps) => {
         return [repaired, out];
     }
 
+
+    // TODO this doesn't work yet, I think?
+    const repairMissingDragonReliability = () => {
+        let repaired = false;
+        let out = "";
+
+        const albumDragonSet = JsonUtils.getSetFromList(albumDragonList, "dragon_id");
+        const dragonReliabilitySet = JsonUtils.getSetFromList(dragonReliabilityList, "dragon_id");
+        const missingBondDragons = JsonUtils.subtractSets(albumDragonSet, dragonReliabilitySet);
+        if (missingBondDragons.size > 0) {
+            out = `Added missing dragon reliabilities: ${Array.from(missingBondDragons).slice(0, 5).join(", ")}`;
+            for (const dragonId of missingBondDragons) {
+                const reliability = DragaliaUtils.getDragonReliability(dragonId);
+                console.log(reliability);
+                dispatch(addJsonDataListObject("dragon_reliability_list", reliability));
+            }
+            repaired = true;
+        }
+        return [repaired, out];
+    }
+
     return { 
         repairDragonStories,
-        repairDupeWeaponPassiveAbilityIds
+        repairDupeWeaponPassiveAbilityIds,
+        repairMissingDragonReliability
     };
 };
 

@@ -69,7 +69,10 @@ function DragonList() {
       const dragon = dragonList.find(dragonObject => dragonObject["dragon_key_id"] === keyId);
       const fullId = dragon.dragon_id;
       const dragonMeta = dragonMap[fullId];
-      if (dragonMeta.ElementalTypeId === activeElementType) {
+      if (dragonMeta == undefined) {
+        console.warn(`DragonList: No dragon with id ${fullId} found for dragon keyId ${keyId}`);
+      }
+      else if (dragonMeta.ElementalTypeId === activeElementType) {
         out.push({ dragonKeyId: keyId, dragonMeta: dragonMeta });
       }
     }
