@@ -1,5 +1,5 @@
-import { 
-  UPDATE_JSON_DATA, UPDATE_OBJECT_FIELD, UPDATE_LIST_FIELD, 
+import {
+  UPDATE_JSON_DATA, UPDATE_OBJECT_FIELD, UPDATE_LIST_FIELD,
   ADD_LIST_OBJECT, REPLACE_LIST_OBJECT, SET_LIST,
   ADD_EDITOR_INFOS, REMOVE_LIST_OBJECT, RESET_LIST_OBJECT_LIST_FIELD,
   ADD_TO_OBJECT_LIST_OBJECT_FIELD, SET_OBJECT_OBJECT,
@@ -153,7 +153,7 @@ function jsonDataReducer(state = initialState, action) {
         if (!found) {
           console.warn(`Item with ${idFieldName}=${id} not found in ${listName}.`);
         }
-        break; 
+        break;
       }
       case SET_OBJECT_OBJECT: {
         const { objectName, objectName2, object } = action.payload;
@@ -176,5 +176,5 @@ function jsonDataReducer(state = initialState, action) {
     }
   });
 }
-  
+
 export default jsonDataReducer;
