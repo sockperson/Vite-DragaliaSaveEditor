@@ -120,6 +120,7 @@ function ExportButton() {
                         }
                     }
                 );
+                console.log("Result JSON data:", JSON.stringify(jsonData.data));
                 return (
                     <div className="export-fail-message">
                         <p>Unable to validate export save! (Test failures)</p>

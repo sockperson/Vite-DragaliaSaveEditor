@@ -625,7 +625,6 @@ const getDragonReliability = (dragonMeta) => {
             "last_contact_time": time
         };
     }
-
     return reliability;
 }
 

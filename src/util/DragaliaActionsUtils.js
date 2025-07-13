@@ -206,7 +206,7 @@ const useDragaliaActions = () => {
             return;
         }
 
-        const reliability = DragaliaUtils.getDragonReliability(id);
+        const reliability = DragaliaUtils.getDragonReliability(dragonMeta);
         dispatch(addJsonDataListObject("dragon_reliability_list", reliability));
         console.log(`Added new reliability entry for dragon: ${dragonMeta.FullName} (${id})`);
     }
@@ -227,8 +227,6 @@ const useDragaliaActions = () => {
         
         // add new dragon
         dispatch(addJsonDataListObject("dragon_list", dragon));
-
-        
         if (owned) { // if dragon owned, update encyclopedia entry
             handleDragonEncyclopedia(dragon);
         } else { // if dragon not owned, handle new encyclopedia entry, new reliability entry

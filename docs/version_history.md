@@ -35,3 +35,6 @@
 
 # beta-1.3.2 (2/17/25)
 * fix crash when loading savefile with dragon with nonexistent ID
+
+# beta-1.3.3 (7/12/25)
+* fix bug with adding missing dragon reliability entry
