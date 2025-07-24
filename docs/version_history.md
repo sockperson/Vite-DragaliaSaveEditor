@@ -38,3 +38,6 @@
 
 # beta-1.3.3 (7/12/25)
 * fix bug with adding missing dragon reliability entry
+
+# beta-1.3.4 (7/24/25)
+* fix bug where story units dont get their shared skill unlocked by default

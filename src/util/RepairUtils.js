@@ -6,6 +6,8 @@ import { addJsonDataListObject, replaceJsonDataListObject, addToObjectListObject
     setList
  } from '../actions/JsonDataActions';
 
+import { StoryAdventurerNames } from '../definitions/Definitions';
+
 import JsonUtils from './JsonUtils';
 import DragaliaUtils from './DragaliaUtils';
 
@@ -16,6 +18,7 @@ const useRepairUtils = (maps) => {
     const dragonReliabilityList = useSelector(state => state.jsonData.data.dragon_reliability_list);
     const weaponPassiveAbilityList = useSelector(state => state.jsonData.data.weapon_passive_ability_list);
     const albumDragonList = useSelector(state => state.jsonData.data.album_dragon_list);
+    const charaList = useSelector(state => state.jsonData.data.chara_list);
 
     const repairDragonStories = () => {
         let out = "Added stories: ";
@@ -89,10 +92,43 @@ const useRepairUtils = (maps) => {
         return [repaired, out];
     }
 
+    const repairMissingStoryAdventurerSharedSkills = () => {
+        let repaired = false;
+        let out = "";
+
+        for (const adventurer of charaList) {
+            const adventurerMeta = maps.adventurerMap[adventurer.chara_id];
+
+            if (!adventurerMeta) {
+                console.warn(`Missing adventurer meta for chara_id: ${adventurer.chara_id}`);
+                continue;
+            }
+
+            const adventurerDetails = DragaliaUtils.getAdventurerDetails(adventurerMeta);
+
+            if (!adventurerDetails.hasSkillShareUnlockedByDefault) {
+                continue;
+            }
+
+            if (adventurer.is_unlock_edit_skill == 0) {
+                const updatedAdventurer = {
+                    ...adventurer,
+                    is_unlock_edit_skill: 1
+                };
+                dispatch(replaceJsonDataListObject("chara_list", "chara_id", updatedAdventurer));
+                repaired = true;
+                out += `Updated ${adventurerMeta.FullName} to unlock skill share, `;
+            }
+        }
+        out = out.slice(0, -2);
+        return [repaired, out];
+    }
+
     return { 
         repairDragonStories,
         repairDupeWeaponPassiveAbilityIds,
-        repairMissingDragonReliability
+        repairMissingDragonReliability,
+        repairMissingStoryAdventurerSharedSkills
     };
 };
 

@@ -47,3 +47,6 @@ export const DragonSellAmounts = Object.freeze({
     4: 2200,
     5: 8500
 });
+
+export const StoryAdventurerNames = ["The Prince", "Elisanne", "Ranzal", "Cleo", 
+    "Luca", "Alex", "Laxi", "Chelle", "Zena"];

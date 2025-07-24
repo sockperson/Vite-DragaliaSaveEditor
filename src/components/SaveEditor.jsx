@@ -137,7 +137,8 @@ function SaveEditor({ editorVersion }) {
   const { 
     repairDragonStories,
     repairDupeWeaponPassiveAbilityIds,
-    repairMissingDragonReliability
+    repairMissingDragonReliability,
+    repairMissingStoryAdventurerSharedSkills
   } = useRepairUtils(maps);
 
   // handle repairing save data if needed
@@ -148,6 +149,7 @@ function SaveEditor({ editorVersion }) {
         await runRepair(results, repairDragonStories);
         await runRepair(results, repairDupeWeaponPassiveAbilityIds);
         // await runRepair(results, repairMissingDragonReliability);
+        await runRepair(results, repairMissingStoryAdventurerSharedSkills);
         setRepairResults(results);
       };
       repairSave();

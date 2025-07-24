@@ -1,5 +1,6 @@
 import { WeaponSeries } from '../enum/Enums';
 import { WeaponLevelCaps } from '../definitions/Definitions';
+import { StoryAdventurerNames } from '../definitions/Definitions';
 import JsonUtils from './JsonUtils';
 
 // Utility class to handle Dragalia Lost objects
@@ -290,8 +291,6 @@ const getWeaponBonus = (weaponMeta) => {
 }
 
 const MEGA_MAN = 10750102;
-const storyAdventurerNames = ["The Prince", "Elisanne", "Ranzal", "Cleo", 
-    "Luca", "Alex", "Laxi", "Chelle", "Zena"];
 
 const getAdventurerDetails = (adventurerMeta) => {
     const hasManaSpiral = adventurerMeta.ManaSpiralDate !== null;
@@ -378,7 +377,7 @@ const getAdventurerDetails = (adventurerMeta) => {
     }
 
     const hasSkillShare = adventurerMeta.EditSkillCost !== 0;
-    const isStoryAdventurer = storyAdventurerNames.includes(adventurerMeta.Name);
+    const isStoryAdventurer = StoryAdventurerNames.includes(adventurerMeta.FullName);
     const hasSkillShareUnlockedByDefault = isStoryAdventurer && hasSkillShare;
 
     return {
